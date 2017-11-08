@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import DrugSearch from '../components/DrugSearch';
 
@@ -7,7 +8,7 @@ export default class Home extends React.Component {
     return(
       <div>
         <h1>Home</h1>
-        <DrugSearch />
+        <DrugSearch value='' />
       </div>
     );
   }

@@ -8,6 +8,7 @@ import {
 import Layout from './pages/Layout';
 
 import Home from './pages/Home';
+import DrugPage from './pages/DrugPage';
 
 import './css/style.css';
 
@@ -17,6 +18,7 @@ class App extends Component {
       <Router>
         <Layout>
           <Route exact path="/" component={Home} />
+          <Route path="/drug/:name" component={DrugPage} />
         </Layout>
       </Router>
     );
