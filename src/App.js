@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import {
   BrowserRouter as Router,
-  Route,
-  Link
+  Route
 } from 'react-router-dom';
 
 import Layout from './pages/Layout';
@@ -18,6 +17,7 @@ class App extends Component {
       <Router>
         <Layout>
           <Route exact path="/" component={Home} />
+          <Route exact path="/drug" component={Home} />
           <Route path="/drug/:name" component={DrugPage} />
         </Layout>
       </Router>

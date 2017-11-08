@@ -35,7 +35,7 @@ class PlanStore extends EventEmitter {
   }
 }
 
-const planStore = new PlanStore;
+const planStore = new PlanStore();
 
 dispatcher.register(planStore.handleActions.bind(planStore));
 

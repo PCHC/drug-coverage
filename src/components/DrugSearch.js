@@ -1,9 +1,7 @@
 import React from 'react';
 
-import * as DrugActions from '../actions/DrugActions';
 import DrugStore from '../stores/DrugStore';
 import Autocomplete from 'react-autocomplete';
-import { Route, Redirect } from 'react-router'
 
 export default class DrugSearch extends React.Component {
   constructor(props) {
@@ -52,7 +50,7 @@ export default class DrugSearch extends React.Component {
     this.setState({
       value
     });
-    window.location.href = '/drug/' + item.key;
+    window.location.href = '/drug/' + item.name;
   }
 
   render() {
@@ -61,9 +59,9 @@ export default class DrugSearch extends React.Component {
     return(
       <Autocomplete
         value={this.state.value}
-        inputProps={{ id: 'drugs-autocomplete', class: 'form-control form-control-lg' }}
+        inputProps={{ id: 'drugs-autocomplete', className: 'form-control form-control-lg', placeholder: 'Search Drug Name...' }}
         wrapperStyle={{ position: 'relative' }}
-        wrapperProps={{ class: 'drugs-autocomplete' }}
+        wrapperProps={{ className: 'drugs-autocomplete' }}
         items={drugs}
         getItemValue={(item) => item.name}
         shouldItemRender={this.matchDrugToTerm}
@@ -71,16 +69,16 @@ export default class DrugSearch extends React.Component {
         onChange={(event, value) => this.setState({ value })}
         onSelect={(value, item) => this.onSelect(value, item)}
         renderMenu={children => (
-          <div className="menu">
+          <ul className="list-group">
             {children}
-          </div>
+            <li className="list-group-item text-muted">If you are unable to find a drug, contact Chelsea Magee at ext. 2088</li>
+          </ul>
         )}
-        open={true}
         renderItem={(item, isHighlighted) => (
-          <div
-            className={`item ${isHighlighted ? 'item-highlighted' : ''}`}
+          <li
+            className={`list-group-item ${isHighlighted ? 'active' : ''}`}
             key={item.key}
-          >{item.name}</div>
+          >{item.name}</li>
         )}
       />
     );

@@ -41,13 +41,29 @@ export default class DrugPage extends React.Component {
     const {match} = this.props;
     const {drug} = this.state;
 
+    if(!drug) {
+      return(
+        <div>
+          <h2 className="display-4">No Drug '{match.params.name}' Found</h2>
+          <DrugSearch value='' />
+        </div>
+      );
+    }
+
     return(
       <div>
-        <h1>Drug</h1>
-        <DrugSearch value={drug.name} />
-        { drug ?
-          <DrugTable drugName={drug.name} isPreventative={drug.preventative} cost={drug.cost} tier={drug.tier} />
-        : <p>Drug not found</p> }
+        <div className="row">
+          <div className="col-6">
+            <h2 className="display-4">{drug.name}</h2>
+            <p className={`lead text-${drug.preventative ? 'success' : 'info'}`}>
+              {drug.preventative ? 'Preventative' : 'Non-Preventative'}
+            </p>
+          </div>
+          <div className="col">
+            <DrugSearch value='' />
+          </div>
+        </div>
+        <DrugTable drugName={drug.name} isPreventative={drug.preventative} cost={drug.cost} tier={drug.tier} />
       </div>
     );
   }

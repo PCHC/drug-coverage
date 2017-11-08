@@ -1,7 +1,5 @@
 import React from 'react';
 
-import * as TierActions from '../../actions/TierActions';
-import TierStore from '../../stores/TierStore';
 import PlanStore from '../../stores/PlanStore';
 
 export default class DrugRow extends React.Component {
@@ -31,16 +29,16 @@ export default class DrugRow extends React.Component {
 
   render() {
     const { plan } = this.state;
-    const { name, tier, cost } = this.props;
-    const drugCost = plan[tier];
+    const { tier, cost } = this.props;
+    const drugCost = plan ? plan[tier] : cost;
 
     return(
-      <tr>
-        <td>{ name }</td>
+      <tr className={ plan ? '' : 'table-secondary' }>
+        <th scope="row">{ this.props.children }</th>
         <td>${ drugCost }</td>
-        <td>${ drugCost*2 }</td>
+        <td>${ plan ? drugCost*2 : drugCost*3 }</td>
         <td>${ drugCost*12 }</td>
-        <td>${ drugCost*6 }</td>
+        <td>{ plan ? '$' + drugCost*6 : '-' }</td>
       </tr>
     );
   }

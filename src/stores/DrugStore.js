@@ -23,7 +23,7 @@ class DrugStore extends EventEmitter {
     const drugs = this.drugs;
 
     return drugs.find(function(drug) {
-      return drug.key === key;
+      return drug.key === key ? drug.key === key : drug.name === key;
     });
   }
 
@@ -40,20 +40,26 @@ class DrugStore extends EventEmitter {
       case 'RECEIVE_DRUGS': {
         this.drugs = action.drugs;
         this.emit('change');
+        break;
       }
       case 'RECEIVE_TIERCOSTS': {
         this.tiercosts = action.tiercosts;
         this.emit('change');
+        break;
       }
       case 'GET_DRUG': {
         this.getDrug(action.drug);
         this.emit('change');
+        break;
+      }
+      default: {
+        return true;
       }
     }
   }
 }
 
-const drugStore = new DrugStore;
+const drugStore = new DrugStore();
 
 dispatcher.register(drugStore.handleActions.bind(drugStore));
 
