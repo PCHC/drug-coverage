@@ -3,7 +3,8 @@ import { EventEmitter } from 'events';
 // Store gets Actions from the Dispatcher and sends changes to the Component
 
 import dispatcher from '../dispatcher';
-import DrugList from '../data/DrugList';
+//import DrugList from '../data/DrugList';
+import DrugList from '../data/DummyDrugList';
 import TierCostList from '../data/TierCostList';
 
 class DrugStore extends EventEmitter {

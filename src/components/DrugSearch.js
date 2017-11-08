@@ -50,7 +50,7 @@ export default class DrugSearch extends React.Component {
     this.setState({
       value
     });
-    window.location.href = '/drug/' + item.name;
+    window.location.href = '/drug/' + item.key;
   }
 
   render() {
