@@ -3,10 +3,6 @@ import React from 'react';
 import DrugRow from './drugtable/DrugRow';
 
 export default class DrugTable extends React.Component {
-  constructor(props) {
-    super();
-  }
-
   render() {
     return(
       <table className="table table-hover">

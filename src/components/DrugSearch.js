@@ -1,30 +1,17 @@
 import React from 'react';
 
-import DrugStore from '../stores/DrugStore';
+import * as DrugActions from '../actions/DrugActions';
 import Autocomplete from 'react-autocomplete';
+import { Link } from 'react-router-dom';
 
 export default class DrugSearch extends React.Component {
   constructor(props) {
     super();
 
-    this.getDrugs = this.getDrugs.bind(this);
-
-    this.drugs = DrugStore.getAllDrugs();
+    this.drugs = props.drugs;
     this.state = {
       value: props.value
     }
-  }
-
-  componentWillMount() {
-    DrugStore.on('change', this.getDrugs);
-  }
-
-  componentWillUnmount() {
-    DrugStore.removeListener('change', this.getDrugs);
-  }
-
-  getDrugs() {
-    this.drugs = DrugStore.getAllDrugs();
   }
 
   matchDrugToTerm(drug, value) {
@@ -50,7 +37,9 @@ export default class DrugSearch extends React.Component {
     this.setState({
       value
     });
-    window.location.href = '/drug/' + item.key;
+    console.log('lookupDrug');
+    DrugActions.lookupDrug(item.key);
+    //window.location.href = '/drug/' + item.key;
   }
 
   render() {
@@ -69,16 +58,19 @@ export default class DrugSearch extends React.Component {
         onChange={(event, value) => this.setState({ value })}
         onSelect={(value, item) => this.onSelect(value, item)}
         renderMenu={children => (
-          <ul className="list-group">
+          <div className="list-group">
             {children}
-            <li className="list-group-item text-muted">If you are unable to find a drug, contact Chelsea Magee at ext. 2088</li>
-          </ul>
+            <li className="list-group-item text-muted">If you are unable to find a drug, contact Chelsea Magee at cmagee@pchc.com or ext. 2088</li>
+          </div>
         )}
         renderItem={(item, isHighlighted) => (
-          <li
-            className={`list-group-item ${isHighlighted ? 'active' : ''}`}
+          <Link
+            to={{
+              pathname: '/drug/' + item.key,
+            }}
+            className={`list-group-item list-group-item-action ${isHighlighted ? 'active' : ''}`}
             key={item.key}
-          >{item.name}</li>
+          >{item.name}</Link>
         )}
       />
     );

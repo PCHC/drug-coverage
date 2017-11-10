@@ -3,13 +3,13 @@ import { EventEmitter } from 'events';
 // Store gets Actions from the Dispatcher and sends changes to the Component
 
 import dispatcher from '../dispatcher';
-import PlanCostList from '../data/PlanCostList';
+import TierCostList from '../data/TierCostList';
 
 class PlanStore extends EventEmitter {
   constructor() {
     super();
 
-    this.plans = PlanCostList;
+    this.plans = TierCostList;
     this.plan = {}
   }
 
@@ -17,17 +17,33 @@ class PlanStore extends EventEmitter {
     return this.plans;
   }
 
-  getPlan(isPreventative, plankey) {
-    const preventativeName = isPreventative ? 'preventative' : 'nonpreventative';
-
+  lookupPlan(drug) {
+    const preventativeName = drug.preventative ? 'preventative' : 'nonpreventative';
     const type = this.plans[preventativeName];
-    const plan = type[plankey];
+    const plan = type[drug.tier];
     this.plan = plan;
+    return this.plan;
+  }
+
+  getPlan() {
     return this.plan;
   }
 
   handleActions(action) {
     switch(action.type) {
+      case 'LOAD_PLAN': {
+        this.getPlan(action.plan);
+        break;
+      }
+      case 'LOOKUP_PLAN': {
+        this.lookupPlan(action.drug);
+        this.emit('change');
+        break;
+      }
+      case 'GET_PLAN': {
+        this.getPlan();
+        break;
+      }
       default: {
         return true;
       }

@@ -19,9 +19,22 @@ export function loadTierCosts(type) {
   })
 }
 
-export function getDrug(drug) {
+export function getDrug() {
   dispatcher.dispatch({
-    type: "GET_DRUG",
+    type: "GET_DRUG"
+  });
+}
+
+export function lookupDrug(drug) {
+  dispatcher.dispatch({
+    type: "LOOKUP_DRUG",
     drug
+  });
+}
+
+export function getPlan(plan) {
+  dispatcher.dispatch({
+    type: "GET_PLAN",
+    plan
   });
 }

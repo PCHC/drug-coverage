@@ -5,15 +5,16 @@ import { EventEmitter } from 'events';
 import dispatcher from '../dispatcher';
 //import DrugList from '../data/DrugList';
 import DrugList from '../data/DummyDrugList';
-import TierCostList from '../data/TierCostList';
+import PlanCostList from '../data/PlanCostList';
 
 class DrugStore extends EventEmitter {
   constructor() {
     super();
 
     this.drugs = DrugList;
-    this.tiercosts = TierCostList;
+    this.plans = PlanCostList;
     this.drug = {};
+    this.plan = {};
   }
 
   getAllDrugs() {
@@ -28,12 +29,23 @@ class DrugStore extends EventEmitter {
     });
   }
 
-  getDrug(key) {
+  lookupDrug(key) {
     const drug = this.findDrug(key);
-
     this.drug = drug;
-
     return this.drug;
+  }
+
+  getDrug(){
+    return this.drug;
+  }
+
+  getPlan(p) {
+    const preventativeName = p.isPreventative ? 'preventative' : 'nonpreventative';
+
+    const type = this.plans[preventativeName];
+    const plan = type[p.plankey];
+    this.plan = plan;
+    return this.plan;
   }
 
   handleActions(action) {
@@ -48,9 +60,17 @@ class DrugStore extends EventEmitter {
         this.emit('change');
         break;
       }
-      case 'GET_DRUG': {
-        this.getDrug(action.drug);
+      case 'LOOKUP_DRUG': {
+        this.lookupDrug(action.drug);
         this.emit('change');
+        break;
+      }
+      case 'GET_DRUG': {
+        this.getDrug();
+        break;
+      }
+      case 'GET_PLAN': {
+        this.getPlan(action.plan);
         break;
       }
       default: {
