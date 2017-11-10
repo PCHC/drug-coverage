@@ -37,7 +37,6 @@ export default class DrugSearch extends React.Component {
     this.setState({
       value
     });
-    console.log('lookupDrug');
     DrugActions.lookupDrug(item.key);
     //window.location.href = '/drug/' + item.key;
   }
