@@ -14,7 +14,7 @@ export default class DrugPage extends React.Component {
     if(!drug) {
       return(
         <div>
-          <h2 className="display-4">No Drug '{match.params.name}' Found</h2>
+          <h2>No Drug '{match.params.name}' Found</h2>
           <DrugSearch value='' {...this.props} />
         </div>
       );
@@ -24,7 +24,7 @@ export default class DrugPage extends React.Component {
       <div>
         <div className="row">
           <div className="col-6">
-            <h2 className="display-4">{drug.name}</h2>
+            <h2>{drug.name}</h2>
             <p className={`lead text-${drug.preventative ? 'success' : 'info'}`}>
               {drug.preventative ? 'Preventative' : 'Non-Preventative'}
             </p>
