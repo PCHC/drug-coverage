@@ -28,6 +28,12 @@ export default class DrugPage extends React.Component {
             <p className={`lead text-${drug.preventative ? 'success' : 'info'}`}>
               {drug.preventative ? 'Preventative' : 'Non-Preventative'}
             </p>
+            { drug.tier >= 3 ?
+              <p className="text-danger">This medication may require a prior authorization from the prescriber in order to be covered at the listed copay.</p>
+              : null }
+            { !drug.preventative ?
+              <p>Employees on High Deductible plans will be responsible for the full cost of these medications until they reach their deductible.</p>
+            : null }
           </div>
           <div className="col">
             <DrugSearch value='' {...this.props} />

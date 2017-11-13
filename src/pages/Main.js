@@ -72,7 +72,8 @@ export default class Main extends React.Component {
         }
         <hr />
         <p className="text-center text-info">These are estimates based on average 30-day supplies to help employees gauge how much their prescriptions could cost for  2018.<br/>
-        Individual prescriptions may cost more or less than estimated and costs of medications are subject to change as low-cost medications change and drug costs rise.</p>
+        Individual prescriptions may cost more or less than estimated.<br/>
+        Costs of medications are subject to change as low-cost medications change and drug costs rise.</p>
       </div>
     );
   }

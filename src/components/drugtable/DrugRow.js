@@ -23,7 +23,7 @@ export default class DrugRow extends React.Component {
           drug.preventative || !isHDHP || (isHDHP && isHDHPbase) ? '$' + drugCost*12 : '-'
         }</td>
         <td>{
-          drug.preventative || !isHDHP ? '$' + drugCost*6 : '-'
+          drug.preventative || !isHDHP ? '$' + drugCost*8 : '-'
         }</td>
       </tr>
     );

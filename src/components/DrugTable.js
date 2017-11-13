@@ -4,6 +4,8 @@ import DrugRow from './drugtable/DrugRow';
 
 export default class DrugTable extends React.Component {
   render() {
+    const { preventative } = this.props.drug;
+
     return(
       <table className="table table-hover">
         <thead className="thead-dark">
@@ -23,16 +25,16 @@ export default class DrugTable extends React.Component {
             PPO Choice
           </DrugRow>
           <DrugRow planKey="hdhp" isHDHP={true} rowClass="light" {...this.props}>
-            HDHP<br />
-            <small>Until Deductible Reached</small>
+            HDHP
+            { !preventative ? <span><br/><small>Until Deductible Reached</small></span> : null }
           </DrugRow>
           <DrugRow planKey="hdhphome" isHDHP={true} rowClass="info" {...this.props}>
-            HDHP Home<br />
-            <small>After Deductible Reached</small>
+            HDHP Home
+            { !preventative ? <span><br/><small>Until Deductible Reached</small></span> : null }
           </DrugRow>
           <DrugRow planKey="hdhpchoice" isHDHP={true} rowClass="danger" {...this.props}>
-            HDHP Choice<br />
-            <small>After Deductible Reached</small>
+            HDHP Choice
+            { !preventative ? <span><br/><small>Until Deductible Reached</small></span> : null }
           </DrugRow>
         </tbody>
       </table>
