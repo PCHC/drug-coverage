@@ -16,21 +16,21 @@ export default class DrugTable extends React.Component {
           </tr>
         </thead>
         <tbody>
-          <DrugRow planKey="ppohome" rowClass="warning" {...this.props}>
+          <DrugRow planKey="ppohome" isHDHP={false} rowClass="warning" {...this.props}>
             PPO Home
           </DrugRow>
-          <DrugRow planKey="ppochoice" rowClass="success" {...this.props}>
+          <DrugRow planKey="ppochoice" isHDHP={false} rowClass="success" {...this.props}>
             PPO Choice
           </DrugRow>
-          <DrugRow planKey="hdhp" rowClass="light" {...this.props}>
+          <DrugRow planKey="hdhp" isHDHP={true} rowClass="light" {...this.props}>
             HDHP<br />
             <small>Until Deductible Reached</small>
           </DrugRow>
-          <DrugRow planKey="hdhphome" rowClass="info" {...this.props}>
+          <DrugRow planKey="hdhphome" isHDHP={true} rowClass="info" {...this.props}>
             HDHP Home<br />
             <small>After Deductible Reached</small>
           </DrugRow>
-          <DrugRow planKey="hdhpchoice" rowClass="danger" {...this.props}>
+          <DrugRow planKey="hdhpchoice" isHDHP={true} rowClass="danger" {...this.props}>
             HDHP Choice<br />
             <small>After Deductible Reached</small>
           </DrugRow>
