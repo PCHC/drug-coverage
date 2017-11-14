@@ -3,6 +3,7 @@
 A tool to help employees with PCHC health insurance coverage estimate the costs of their medication.
 
 Deployed to AWS at [https://d2kn9ewnk6cggt.cloudfront.net](https://d2kn9ewnk6cggt.cloudfront.net).
+Bleeding-edge deployment at http://pchcmedlist-hosting-mobilehub-994474970.s3-website-us-east-1.amazonaws.com/.
 
 Questions about this code? Contact Chris Violette at [cviolette@pchc.com](mailto:cviolette@pchc.com) or extension 1298.
 
