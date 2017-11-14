@@ -3,7 +3,7 @@ import React from 'react';
 export default class Disclaimer extends React.Component {
   render() {
     return(
-      <aside>
+      <aside className="font-weight-normal">
         <hr />
         <div className="container">
           <p className="text-center text-info">These are estimates based on average 30-day supplies to help employees gauge how much their prescriptions could cost for  2018.<br/>
