@@ -1,7006 +1,7006 @@
 const DrugList = [
   {
-    "key": "7cb5d547",
+    "key": "ieox2usr",
     "name": "Abilify",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8dea3f5e",
+    "key": "7lxiv98d",
     "name": "Acamprosate Calcium",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "41eab1ff",
+    "key": "esixgn0c",
     "name": "Acarbose",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c9869f45",
+    "key": "7jg33iye",
     "name": "Accolate",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "73a06acd",
+    "key": "uuiuhk1e",
     "name": "Accupril",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "246b6456",
+    "key": "cifjy48x",
     "name": "Accuretic",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f91e6eef",
+    "key": "iottu81r",
     "name": "Acebutolol",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "23cbe553",
+    "key": "z9sbsq3j",
     "name": "Aceon",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c5e93712",
+    "key": "gmgsm69n",
     "name": "Acetazolamide 250mg",
     "preventative": false,
     "tier": 3,
     "cost": 79.81
   },
   {
-    "key": "7a4592d3",
+    "key": "p8diyp0h",
     "name": "Actonel",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "62d978a3",
+    "key": "02pe6zoj",
     "name": "Actoplus Met",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "67fa65e9",
+    "key": "d6xfcovt",
     "name": "Actoplus Met Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "22a28a9a",
+    "key": "7sjandx5",
     "name": "Actos",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "2fc21f48",
+    "key": "z49jlajx",
     "name": "Acyclovir 200mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.65
   },
   {
-    "key": null,
+    "key": "uqx3bfie",
     "name": "Acyclovir 400mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.39
   },
   {
-    "key": "70ddd21c",
+    "key": "cwi8zvb6",
     "name": "Adalat Cc",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "50e139e8",
+    "key": "ljfcdgmc",
     "name": "Adderall Xr 20mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "f0cbb832",
+    "key": "pyoisflf",
     "name": "Adipex P",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "143c0fbd",
+    "key": "ojb8lytl",
     "name": "Adlyxin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e5001354",
+    "key": "1g6v8g5a",
     "name": "Advair",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "4067758c",
+    "key": "9ftwqntx",
     "name": "Advair Hfa",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1c4a573c",
+    "key": "bh5lmopy",
     "name": "Aerospan",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a8d765e8",
+    "key": "ibx3j9vp",
     "name": "Afrezza",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6455b60f",
+    "key": "fva94nbu",
     "name": "Aggrenox",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f9241206",
+    "key": "z8s1ajit",
     "name": "Albuterol 0 083 Nebs",
     "preventative": false,
     "tier": 1,
     "cost": 14.22
   },
   {
-    "key": "10fdf744",
+    "key": "bv0triv3",
     "name": "Aldactazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8f17ca1f",
+    "key": "oklork6p",
     "name": "Alendronate",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "7e1e9d7c",
+    "key": "c7sk0b9k",
     "name": "Alfuzosin Er 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.16
   },
   {
-    "key": "dc9018b3",
+    "key": "6ohlvn1w",
     "name": "All Blood Glucose Monitors",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "deae18ea",
+    "key": "0xc5yix7",
     "name": "All Blood Glucose Strips",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1eeb6b3d",
+    "key": "894c2iwd",
     "name": "All Control Solutions",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6c3794f6",
+    "key": "a4pei5w7",
     "name": "All Lancets And Lancet Devices",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e82dbbde",
+    "key": "pazbzs2e",
     "name": "All Prescription Formulations",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c854b057",
+    "key": "oq15uvq4",
     "name": "Allopurinol 100mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.61
   },
   {
-    "key": "a914a721",
+    "key": "hb1ms29r",
     "name": "Allopurinol 300mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "115f89f0",
+    "key": "6idvi80d",
     "name": "Alogliptin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "439f4e4e",
+    "key": "66n12g2s",
     "name": "Alogliptin Metformin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "945cc4c8",
+    "key": "12ry6bky",
     "name": "Alogliptin Pioglitazone",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "7582bb5b",
+    "key": "b78slwp6",
     "name": "Alprazolam 1mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.4
   },
   {
-    "key": "4617347d",
+    "key": "6ezvwgp9",
     "name": "Altace",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "75b8b873",
+    "key": "2cmqvuff",
     "name": "Altoprev",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c42c28d1",
+    "key": "plczoevv",
     "name": "Alvesco",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "02edce06",
+    "key": "6inrl6db",
     "name": "Amaryl",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b9c48b5e",
+    "key": "dt4ffe1b",
     "name": "Amiloride Hydrochlorothiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "d94419b7",
+    "key": "8dkmcqjf",
     "name": "Amiodarone",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "57f68c49",
+    "key": "77j8ex31",
     "name": "Amitriptyline",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6af7ffa7",
+    "key": "254zrc8r",
     "name": "Amlodipine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "904cdcee",
+    "key": "ggnkxpzn",
     "name": "Amlodipine Atorvastatin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "57b49ed5",
+    "key": "rd1boti4",
     "name": "Amlodipine Benazepril",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1832aa27",
+    "key": "k2p9uk2q",
     "name": "Amlodipine Olmesartan",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "ad93f291",
+    "key": "wzzj86ei",
     "name": "Amlodipine Telmisartan",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "65e046e9",
+    "key": "x2d5n7fr",
     "name": "Amlodipine Valsartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": 32117524,
+    "key": "un0rkm2z",
     "name": "Ammonium Lactate Cream 12",
     "preventative": false,
     "tier": 2,
     "cost": 17.1
   },
   {
-    "key": "caf8a9e6",
+    "key": "6n4sape6",
     "name": "Amoxapine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "9ad8f2b0",
+    "key": "beswtv31",
     "name": "Amphetamine Dextroamphetamine 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.43
   },
   {
-    "key": "a00b2649",
+    "key": "3d2x920w",
     "name": "Amphetamine Dextroamphetamine 15mg",
     "preventative": false,
     "tier": 2,
     "cost": 15.59
   },
   {
-    "key": "c4ade981",
+    "key": "7xd6fygi",
     "name": "Amphetamine Dextroamphetamine 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 15.6
   },
   {
-    "key": "2382669c",
+    "key": "pegd8luz",
     "name": "Amphetamine Dextroamphetamine 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.86
   },
   {
-    "key": "57bda05b",
+    "key": "dgaom2jn",
     "name": "Amphetamine Dextroamphetamine Er 10mg",
     "preventative": false,
     "tier": 2,
     "cost": 30.52
   },
   {
-    "key": "a0ede88a",
+    "key": "zdodfg7e",
     "name": "Amphetamine Dextroamphetamine Er 15mg",
     "preventative": false,
     "tier": 3,
     "cost": 39.08
   },
   {
-    "key": "69e4cb01",
+    "key": "4k3jkqum",
     "name": "Amphetamine Dextroamphetamine Er 20mg",
     "preventative": false,
     "tier": 1,
     "cost": 32.47
   },
   {
-    "key": 50040681,
+    "key": "adjgux9r",
     "name": "Amphetamine Dextroamphetamine Er 25mg",
     "preventative": false,
     "tier": 2,
     "cost": 39.08
   },
   {
-    "key": "4cb5c242",
+    "key": "tbwxbh61",
     "name": "Amphetamine Dextroamphetamine Er 30mg",
     "preventative": false,
     "tier": 3,
     "cost": 36.82
   },
   {
-    "key": "643b607c",
+    "key": "2tfb4vv3",
     "name": "Anafranil",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "ba9d77b8",
+    "key": "0hq9pt7n",
     "name": "Anastrazole",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "d6be8bc4",
+    "key": "k6100dv5",
     "name": "Antabuse",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f7fff77c",
+    "key": "z8y2c29w",
     "name": "Antara",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "afa11bb1",
+    "key": "7r5woetw",
     "name": "Apidra",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": 46263137,
+    "key": "c8y485ja",
     "name": "Apitom",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "960c0b53",
+    "key": "8580s3og",
     "name": "Aplenzin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "687ac9ea",
+    "key": "ji417hse",
     "name": "Apriso 0 375mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "15690fb2",
+    "key": "ifvyzc1z",
     "name": "Arimidex",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "d7eda844",
+    "key": "4jgax1aa",
     "name": "Aripiprazole",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6431a8b4",
+    "key": "t5jvy7sc",
     "name": "Aristada",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "7f786d01",
+    "key": "wddhj1r9",
     "name": "Arixtra",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e47876e3",
+    "key": "b5ir1o4r",
     "name": "Armodafinil 150mg",
     "preventative": false,
     "tier": 1,
     "cost": 49.86
   },
   {
-    "key": "541d21bd",
+    "key": "lzqft3r3",
     "name": "Armour Thyroid 1 4 Grain",
     "preventative": false,
     "tier": 2,
     "cost": 16.7
   },
   {
-    "key": "ededcc04",
+    "key": "dn9edxjo",
     "name": "Armour Thyroid 2 Grain",
     "preventative": false,
     "tier": 3,
     "cost": 23.24
   },
   {
-    "key": "b10a8767",
+    "key": "4m97fyc1",
     "name": "Armour Thyroid 4 Grain",
     "preventative": false,
     "tier": 1,
     "cost": 32.04
   },
   {
-    "key": "f54bff31",
+    "key": "kmum9tpc",
     "name": "Arnuity Ellipta",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f5ae4d84",
+    "key": "epjusu7i",
     "name": "Aromasin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6329d1af",
+    "key": "iiwe18vk",
     "name": "Asmanex",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "516f7762",
+    "key": "wqjaak8j",
     "name": "Asmanex Hfa",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1973e8f2",
+    "key": "f21ffj5i",
     "name": "Astagraf Xl",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "21d1bdbd",
+    "key": "7bveq7gb",
     "name": "Atacand",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6bf09fa3",
+    "key": "px74hkwt",
     "name": "Atacand Hct",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": 43046135,
+    "key": "h00bv1wx",
     "name": "Atelvia",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6e1c55ae",
+    "key": "ra0n3qa6",
     "name": "Atenolol",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "fbce2481",
+    "key": "yoyr61zo",
     "name": "Atenolol Chlorthalidone",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "27d5cf26",
+    "key": "7794m1z2",
     "name": "Atomoxetine 100mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.21
   },
   {
-    "key": "0c5c0ae1",
+    "key": "xixgkux3",
     "name": "Atomoxetine 25mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.29
   },
   {
-    "key": "c538d878",
+    "key": "giyl5sul",
     "name": "Atomoxetine 40mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "e977805a",
+    "key": "2e9mb4tq",
     "name": "Atorvastatin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": 63756925,
+    "key": "03s6e31e",
     "name": "Atovaquone Proguanil",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1ce4b7d3",
+    "key": "bqluw4np",
     "name": "Aubagio",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f08ecca5",
+    "key": "xlz070fs",
     "name": "Avalide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "d64d7753",
+    "key": "4djzftlt",
     "name": "Avapro",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "59c0a3a4",
+    "key": "n6wiiw1o",
     "name": "Avonex",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b3002e86",
+    "key": "unvwv65b",
     "name": "Azelastine Nasal Spray 0 1",
     "preventative": false,
     "tier": 3,
     "cost": 21.9
   },
   {
-    "key": "e4a170e5",
+    "key": "u5rddqwi",
     "name": "Azelastine Nasal Spray 0 15",
     "preventative": false,
     "tier": 1,
     "cost": 25.46
   },
   {
-    "key": "cd57947e",
+    "key": "85be76ij",
     "name": "Azor",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "fba6f2ab",
+    "key": "ujlrhvps",
     "name": "Baclofen 10mg",
     "preventative": false,
     "tier": 3,
     "cost": 15.5
   },
   {
-    "key": "fcfcb638",
+    "key": "9aqgepev",
     "name": "Banzel",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "4cdbe21d",
+    "key": "anystgu1",
     "name": "Basaglar Kwikpen",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8b75943c",
+    "key": "x3ukxoxl",
     "name": "Basaglar Kwikpen",
     "preventative": false,
     "tier": 3,
     "cost": 177.37
   },
   {
-    "key": "0303f994",
+    "key": "48f3k9q1",
     "name": "Belviq",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6bc61670",
+    "key": "40smg2e6",
     "name": "Belviq Xr",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "992ae983",
+    "key": "2919g591",
     "name": "Benazepril",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a1d621b9",
+    "key": "t8yw9qid",
     "name": "Benazepril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c4306a08",
+    "key": "nzxviydo",
     "name": "Benicar",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "79f8d813",
+    "key": "zvudsth3",
     "name": "Benicar Hct",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "fe55018d",
+    "key": "mhp5aiz4",
     "name": "Benzphetamine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c1d4e9a5",
+    "key": "rwnnnixx",
     "name": "Betapace",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b0a90575",
+    "key": "nn9xzts9",
     "name": "Betapace Af",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e6c9780e",
+    "key": "wyr9lo33",
     "name": "Betaseron",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b4b809da",
+    "key": "nybgz7ex",
     "name": "Betaxolol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "9b14a6a3",
+    "key": "6dhxsidz",
     "name": "Bibricor",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "d57cb9d1",
+    "key": "ge9c6zmq",
     "name": "Binosto",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "efba38f8",
+    "key": "p0jyi167",
     "name": "Bisoprolol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c22271a8",
+    "key": "5nxohhab",
     "name": "Bisoprolol Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "9f8edfce",
+    "key": "5utuscd1",
     "name": "Blood Glucose Lancets",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "7be8986e",
+    "key": "kdsan6wp",
     "name": "Blood Glucose Lancing Device",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": 80523071,
+    "key": "l67nxgqj",
     "name": "Blood Glucose Meter",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ab276ebd",
+    "key": "0zo1d53l",
     "name": "Blood Glucose Test Strips",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "974ff6e2",
+    "key": "z0x6ep6k",
     "name": "Boniva",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "7bfba5ae",
+    "key": "n92w0ime",
     "name": "Breo Ellipta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "09185a0b",
+    "key": "6dk9pl32",
     "name": "Brilinta",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "4d7bb877",
+    "key": "o69ukqw4",
     "name": "Briviact",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "583be7cb",
+    "key": "q3aoectq",
     "name": "Budesonide Suspension",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "dbcfde93",
+    "key": "n1ileh0v",
     "name": "Bumetanide 1mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.67
   },
   {
-    "key": "e7507b9c",
+    "key": "fqsx0rke",
     "name": "Bunavail",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f9c4e535",
+    "key": "bmpi4v7i",
     "name": "Buprenorphine Sublingual",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "86dbf917",
+    "key": "62zrx3ry",
     "name": "Buprenorphine Naloxone Sublingual",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "5d4cfd68",
+    "key": "uwzn0fdq",
     "name": "Bupropion",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "73d8c481",
+    "key": "4pgyy904",
     "name": "Bupropion Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "97e959b5",
+    "key": "p9t6ix4w",
     "name": "Bupropion Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6e2d2654",
+    "key": "5wfkveg4",
     "name": "Buspirone 10mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.35
   },
   {
-    "key": "aebd2fce",
+    "key": "amsvw3yy",
     "name": "Buspirone 15mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.95
   },
   {
-    "key": "cff03cd0",
+    "key": "90033s7x",
     "name": "Buspirone 30mg",
     "preventative": false,
     "tier": 1,
     "cost": 15.52
   },
   {
-    "key": "814e6ae1",
+    "key": "udagdji0",
     "name": "Buspirone 5mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.39
   },
   {
-    "key": "bda6d877",
+    "key": "41vmli95",
     "name": "Butalbitol Acetaminophen Caffeine",
     "preventative": false,
     "tier": 3,
     "cost": 44.76
   },
   {
-    "key": "16dd470b",
+    "key": "k4595xpt",
     "name": "Butalbitol Aspirin Caffeine",
     "preventative": false,
     "tier": 1,
     "cost": 32.9
   },
   {
-    "key": "15b9ba48",
+    "key": "pju35wjz",
     "name": "Bydureon",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8cebe62a",
+    "key": "7v4qkp0u",
     "name": "Byetta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "4613b0bd",
+    "key": "3ap7jwlm",
     "name": "Bystolic",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c63ea5de",
+    "key": "5mv0pguz",
     "name": "Byvalson",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "eb8c5540",
+    "key": "pqbscw0m",
     "name": "Caduet",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": 90171546,
+    "key": "62xpkz2g",
     "name": "Calan",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1da16e65",
+    "key": "zgqgi3uy",
     "name": "Calan Sr",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e4a085d0",
+    "key": "vmz27orc",
     "name": "Calcitonin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c101ea23",
+    "key": "t96udews",
     "name": "Calcitonin Salmon",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "9f4f8701",
+    "key": "etfjbl3q",
     "name": "Candesartan",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f7159bc9",
+    "key": "wwhqdtfu",
     "name": "Candesartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "91b09476",
+    "key": "guvftr8p",
     "name": "Captopril",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "3640a6d3",
+    "key": "ew44ct2y",
     "name": "Captopril Hydrochlorothiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "4799f857",
+    "key": "0hrjut43",
     "name": "Carafate 1gm 10m L",
     "preventative": false,
     "tier": 3,
     "cost": 23.52
   },
   {
-    "key": "f11bbf15",
+    "key": "3h6rmy38",
     "name": "Carbamazepine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "588a86a5",
+    "key": "yjwchjg8",
     "name": "Carbamazepine Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "d165ae23",
+    "key": "fmca9xfv",
     "name": "Carbatrol",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "d3f9dfda",
+    "key": "qwbr6s4k",
     "name": "Cardizem",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "9fd1c2f7",
+    "key": "e6skbos2",
     "name": "Cardizem Cd",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "06728d65",
+    "key": "k5rptbu7",
     "name": "Cardizem La",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5ec79fa8",
+    "key": "y99pg3sa",
     "name": "Cartia Xt",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c0a2402c",
+    "key": "jprfvnue",
     "name": "Carvedilol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "642f8c23",
+    "key": "bv6cp3mj",
     "name": "Catapres",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "0ed471dd",
+    "key": "56f73opl",
     "name": "Catapres Tts",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": 5.503e+87,
+    "key": "gozjt26w",
     "name": "Celecoxib 100mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.08
   },
   {
-    "key": "3e448a3f",
+    "key": "gni4eiwu",
     "name": "Celecoxib 200mg",
     "preventative": false,
     "tier": 3,
     "cost": 14.35
   },
   {
-    "key": "c3172503",
+    "key": "nox9gcc3",
     "name": "Celexa",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d4a64597",
+    "key": "1ne1lezd",
     "name": "Cellcept",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "716408ca",
+    "key": "u2yl71ug",
     "name": "Celontin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c864c04e",
+    "key": "u23vn96v",
     "name": "Cetirizine Syrup 5mg 5m L",
     "preventative": false,
     "tier": 1,
     "cost": 14.76
   },
   {
-    "key": "7aab2329",
+    "key": "x4mh5v7y",
     "name": "Cevimeline 30mg",
     "preventative": false,
     "tier": 2,
     "cost": 27.99
   },
   {
-    "key": "f36f0d60",
+    "key": "7a61qc8u",
     "name": "Chantix",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c0eabd11",
+    "key": "kdz0rysp",
     "name": "Chloroquine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e6237b9d",
+    "key": "z8llsgwn",
     "name": "Chlorpromazine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6efe2b30",
+    "key": "jq0o7x8u",
     "name": "Chlorpropamide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "99fe20aa",
+    "key": "t987jx3r",
     "name": "Chlorthalidone",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "82176f66",
+    "key": "ld672qlz",
     "name": "Chlorthiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c366f266",
+    "key": "yfc3q000",
     "name": "Cholestyramine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": 6615525,
+    "key": "myst39rq",
     "name": "Cialis 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 45.82
   },
   {
-    "key": "2f575670",
+    "key": "ap9fnuof",
     "name": "Cialis 20mg",
     "preventative": false,
     "tier": 2,
     "cost": 45.82
   },
   {
-    "key": "fbb5fe84",
+    "key": "c1gvihk6",
     "name": "Cialis 5mg",
     "preventative": false,
     "tier": 3,
     "cost": 216.12
   },
   {
-    "key": "04ea7e5c",
+    "key": "kg1dm0by",
     "name": "Cilostazol 50mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.93
   },
   {
-    "key": "50fe8e1c",
+    "key": "qrywtn26",
     "name": "Cinqair",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "24ceaead",
+    "key": "wisinwo1",
     "name": "Cinryze",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "06e8db5b",
+    "key": "vyebp2yq",
     "name": "Citalopram",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d6c5ecd0",
+    "key": "x7lydgkv",
     "name": "Clindamycin Pad 1",
     "preventative": false,
     "tier": 2,
     "cost": 19.1
   },
   {
-    "key": "2d2ea273",
+    "key": "6pyhqlj5",
     "name": "Clindamycin Solution 1",
     "preventative": false,
     "tier": 3,
     "cost": 23.31
   },
   {
-    "key": "597a7442",
+    "key": "v6pegt4u",
     "name": "Clindamycin Benzoyl Peroxide Gel 1 2 5",
     "preventative": false,
     "tier": 1,
     "cost": 48.53
   },
   {
-    "key": "68893eaa",
+    "key": "9h3g7rc8",
     "name": "Clindamycin Benzoyl Peroxide Gel 1 5",
     "preventative": false,
     "tier": 2,
     "cost": 143.93
   },
   {
-    "key": "cc65f9ab",
+    "key": "2u3id26o",
     "name": "Clobetasol Cream 0 05",
     "preventative": false,
     "tier": 3,
     "cost": 21.92
   },
   {
-    "key": "b2646542",
+    "key": "ue1mzr4o",
     "name": "Clobetasol Ointment 0 05",
     "preventative": false,
     "tier": 1,
     "cost": 68.28
   },
   {
-    "key": "95fd6b2d",
+    "key": "8zg9gq4l",
     "name": "Clobetasol Solution 0 05",
     "preventative": false,
     "tier": 2,
     "cost": 31.61
   },
   {
-    "key": "fcefe6db",
+    "key": "o6f9p682",
     "name": "Clomipramine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f8a6f697",
+    "key": "h3zmzmz5",
     "name": "Clonazepam",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1d05664d",
+    "key": "f1fpzsga",
     "name": "Clonidine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "edfc16d6",
+    "key": "jpspca5j",
     "name": "Clonidine Transdermal",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "7ca727a7",
+    "key": "pi2ndovb",
     "name": "Clopidogrel",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d40e822c",
+    "key": "asuwycl6",
     "name": "Clorpres",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "285da1f6",
+    "key": "qj2m9zqv",
     "name": "Clozapine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ae6dddc9",
+    "key": "8ktmg8yw",
     "name": "Clozaril",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "840b4fdd",
+    "key": "nv8xc8vd",
     "name": "Colchicine 0 6mg",
     "preventative": false,
     "tier": 2,
     "cost": 25.3
   },
   {
-    "key": "e3445b4d",
+    "key": "kwrgqihm",
     "name": "Colestid",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "d6d22295",
+    "key": "ig3yksti",
     "name": "Colestipol",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f5e91567",
+    "key": "uvj8xnqo",
     "name": "Colyte",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a836f2fe",
+    "key": "1n1icm7h",
     "name": "Combigan Solution 0 2 0 5",
     "preventative": false,
     "tier": 3,
     "cost": 12.05
   },
   {
-    "key": "c26262b2",
+    "key": "jggdhoe3",
     "name": "Combivent Respimat",
     "preventative": false,
     "tier": 1,
     "cost": 178.7
   },
   {
-    "key": "cbff7e75",
+    "key": "vmmsqqq9",
     "name": "Concerta 36mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "d04920eb",
+    "key": "d3p9gqbt",
     "name": "Contrave",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "23520ad6",
+    "key": "pwxesfix",
     "name": "Copaxone",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "3d9e81ac",
+    "key": "huaa9fsl",
     "name": "Coreg",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b025887b",
+    "key": "6oym0r5q",
     "name": "Coreg Cr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5450ac4e",
+    "key": "ieihbts1",
     "name": "Corgard",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "24a0bcb9",
+    "key": "sygbtgb3",
     "name": "Corzide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "198e95c6",
+    "key": "ox1o6j14",
     "name": "Coumadin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "66835d4b",
+    "key": "jp1rbnpm",
     "name": "Cozaar",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a5289342",
+    "key": "ve1ys7zb",
     "name": "Creon 24000unit",
     "preventative": false,
     "tier": 2,
     "cost": 1105.61
   },
   {
-    "key": "95dfaaaa",
+    "key": "xpk7d6v9",
     "name": "Crestor",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "cfa229d6",
+    "key": "29v88569",
     "name": "Cromolyn Sodium Nebulizer Solution",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "4147a899",
+    "key": "t04tj07j",
     "name": "Cyanocobalamine 1000mcg Vial",
     "preventative": false,
     "tier": 2,
     "cost": 12.06
   },
   {
-    "key": "a4f04af6",
+    "key": "irkspntq",
     "name": "Cyclobenzaprine 10mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.93
   },
   {
-    "key": "fe17f816",
+    "key": "kge36yn3",
     "name": "Cyclobenzaprine 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.62
   },
   {
-    "key": "ce696d0b",
+    "key": "gefbxgqk",
     "name": "Cyclosporine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "2522bc57",
+    "key": "d85wxgzn",
     "name": "Cymbalta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e347aae6",
+    "key": "3vggf9n7",
     "name": "Cyproheptadine 4mg",
     "preventative": false,
     "tier": 1,
     "cost": 18.29
   },
   {
-    "key": "fefc8a85",
+    "key": "lop51l50",
     "name": "Cytomel 5mcg",
     "preventative": false,
     "tier": 2,
     "cost": 12.58
   },
   {
-    "key": "9c2a38e4",
+    "key": "8c4v8tup",
     "name": "Daliresp 500mcg",
     "preventative": false,
     "tier": 3,
     "cost": 117.26
   },
   {
-    "key": "1eca36da",
+    "key": "ddpx5sk5",
     "name": "Daytrana 10mg 9hr",
     "preventative": false,
     "tier": 1,
     "cost": 80.29
   },
   {
-    "key": "5b6d9a06",
+    "key": "x41s9e2l",
     "name": "Daytrana 15mg 9hr",
     "preventative": false,
     "tier": 2,
     "cost": 80.12
   },
   {
-    "key": "735391c2",
+    "key": "1hx1co4m",
     "name": "Daytrana 20mg 9hr",
     "preventative": false,
     "tier": 3,
     "cost": 80.27
   },
   {
-    "key": "3681150a",
+    "key": "3z2j3f9t",
     "name": "Depade",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f284c3dc",
+    "key": "2ei9ityg",
     "name": "Depakene",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "50bf2ca9",
+    "key": "8ykrc7mx",
     "name": "Depakote",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f7c88f6b",
+    "key": "r0tvqiyw",
     "name": "Depakote Er",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "91baab6a",
+    "key": "fbreno80",
     "name": "Desipramine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c41ca1ce",
+    "key": "tfs2oriz",
     "name": "Desloratadine 5mg",
     "preventative": false,
     "tier": 3,
     "cost": 25.73
   },
   {
-    "key": "43f2dac3",
+    "key": "7zoxi2zp",
     "name": "Desvenlafaxine Er",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "703f7b6d",
+    "key": "wp12dxvs",
     "name": "Desvenlafaxine Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "78501a9a",
+    "key": "4ospmoxj",
     "name": "Dexilant Dr 30mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.29
   },
   {
-    "key": "c4032828",
+    "key": "0bjw5ehb",
     "name": "Dexilant Dr 60mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.29
   },
   {
-    "key": "b4bc6b5c",
+    "key": "fn1ml68l",
     "name": "Dexmethylphenidate Er 25mg",
     "preventative": false,
     "tier": 2,
     "cost": 97.43
   },
   {
-    "key": "aad282d6",
+    "key": "4u6cod1s",
     "name": "Diazepam 10mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.39
   },
   {
-    "key": "74f4bbbc",
+    "key": "wfc44avc",
     "name": "Diazepam 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.19
   },
   {
-    "key": "028bd2dd",
+    "key": "kinien1p",
     "name": "Diclegis 10 10mg",
     "preventative": false,
     "tier": 2,
     "cost": 104.45
   },
   {
-    "key": "ee9d55af",
+    "key": "fldf0zlo",
     "name": "Diclofenac Gel 1",
     "preventative": false,
     "tier": 3,
     "cost": 25.04
   },
   {
-    "key": "5e230f03",
+    "key": "pvicq87z",
     "name": "Dicyclomine 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.46
   },
   {
-    "key": "1b8517cc",
+    "key": "hn5zaqj2",
     "name": "Dicyclomine 20mg",
     "preventative": false,
     "tier": 2,
     "cost": 14.09
   },
   {
-    "key": null,
+    "key": "3xo53lzm",
     "name": "Diethylpropion",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "7329e9ee",
+    "key": "58pjm4fo",
     "name": "Diethylpropion Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c5d8ab4f",
+    "key": "qs256hgn",
     "name": "Differin Lotion 0 1",
     "preventative": false,
     "tier": 2,
     "cost": 470.25
   },
   {
-    "key": "fe72dd79",
+    "key": "dcj0xkps",
     "name": "Dilantin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e7eb0bfb",
+    "key": "f7on6wuu",
     "name": "Diltiazem",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "abfeb7b9",
+    "key": "wy7pw7xp",
     "name": "Diltiazem Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "eecd8eee",
+    "key": "ww0z7327",
     "name": "Diltiazem Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5456e04e",
+    "key": "tkbbpoob",
     "name": "Diltrate Sr",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "0cc65e01",
+    "key": "9cho5gso",
     "name": "Dilt Xr",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "893bd7f5",
+    "key": "nhx3lld7",
     "name": "Diovan",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "73f231d1",
+    "key": "gi6brrhq",
     "name": "Diovan Hct",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "416b982b",
+    "key": "tvafih7l",
     "name": "Dipyridamole",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "76f17ba5",
+    "key": "vuikkj7o",
     "name": "Dipyridamole Extended Release Aspirin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "8d563a24",
+    "key": "lmjdy9nl",
     "name": "Disopyramide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "375fcf50",
+    "key": "zqqoozp3",
     "name": "Disulfiram",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "14cced4c",
+    "key": "3kpaksm1",
     "name": "Diuril",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f6abf291",
+    "key": "gotm7kdq",
     "name": "Divalproex Sodium Delayed Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8aacb8f0",
+    "key": "j60zg0cu",
     "name": "Divalproex Sodium Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e185fa2a",
+    "key": "okpcppn7",
     "name": "Dofetilide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "b5119c00",
+    "key": "3zoe8yhk",
     "name": "Donepezil 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.56
   },
   {
-    "key": "cbfd4171",
+    "key": "y5lxhngb",
     "name": "Dorzolamide Opthalmic Solution 2",
     "preventative": false,
     "tier": 2,
     "cost": 20.88
   },
   {
-    "key": "163ddc8f",
+    "key": "kgv4u462",
     "name": "Dorzolamide Timolol Opthalmic Solution 2 0 5",
     "preventative": false,
     "tier": 3,
     "cost": 15.1
   },
   {
-    "key": "562570ec",
+    "key": "lw6tr4ta",
     "name": "Doxepin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "3bc7fe0c",
+    "key": "21mrt07k",
     "name": "Doxycycline Hyclate 100mg Capsules",
     "preventative": false,
     "tier": 2,
     "cost": 13.26
   },
   {
-    "key": "c96acbf4",
+    "key": "zpvfihn0",
     "name": "Doxycycline Hyclate 100mg Tablets",
     "preventative": false,
     "tier": 3,
     "cost": 14.89
   },
   {
-    "key": "07b556b1",
+    "key": "fflorv08",
     "name": "Doxycycline Hyclate 50mg Capsules",
     "preventative": false,
     "tier": 1,
     "cost": 13.52
   },
   {
-    "key": "bda1e064",
+    "key": "bp4jl8ac",
     "name": "Drysol Solution 20",
     "preventative": false,
     "tier": 2,
     "cost": 18.82
   },
   {
-    "key": "ee6d4fc8",
+    "key": "b7fovv8i",
     "name": "Duetact",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "bf05e978",
+    "key": "dmuxvh66",
     "name": "Duloxetine Delayed Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c8a6ba67",
+    "key": "tu9mjvlt",
     "name": "Duloxetine Dr 20mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.26
   },
   {
-    "key": "5bcb26cd",
+    "key": "k8joeee0",
     "name": "Duloxetine Dr 30mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.29
   },
   {
-    "key": "93a7e70f",
+    "key": "ofgmmonl",
     "name": "Duloxetine Dr 40mg",
     "preventative": false,
     "tier": 1,
     "cost": 73.65
   },
   {
-    "key": 39353020,
+    "key": "svmlnxu8",
     "name": "Duloxetine Dr 60mg",
     "preventative": false,
     "tier": 2,
     "cost": 23.86
   },
   {
-    "key": "4c73946c",
+    "key": "arldyjf8",
     "name": "Durezol Opthalmic 0 05",
     "preventative": false,
     "tier": 3,
     "cost": 49.92
   },
   {
-    "key": "eb6e5513",
+    "key": "diwj3acb",
     "name": "Durlaza",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a32c80dd",
+    "key": "m73p8j8v",
     "name": "Dutoprol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f73e73ba",
+    "key": "rkqeu8k3",
     "name": "Dyazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "bd05c576",
+    "key": "evxnaypn",
     "name": "Econazole Cream 1",
     "preventative": false,
     "tier": 1,
     "cost": 18.01
   },
   {
-    "key": "4bbda086",
+    "key": "3p0n2g65",
     "name": "Edarbi",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b8a0372c",
+    "key": "lci8zl65",
     "name": "Edarbyclor",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "644c4df5",
+    "key": "t8cyyyem",
     "name": "Effexor Xr",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "48790f12",
+    "key": "s7f44oki",
     "name": "Effient",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "dcdf5aa1",
+    "key": "6wngj5yf",
     "name": "Elavil",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "52bfa334",
+    "key": "nz9y89mo",
     "name": "Eliquis",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d1ffd9b4",
+    "key": "ihqhucc9",
     "name": "Emsam",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": null,
+    "key": "4zopqixs",
     "name": "Enalapril",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": 21426300000,
+    "key": "sdglom4f",
     "name": "Enalapril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "38ddc50a",
+    "key": "tv09ebnn",
     "name": "Enoxaparin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "2c9ad840",
+    "key": "9vtnlirl",
     "name": "Envarsus Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "0261405b",
+    "key": "q3pcn27x",
     "name": "Epaned",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1a6a27e2",
+    "key": "bp8xw9if",
     "name": "Epinastine Opthalmic Solution 0 05",
     "preventative": false,
     "tier": 2,
     "cost": 22.14
   },
   {
-    "key": "5d1b4bd0",
+    "key": "qlrmuwe1",
     "name": "Epinepherine Kit 0 15mg 2 Pack",
     "preventative": false,
     "tier": 3,
     "cost": 12.04
   },
   {
-    "key": "d035fda8",
+    "key": "ubs6xu7x",
     "name": "Epinepherine Pen 0 3mg 2 Pack",
     "preventative": false,
     "tier": 1,
     "cost": 75.43
   },
   {
-    "key": "ac0e3bda",
+    "key": "gf23yn8o",
     "name": "Epi Pen 0 3mg 2 Pack",
     "preventative": false,
     "tier": 2,
     "cost": 12.04
   },
   {
-    "key": "d8ac0f40",
+    "key": "w15tuu58",
     "name": "Epi Pen Jr 0 15mg 2 Pack",
     "preventative": false,
     "tier": 3,
     "cost": 12.04
   },
   {
-    "key": "dabd5425",
+    "key": "mecahcde",
     "name": "Epitol",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6e7b8a0f",
+    "key": "n40wq8a0",
     "name": "Eprosartan",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "3bb855d7",
+    "key": "84iwqg8v",
     "name": "Equetro",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f6b5d38e",
+    "key": "oqhf0d4e",
     "name": "Erythromycin Pads 2",
     "preventative": false,
     "tier": 1,
     "cost": 33.94
   },
   {
-    "key": "4b214d09",
+    "key": "imm6f1mk",
     "name": "Erythromycin Benzoyl Peroxide Gel 3 5",
     "preventative": false,
     "tier": 2,
     "cost": 21.04
   },
   {
-    "key": "93397bbf",
+    "key": "g3er2t9z",
     "name": "Escitalopram",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "7a44b3ff",
+    "key": "lkklb1o8",
     "name": "Esomeprazole Dr 20mg",
     "preventative": false,
     "tier": 1,
     "cost": 15.76
   },
   {
-    "key": "6cb9996c",
+    "key": "kna3j9qw",
     "name": "Esomeprazole Dr 40mg",
     "preventative": false,
     "tier": 2,
     "cost": 14.21
   },
   {
-    "key": "3aa58f46",
+    "key": "o23zyxm1",
     "name": "Estrace Cream 0 1mg Gm",
     "preventative": false,
     "tier": 3,
     "cost": 141.46
   },
   {
-    "key": "9b2509e9",
+    "key": "es8m0w1e",
     "name": "Estradiol 0 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.97
   },
   {
-    "key": "ee84e9ba",
+    "key": "lbdmzphe",
     "name": "Estradiol 1mcg",
     "preventative": false,
     "tier": 2,
     "cost": 14.39
   },
   {
-    "key": "2667de76",
+    "key": "qxpelzan",
     "name": "Estradiol Patch 0 375mg Day",
     "preventative": false,
     "tier": 3,
     "cost": 45.72
   },
   {
-    "key": "f12d25ca",
+    "key": "j4klj2nj",
     "name": "Estring Ring 2mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.01
   },
   {
-    "key": "72f8e8cc",
+    "key": "q5ni8az8",
     "name": "Estrogel",
     "preventative": false,
     "tier": 2,
     "cost": 122.02
   },
   {
-    "key": "efac31e1",
+    "key": "xlq6058x",
     "name": "Eszopiclone 3mg",
     "preventative": false,
     "tier": 3,
     "cost": 19.18
   },
   {
-    "key": "d2d84ef1",
+    "key": "rb7k72th",
     "name": "Ethosuximide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "ee289a10",
+    "key": "a8icpxuh",
     "name": "Etodolac 400mg",
     "preventative": false,
     "tier": 2,
     "cost": 19.97
   },
   {
-    "key": "cb2e2ad9",
+    "key": "uybigzkv",
     "name": "Etodolac 600mg",
     "preventative": false,
     "tier": 3,
     "cost": 50.99
   },
   {
-    "key": "031e922c",
+    "key": "2dura3as",
     "name": "Eucrisa Ointment 2",
     "preventative": false,
     "tier": 1,
     "cost": 385.45
   },
   {
-    "key": "76c5b140",
+    "key": "pgluxlvj",
     "name": "Evista",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "dc5368e4",
+    "key": "hac9dw10",
     "name": "Exemestant",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "37b398f5",
+    "key": "y480s1mf",
     "name": "Exetimibe Simvastatin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6fb74448",
+    "key": "kogx9rt3",
     "name": "Exforge",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f789ee47",
+    "key": "3td6f0ky",
     "name": "Exforge Hct",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1be3a2d1",
+    "key": "9hc86j5c",
     "name": "Extavia",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "4d36059b",
+    "key": "uyvo0g8f",
     "name": "Ezetimibe",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "79b24c62",
+    "key": "apw13h10",
     "name": "Famotidine 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.87
   },
   {
-    "key": "f674d35b",
+    "key": "xreyhszm",
     "name": "Famotidine 40mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.88
   },
   {
-    "key": "607f8c4e",
+    "key": "pmi4kjle",
     "name": "Fanapt",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6dfbb662",
+    "key": "s2ue1ptq",
     "name": "Farxiga",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "397b2d3e",
+    "key": "m32ipxgh",
     "name": "Fazaclo",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "57c32c4b",
+    "key": "vgo62un0",
     "name": "Felbamate",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "cf857ccb",
+    "key": "eujfbrbs",
     "name": "Felbatol",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6fa01533",
+    "key": "fdg1oxfa",
     "name": "Felodipine Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "5fba55d7",
+    "key": "ja457xof",
     "name": "Femara",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "34fd5dee",
+    "key": "9ycmdnzh",
     "name": "Fenofibrate",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "8201c975",
+    "key": "dpmaweka",
     "name": "Fenofibric Acid",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "36a4a290",
+    "key": "opg3sb28",
     "name": "Fenofibric Acid Delayed Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "eb090651",
+    "key": "zf2glzw6",
     "name": "Fenoglide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f7d0a77a",
+    "key": "6p4t2m44",
     "name": "Fetzima",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e3e14e78",
+    "key": "uqjo86ia",
     "name": "Finasteride 5mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.27
   },
   {
-    "key": "30d371b2",
+    "key": "jo2unwyo",
     "name": "Flecainide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": null,
+    "key": "x5tzdqck",
     "name": "Flovent Diskus",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": 94687468,
+    "key": "4jxjrzct",
     "name": "Flovent Hfa",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "3b79aef6",
+    "key": "t4ptnn2v",
     "name": "Fluocinolone Scalp Oil 0 01",
     "preventative": false,
     "tier": 3,
     "cost": 41.13
   },
   {
-    "key": "179ad56c",
+    "key": "hqv7gpav",
     "name": "Fluocinolone Solution 0 01",
     "preventative": false,
     "tier": 1,
     "cost": 18.93
   },
   {
-    "key": "31b99851",
+    "key": "55a3p0zi",
     "name": "Fluocinonide Cream 0 05",
     "preventative": false,
     "tier": 2,
     "cost": 141.73
   },
   {
-    "key": "55a42376",
+    "key": "u2j2cgyc",
     "name": "Fluocinonide Ointment 0 05",
     "preventative": false,
     "tier": 3,
     "cost": 68.43
   },
   {
-    "key": "e0be9b9e",
+    "key": "undfyccy",
     "name": "Fluocinonide Solution 0 05",
     "preventative": false,
     "tier": 1,
     "cost": 14.47
   },
   {
-    "key": "88bbc737",
+    "key": "0ibl6xpl",
     "name": "Fluorouracil Cream 5",
     "preventative": false,
     "tier": 2,
     "cost": 43.78
   },
   {
-    "key": "bd6d47ba",
+    "key": "cx0qprwc",
     "name": "Fluouxetine Delayed Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a38b9fe3",
+    "key": "nmsgcm4r",
     "name": "Fluoxetine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "45253ca1",
+    "key": "znwllkz7",
     "name": "Fluoxetine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "cbddf21a",
+    "key": "e97vtp2m",
     "name": "Fluphenazine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "be76fa54",
+    "key": "v9k23u3w",
     "name": "Fluphenazine Decanoate",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b55506f1",
+    "key": "kmtnjlku",
     "name": "Fluticason Salmeterol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "0a2f7a0e",
+    "key": "sesge9l9",
     "name": "Fluticasone Nasal Spray",
     "preventative": false,
     "tier": 3,
     "cost": 33.19
   },
   {
-    "key": "f2d4722b",
+    "key": "ytuil00s",
     "name": "Fluvastatin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": 5359170000000,
+    "key": "08zwmb3t",
     "name": "Fluvastatin Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "11e99d31",
+    "key": "2a9t88ed",
     "name": "Fluvoxamine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a59a774e",
+    "key": "54kd1afz",
     "name": "Fluvoxamine Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d5d14f8d",
+    "key": "6ael0g43",
     "name": "Focalin Xr 25mg",
     "preventative": false,
     "tier": 2,
     "cost": 81.91
   },
   {
-    "key": "835fb637",
+    "key": "nnwblwox",
     "name": "Folic Acid 1mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.12
   },
   {
-    "key": "cfbe9503",
+    "key": "bqdvqs1h",
     "name": "Fondaparinux",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "65ebd570",
+    "key": "sfhpv3ho",
     "name": "Forfivo",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f105a470",
+    "key": "1rcb5dc1",
     "name": "Fortamet",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "7c4ad6b2",
+    "key": "twow1n4c",
     "name": "Fosamax",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "066a1f1f",
+    "key": "m89cdy58",
     "name": "Fosinopril",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "2d17c30b",
+    "key": "nt8n7vsp",
     "name": "Fosinopril Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e027cfba",
+    "key": "u85zfnim",
     "name": "Fragmin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "bb42a887",
+    "key": "t1rqc5jv",
     "name": "Furosemide 20mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.26
   },
   {
-    "key": "7c48e224",
+    "key": "hj1gjo5e",
     "name": "Fycompa",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a30278ca",
+    "key": "df14pmow",
     "name": "Gabapentin 100mg",
     "preventative": false,
     "tier": 1,
     "cost": 13.43
   },
   {
-    "key": "78a3b3f8",
+    "key": "ovzx5cvh",
     "name": "Gabapentin 300mg",
     "preventative": false,
     "tier": 2,
     "cost": 14.78
   },
   {
-    "key": "995811f0",
+    "key": "8ybltmt3",
     "name": "Gabapentin 400mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.22
   },
   {
-    "key": "62589a94",
+    "key": "jylze67m",
     "name": "Gabapentin 600mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.51
   },
   {
-    "key": "753375c5",
+    "key": "pieybi9b",
     "name": "Gabitril",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b9170414",
+    "key": "kwzna9cb",
     "name": "Gavilyte",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "260b83db",
+    "key": "hjhy0v2y",
     "name": "Gemfibrozil",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "942ed984",
+    "key": "4q9ipz5y",
     "name": "Generic Prenatal Vitamin Prescriptions",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "13c7a887",
+    "key": "je42d4x4",
     "name": "Gengraf",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a060b618",
+    "key": "ezip8i2g",
     "name": "Geodon",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "079fbc5e",
+    "key": "8zubdy8q",
     "name": "Gilenya",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "ea115db9",
+    "key": "los0iqfd",
     "name": "Glatiramer",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f9b0ba45",
+    "key": "cehzybz6",
     "name": "Glimepiride",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "bd19d2b3",
+    "key": "n7hcw3l0",
     "name": "Glipizide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1af16235",
+    "key": "if4z5id5",
     "name": "Glipizide Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "af2b6ead",
+    "key": "llb4n683",
     "name": "Glipizide Metformin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a6352f86",
+    "key": "2j7uhqgp",
     "name": "Glucometer",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "577d9fb5",
+    "key": "45txaas8",
     "name": "Glucophage",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "43d4386f",
+    "key": "ymy3r71t",
     "name": "Glucophage Xr",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6bcfde7d",
+    "key": "zd8yisx0",
     "name": "Glucotrol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "5ec98782",
+    "key": "v30emmvq",
     "name": "Glucotrol Xl",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1e2dadc3",
+    "key": "hhptd39m",
     "name": "Glucovance",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "75a1cb85",
+    "key": "1698q5yp",
     "name": "Glumetza",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "df295e6b",
+    "key": "vqcus9ik",
     "name": "Glyburide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "9d3091b9",
+    "key": "ug3ff7zi",
     "name": "Glyburide Micronized",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "69526bf4",
+    "key": "x5bqtbw4",
     "name": "Glyburide Metformin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e17cc56a",
+    "key": "xs969ccu",
     "name": "Glycopyrrolate 1mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.46
   },
   {
-    "key": "bf2f7898",
+    "key": "p824a72a",
     "name": "Glynase",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c0624c8e",
+    "key": "knasxat2",
     "name": "Glyset",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "074c283d",
+    "key": "1v4w2pz6",
     "name": "Glyxambi",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "bc035143",
+    "key": "xomb1u5v",
     "name": "Golytely",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "5dbed1a6",
+    "key": "rxvcc4li",
     "name": "Grastek",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6be3410e",
+    "key": "tox0w93j",
     "name": "Guanabenz",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "0802f6d1",
+    "key": "8krfm8fj",
     "name": "Guanfacine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "fb1d106b",
+    "key": "mbhty1rk",
     "name": "Haldol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "4736735c",
+    "key": "3ghz692a",
     "name": "Haldol Decanoate",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "103ee14c",
+    "key": "5ve3y97g",
     "name": "Haloperidol",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "bcd8c2e1",
+    "key": "u2m4cqsg",
     "name": "Horizant 300mg",
     "preventative": false,
     "tier": 2,
     "cost": 126.5
   },
   {
-    "key": "e0cf658c",
+    "key": "s8nthbt0",
     "name": "Humalog",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "62beba12",
+    "key": "asxul7ez",
     "name": "Humira Kit 40mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.02
   },
   {
-    "key": "4ab62d02",
+    "key": "cykc30er",
     "name": "Humira Pen Injection 40mg 0 8m L",
     "preventative": false,
     "tier": 2,
     "cost": 12.02
   },
   {
-    "key": 87750862,
+    "key": "0lzl3z9f",
     "name": "Humulin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "960aa622",
+    "key": "sl9cxt71",
     "name": "Hydralazine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "13c2e4a1",
+    "key": "9mpigd1e",
     "name": "Hydrochlorothiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f87c29bb",
+    "key": "es46ic7p",
     "name": "Hydrocodone Acetaminophen 5 325mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.39
   },
   {
-    "key": "9bf09d91",
+    "key": "drwa06e0",
     "name": "Hydrocortisone Cream 2 5",
     "preventative": false,
     "tier": 1,
     "cost": 15.06
   },
   {
-    "key": "accdee94",
+    "key": "qlg2acm8",
     "name": "Hydromorphone 2mg",
     "preventative": false,
     "tier": 2,
     "cost": 15.26
   },
   {
-    "key": "994c72a5",
+    "key": "g8ypobds",
     "name": "Hydroxychloroquine 200mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.86
   },
   {
-    "key": "607a07d3",
+    "key": "qhkh65tn",
     "name": "Hydroxyzine 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.87
   },
   {
-    "key": "b95e98ac",
+    "key": "cnd3lpd4",
     "name": "Hydroxyzine 25mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.04
   },
   {
-    "key": "28a6d2d5",
+    "key": "6480gk9s",
     "name": "Hydroxyzine 50mg",
     "preventative": false,
     "tier": 3,
     "cost": 15.03
   },
   {
-    "key": "b9d5f068",
+    "key": "3pj892qm",
     "name": "Hydroxyzine Syrup 10mg 5m L",
     "preventative": false,
     "tier": 1,
     "cost": 12.88
   },
   {
-    "key": "500d90c5",
+    "key": "3decal6i",
     "name": "Hyoscamine Odt 0 125mg",
     "preventative": false,
     "tier": 2,
     "cost": 17.87
   },
   {
-    "key": "300f7ae0",
+    "key": "um5df0mr",
     "name": "Hyzaar",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c4dbf7f2",
+    "key": "r9343wy3",
     "name": "Ibandronate",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8c3a3ee3",
+    "key": "picdmg3x",
     "name": "Ibuprofen 400mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.48
   },
   {
-    "key": "e74fed27",
+    "key": "b2rk2s62",
     "name": "Ibuprofen 600mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.27
   },
   {
-    "key": "b9fe9d82",
+    "key": "fisn4o9j",
     "name": "Ibuprofen 800mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.54
   },
   {
-    "key": "d3121a47",
+    "key": "m3ljeful",
     "name": "Imipramine Hydrochloride",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8ad5a4a0",
+    "key": "5yvcnyob",
     "name": "Imipramine Pamoate",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "fba6ee1e",
+    "key": "1gp6yow3",
     "name": "Indapamide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "24ceb75f",
+    "key": "oxmvd8w7",
     "name": "Inderal La",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1222f74b",
+    "key": "onaqecc9",
     "name": "Indomethacin 50mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.98
   },
   {
-    "key": "864379fc",
+    "key": "qp24qqhz",
     "name": "Insulin Needles",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1b5b27c4",
+    "key": "lkns5cpa",
     "name": "Insulin Syringes",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "388a48f3",
+    "key": "56boaalg",
     "name": "Insulin Syringes And Needles",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "536e17fa",
+    "key": "jrr6uyen",
     "name": "Invega",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1dd96a5a",
+    "key": "npdupuht",
     "name": "Invega Sustenna",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1b20a922",
+    "key": "d7nqeh4o",
     "name": "Invega Trinza",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "87323dab",
+    "key": "3vmpcexr",
     "name": "Invokamet",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "cc7fe1c4",
+    "key": "y6oj0qpv",
     "name": "Invokamet Xr",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "0803db47",
+    "key": "65sdcjol",
     "name": "Invokana",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "10af5250",
+    "key": "hii9ftdk",
     "name": "Ipratropium Albuterol Nebulizers",
     "preventative": false,
     "tier": 1,
     "cost": 14.02
   },
   {
-    "key": "2231fd10",
+    "key": "ok8hlski",
     "name": "Iprivask",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": null,
+    "key": "xkousgg6",
     "name": "Irbesartan",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "2252bec8",
+    "key": "e2kf7mjx",
     "name": "Irbesartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "7f1f70dd",
+    "key": "uiaz7dsn",
     "name": "Irenka",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e4ebae2e",
+    "key": "tb8eope4",
     "name": "Isoptin Sr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "4e0e3d65",
+    "key": "1dp3lf1a",
     "name": "Isordil",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "9cbe3bf1",
+    "key": "82rqcixy",
     "name": "Isosorbide Dinitrate",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f10d8a62",
+    "key": "0kb0dx1j",
     "name": "Isosorbide Dinitrate Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "401ed68d",
+    "key": "41jb8f1j",
     "name": "Isosorbide Mononitrate",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c99dd87c",
+    "key": "kckuk09m",
     "name": "Isosorbide Mononitrate Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a4e0373b",
+    "key": "yu8i7tg3",
     "name": "Isradipine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "24af187f",
+    "key": "oxr8jtti",
     "name": "Jantoven",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a9f62b20",
+    "key": "ueqrg0mw",
     "name": "Janumet",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "22f7e8d4",
+    "key": "jwhydtj0",
     "name": "Janumet Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "0b1b2c0c",
+    "key": "tn79rwjx",
     "name": "Januvia",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d36d703a",
+    "key": "obo2pym0",
     "name": "Jardiance",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "dd11da15",
+    "key": "fv5e5hfl",
     "name": "Jentadueto Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a3e6e78c",
+    "key": "uzeeug2l",
     "name": "Jentaduetto",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8d30ba17",
+    "key": "vkcekmou",
     "name": "Keppra",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c142f3e0",
+    "key": "crmudj5z",
     "name": "Keppra Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "3eb9ba99",
+    "key": "7iafxf6n",
     "name": "Ketoconazole Cream 2",
     "preventative": false,
     "tier": 1,
     "cost": 31.7
   },
   {
-    "key": "1143f2d4",
+    "key": "zfifi44w",
     "name": "Ketoconazole Shampoo 2",
     "preventative": false,
     "tier": 2,
     "cost": 16.25
   },
   {
-    "key": "02ca8aec",
+    "key": "uh7rum16",
     "name": "Ketone Blood Test Strips",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "56683c68",
+    "key": "g4axfy7y",
     "name": "Khedezla",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": 12700645,
+    "key": "sfhuq6y9",
     "name": "Klonopin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "d164f07c",
+    "key": "tc2h35p2",
     "name": "Kombiglyze Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "afe2259e",
+    "key": "dwou3nc7",
     "name": "Kynamro",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8c021b03",
+    "key": "3eni8c2w",
     "name": "Labetalol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "50ca293a",
+    "key": "6m8j2yr7",
     "name": "Lamictal",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": null,
+    "key": "o7d2ewy9",
     "name": "Lamictal Xr",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1233650d",
+    "key": "ecknau16",
     "name": "Lamotrigine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c1397a15",
+    "key": "ayxf22ie",
     "name": "Lamotrigine Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ee488db5",
+    "key": "y3x966kr",
     "name": "Lansoprazole Dr 15mg",
     "preventative": false,
     "tier": 1,
     "cost": 24.97
   },
   {
-    "key": "a67ce72d",
+    "key": "225mklfp",
     "name": "Lansoprazole Dr 30mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.07
   },
   {
-    "key": "ab15a380",
+    "key": "s5am2os0",
     "name": "Lantus",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "06698f12",
+    "key": "n1e0tsx5",
     "name": "Latuda",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "cf16d274",
+    "key": "2jnxckz2",
     "name": "Lemtrada",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f3b95dbd",
+    "key": "robkm0d3",
     "name": "Lescol Xl",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6409236e",
+    "key": "ehijufy5",
     "name": "Letrozole",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "2e1c48e1",
+    "key": "28ukox4i",
     "name": "Levatol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "94a4d6f3",
+    "key": "pn1y8i2l",
     "name": "Levemir",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": 20051976,
+    "key": "8o4sw7t3",
     "name": "Levetiracetam",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "2a74e448",
+    "key": "xj96itxx",
     "name": "Levetiracetam Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "152e522e",
+    "key": "75rg4rr3",
     "name": "Levocetirizine 5mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.03
   },
   {
-    "key": "73a4aaf6",
+    "key": "2j8s1p64",
     "name": "Levothyroxine 100mcg",
     "preventative": false,
     "tier": 1,
     "cost": 12.97
   },
   {
-    "key": "c0ed4d46",
+    "key": "zs1a82br",
     "name": "Levothyroxine 112mcg",
     "preventative": false,
     "tier": 2,
     "cost": 12.53
   },
   {
-    "key": 83171730,
+    "key": "iq2yu33d",
     "name": "Levothyroxine 125mcg",
     "preventative": false,
     "tier": 3,
     "cost": 13.14
   },
   {
-    "key": "2aa3fe39",
+    "key": "d1t1a5i8",
     "name": "Levothyroxine 137mcg",
     "preventative": false,
     "tier": 1,
     "cost": 16.18
   },
   {
-    "key": "65151de1",
+    "key": "1spge4iq",
     "name": "Levothyroxine 150mcg",
     "preventative": false,
     "tier": 2,
     "cost": 12.71
   },
   {
-    "key": null,
+    "key": "e302itxv",
     "name": "Levothyroxine 175mcg",
     "preventative": false,
     "tier": 3,
     "cost": 12.84
   },
   {
-    "key": "9c1b645f",
+    "key": "d60nkbbd",
     "name": "Levothyroxine 200mcg",
     "preventative": false,
     "tier": 1,
     "cost": 12.41
   },
   {
-    "key": "9d0b9579",
+    "key": "lpfe9u7f",
     "name": "Levothyroxine 25mcg",
     "preventative": false,
     "tier": 2,
     "cost": 12.3
   },
   {
-    "key": "ab919fb2",
+    "key": "xgyjl4xl",
     "name": "Levothyroxine 50mcg",
     "preventative": false,
     "tier": 3,
     "cost": 14.49
   },
   {
-    "key": "7012ddf9",
+    "key": "iznmhdan",
     "name": "Levothyroxine 75mcg",
     "preventative": false,
     "tier": 1,
     "cost": 15.18
   },
   {
-    "key": "f82b8a92",
+    "key": "x9mkq5et",
     "name": "Levothyroxine 88mcg",
     "preventative": false,
     "tier": 2,
     "cost": 14.3
   },
   {
-    "key": "fe8471a2",
+    "key": "pxqoe3m3",
     "name": "Lexapro",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "595b02f7",
+    "key": "6w0tqf0z",
     "name": "Lialda 1 2gm",
     "preventative": false,
     "tier": 1,
     "cost": 12.58
   },
   {
-    "key": "9ff635a3",
+    "key": "3bgsy2ud",
     "name": "Lidocaine Patch 5",
     "preventative": false,
     "tier": 2,
     "cost": 42.24
   },
   {
-    "key": "6fe77217",
+    "key": "0ymrl0uy",
     "name": "Lidoderm Patch 5",
     "preventative": false,
     "tier": 3,
     "cost": 67.88
   },
   {
-    "key": "fc38bc53",
+    "key": "of6b21jd",
     "name": "Linzess 145mcg",
     "preventative": false,
     "tier": 1,
     "cost": 40.31
   },
   {
-    "key": "50da8631",
+    "key": "7cgsdzbh",
     "name": "Liothyronine 5mcg",
     "preventative": false,
     "tier": 2,
     "cost": 16.26
   },
   {
-    "key": "9f5203da",
+    "key": "dez4llqh",
     "name": "Lipitor",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "9cd6ad62",
+    "key": "1mr0ygcf",
     "name": "Lipofen",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6ecbf3c0",
+    "key": "x0in3xau",
     "name": "Lisinopril",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "29b502c9",
+    "key": "qndlkutx",
     "name": "Lisinopril Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "34f441f4",
+    "key": "bynw8knp",
     "name": "Lithium 600mg",
     "preventative": false,
     "tier": 1,
     "cost": 15.71
   },
   {
-    "key": "4e508d75",
+    "key": "j4czbjkp",
     "name": "Livalo",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f4b7cf25",
+    "key": "wns1jyu7",
     "name": "Lofibra",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6f43fb61",
+    "key": "f3g9a42s",
     "name": "Lomaria",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "ecccf7e2",
+    "key": "acl4g3dr",
     "name": "Lopid",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "3dcb6fe2",
+    "key": "uokgfgwf",
     "name": "Lopressor",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a4e2c786",
+    "key": "ro37c0oq",
     "name": "Lopressor Hct",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "36cf4e9c",
+    "key": "3am6p1ol",
     "name": "Loprox Shampoo 1",
     "preventative": false,
     "tier": 2,
     "cost": 13.16
   },
   {
-    "key": "5e6c409c",
+    "key": "wwo6f0gn",
     "name": "Lorazepam 0 5mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.24
   },
   {
-    "key": "72ca41a2",
+    "key": "k209eaf7",
     "name": "Lorazepam 1mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.55
   },
   {
-    "key": "48d4f231",
+    "key": "jpkf40mw",
     "name": "Losartan",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "4f7e8555",
+    "key": "0l4wedvg",
     "name": "Losartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "b0b92637",
+    "key": "ehkuhx3y",
     "name": "Lotemax Opthalmic Solution 0 5",
     "preventative": false,
     "tier": 1,
     "cost": 12.15
   },
   {
-    "key": "a37a6907",
+    "key": "fyuu8f1e",
     "name": "Lotensin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c060069a",
+    "key": "58uqbt9k",
     "name": "Lotensin Hct",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a24eb073",
+    "key": "ixjqm3tc",
     "name": "Lotrel",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f9c1242f",
+    "key": "qp6phz7f",
     "name": "Lovastatin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "47f673ab",
+    "key": "64wysm8u",
     "name": "Lovenox",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "231207b4",
+    "key": "mcyh6p32",
     "name": "Loxapine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "3c624aaf",
+    "key": "3kj74adl",
     "name": "Lyrica 150mg",
     "preventative": false,
     "tier": 2,
     "cost": 37.67
   },
   {
-    "key": "33e70c69",
+    "key": "npm6oiep",
     "name": "Lyrica 300mg",
     "preventative": false,
     "tier": 3,
     "cost": 37.61
   },
   {
-    "key": "2741cb30",
+    "key": "ur82m9nd",
     "name": "Lyrica 75mg",
     "preventative": false,
     "tier": 1,
     "cost": 36.96
   },
   {
-    "key": null,
+    "key": "sfmiiavy",
     "name": "Malarone",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": 57306859,
+    "key": "9w00d1d5",
     "name": "Maprotiline",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "43f11c2b",
+    "key": "q7yg4ik5",
     "name": "Marplan",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d130567f",
+    "key": "2txt5y4u",
     "name": "Matzim La",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e6b54084",
+    "key": "twobxc3x",
     "name": "Mavik",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "2388f2be",
+    "key": "jwsf37zg",
     "name": "Maxzide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "598470d0",
+    "key": "qqglftuh",
     "name": "Meclizine 12 5mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.99
   },
   {
-    "key": "4837f2cb",
+    "key": "ye40s141",
     "name": "Meclizine 25mg",
     "preventative": false,
     "tier": 3,
     "cost": 16.46
   },
   {
-    "key": "112b2255",
+    "key": "vx8vf71r",
     "name": "Mefloquine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "48a219a4",
+    "key": "uxbiexh3",
     "name": "Meloxicam 15mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.32
   },
   {
-    "key": "bce84b3f",
+    "key": "xa3bto9w",
     "name": "Mercaptopurine 50mg",
     "preventative": false,
     "tier": 3,
     "cost": 29.59
   },
   {
-    "key": "40e7ff6a",
+    "key": "hg9g8vdd",
     "name": "Mesalamine 1 2gm",
     "preventative": false,
     "tier": 1,
     "cost": 193.3
   },
   {
-    "key": "1fb076cd",
+    "key": "e474by5x",
     "name": "Metaglip",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "9250c84f",
+    "key": "joqexww2",
     "name": "Metaxolone 800mg",
     "preventative": false,
     "tier": 3,
     "cost": 19.09
   },
   {
-    "key": "94c1318f",
+    "key": "kmu5ui5t",
     "name": "Metformin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "fd994e46",
+    "key": "wj2hidpy",
     "name": "Metformin Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6df12c33",
+    "key": "vjdvqwwy",
     "name": "Methocarbamol 500mg",
     "preventative": false,
     "tier": 3,
     "cost": 15.54
   },
   {
-    "key": "889a6857",
+    "key": "2xd5tqme",
     "name": "Methotrexate 2 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 15.81
   },
   {
-    "key": "0dc0738a",
+    "key": "spjv7uki",
     "name": "Methyclothiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "fc26432f",
+    "key": "lqcfp318",
     "name": "Methyldopa",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5e9a9d15",
+    "key": "ww8qb3xc",
     "name": "Methyldopa Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "012d1bfa",
+    "key": "r3qi4m97",
     "name": "Methylphenidate 10mg",
     "preventative": false,
     "tier": 2,
     "cost": 15.41
   },
   {
-    "key": "5dcb9a70",
+    "key": "abhxlyj3",
     "name": "Methylphenidate 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 17.09
   },
   {
-    "key": "ce2fb80d",
+    "key": "4q79xl5e",
     "name": "Methylphenidate 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.82
   },
   {
-    "key": "7e9b5ddf",
+    "key": "hclxrjx1",
     "name": "Methylphenidate Cd 30mg",
     "preventative": false,
     "tier": 2,
     "cost": 22.14
   },
   {
-    "key": "a2e54b4b",
+    "key": "u2hrs1xa",
     "name": "Methylphenidate Cd 40mg",
     "preventative": false,
     "tier": 3,
     "cost": 44.24
   },
   {
-    "key": "c0f41cb4",
+    "key": "2byp77eb",
     "name": "Methylphenidate Er 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 29.75
   },
   {
-    "key": "303d3fe8",
+    "key": "3vyg8kk9",
     "name": "Methylphenidate Er 18mg",
     "preventative": false,
     "tier": 2,
     "cost": 43.3
   },
   {
-    "key": "d6fbdec5",
+    "key": "oiw67e43",
     "name": "Methylphenidate Er 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 40.91
   },
   {
-    "key": "bbfb0639",
+    "key": "q9wmyp5l",
     "name": "Methylphenidate Er 27mg",
     "preventative": false,
     "tier": 1,
     "cost": 53.64
   },
   {
-    "key": "12bc2ec1",
+    "key": "vft6ct9a",
     "name": "Methylphenidate Er 36mg",
     "preventative": false,
     "tier": 2,
     "cost": 43.61
   },
   {
-    "key": "510b5961",
+    "key": "wa5w77fu",
     "name": "Methylphenidate Er 54mg",
     "preventative": false,
     "tier": 3,
     "cost": 43.07
   },
   {
-    "key": "03e1ef6d",
+    "key": "uwpci5zo",
     "name": "Metoclopramide 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.28
   },
   {
-    "key": "716b60a1",
+    "key": "f5wq1jp1",
     "name": "Metoprolol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "61f3d89c",
+    "key": "6uhmv75f",
     "name": "Metoprolol Succinate Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "286f5afc",
+    "key": "rr77uf4f",
     "name": "Metoprolol Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "319b0f25",
+    "key": "ntkpn00l",
     "name": "Mevacor",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "ee9110a4",
+    "key": "3p0e7jvu",
     "name": "Miacalcin Nasal Spray",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "4cafff6b",
+    "key": "keeznyhi",
     "name": "Micardis",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d4899fbf",
+    "key": "0h8ihtwe",
     "name": "Micardis Hct",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a4852601",
+    "key": "30kizsfv",
     "name": "Microzide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "2c00262e",
+    "key": "emxd5mi3",
     "name": "Midodrine 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 31.13
   },
   {
-    "key": "c96f1a64",
+    "key": "2rgfw9x9",
     "name": "Mifediac Cc",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b63e87a8",
+    "key": "46nbbib1",
     "name": "Miglitol",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e6bd9d4c",
+    "key": "foyevxfy",
     "name": "Minitran",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a63fc362",
+    "key": "k05x60rq",
     "name": "Minocycline 100mg",
     "preventative": false,
     "tier": 2,
     "cost": 18.52
   },
   {
-    "key": "d70f2108",
+    "key": "6gdsaacg",
     "name": "Minocycline 50mg",
     "preventative": false,
     "tier": 3,
     "cost": 14.08
   },
   {
-    "key": "34358d58",
+    "key": "24yrj243",
     "name": "Minoxidil",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "feba5ae1",
+    "key": "159xd3hh",
     "name": "Mirtazapine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "373e865d",
+    "key": "c5h6226x",
     "name": "Modafinil 100mg",
     "preventative": false,
     "tier": 3,
     "cost": 38.64
   },
   {
-    "key": "819f514b",
+    "key": "xawu06w9",
     "name": "Modafinil 200mg",
     "preventative": false,
     "tier": 1,
     "cost": 29.8
   },
   {
-    "key": "45a2994c",
+    "key": "t4czafgr",
     "name": "Moexipril",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "493f7d13",
+    "key": "0ye1qtf6",
     "name": "Moexipril Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "32da6e2d",
+    "key": "ymnj8tld",
     "name": "Mometasone Nasal Spray 50mcg",
     "preventative": false,
     "tier": 1,
     "cost": 60.2
   },
   {
-    "key": "f34aefdb",
+    "key": "g146rvm5",
     "name": "Montelukast",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a25cbfb0",
+    "key": "ecmaojm4",
     "name": "Mosamax Plus D",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "259d6745",
+    "key": "lm3csx06",
     "name": "Moviprep",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1d6dd171",
+    "key": "v902xirz",
     "name": "Multaq",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b073170c",
+    "key": "ue8hnj6m",
     "name": "Mycophenolate Mofetil",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "be95e4f2",
+    "key": "9g88xgzw",
     "name": "Mycophenolate Sodium Delayed Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "9fef9b59",
+    "key": "8v8w460x",
     "name": "Myfortic",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "717c56e1",
+    "key": "33yl7gb5",
     "name": "Myrbetriq 25mg",
     "preventative": false,
     "tier": 3,
     "cost": 106.4
   },
   {
-    "key": "e8480d7e",
+    "key": "dvxwkfaj",
     "name": "Myrbetriq 50mg",
     "preventative": false,
     "tier": 1,
     "cost": 106.45
   },
   {
-    "key": "fb1109d1",
+    "key": "eiyhjekz",
     "name": "Mysoline",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "987b4766",
+    "key": "8t4pykq5",
     "name": "Nadolol",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "81c00b06",
+    "key": "a60a6zxz",
     "name": "Nadolol Bendroflumethiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b1a86990",
+    "key": "tbdil3cj",
     "name": "Naltrexone",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "076f0c35",
+    "key": "dh6oxbtc",
     "name": "Naproxen 250mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.18
   },
   {
-    "key": "41f118f6",
+    "key": "aq72s3j4",
     "name": "Naproxen 500mg",
     "preventative": false,
     "tier": 1,
     "cost": 13.49
   },
   {
-    "key": "120c891c",
+    "key": "1k85n3tf",
     "name": "Nardil",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "26f8a00b",
+    "key": "l3xlg6uw",
     "name": "Nascobal Nasal Spray 500mcg",
     "preventative": false,
     "tier": 3,
     "cost": 12.01
   },
   {
-    "key": "105b66fe",
+    "key": "i332hki3",
     "name": "Nasonex Nasal Spray 50mcg",
     "preventative": false,
     "tier": 1,
     "cost": 12.17
   },
   {
-    "key": "35908fb2",
+    "key": "3zoauhfc",
     "name": "Nateglinide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "262a1762",
+    "key": "3sa25mak",
     "name": "Nature Thyroid 1 5grain",
     "preventative": false,
     "tier": 3,
     "cost": 17.41
   },
   {
-    "key": "ed97fdb3",
+    "key": "5dir9tgv",
     "name": "Neoral",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6582952d",
+    "key": "kwo26kmy",
     "name": "Nesina",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "530c8b32",
+    "key": "yrlva52r",
     "name": "Nevanac Opthalmic Suspension 0 1",
     "preventative": false,
     "tier": 3,
     "cost": 33.24
   },
   {
-    "key": "c09d07b6",
+    "key": "raxu1z3m",
     "name": "Nexium 40mg",
     "preventative": false,
     "tier": 1,
     "cost": 21.29
   },
   {
-    "key": "0f40350f",
+    "key": "vyhjjz04",
     "name": "Niacin Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "362cfed0",
+    "key": "ajmvh4gr",
     "name": "Niacor",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "675c4f13",
+    "key": "kqzy2ccc",
     "name": "Niaspan",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "7e272a64",
+    "key": "knw6n41t",
     "name": "Nicardipine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "2a5589e3",
+    "key": "x0xtr5pg",
     "name": "Nicoderm Cq",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "651b01b7",
+    "key": "8qg99oj3",
     "name": "Nicorette Gum",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8fb5fd1f",
+    "key": "bywz7551",
     "name": "Nicorette Lozenge",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a85c1768",
+    "key": "hkhktmwe",
     "name": "Nicotine Polacrilex Gum",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c133f813",
+    "key": "b4xtmln6",
     "name": "Nicotine Transdermal Patch",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1f0a453d",
+    "key": "o3rf6t8l",
     "name": "Nicotrol Inhaler",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "ad7bb4fe",
+    "key": "3gghoing",
     "name": "Nicotrol Ns",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "7bacb531",
+    "key": "72xe27x9",
     "name": "Nifedipine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b35eb9cf",
+    "key": "y467wqjb",
     "name": "Nifedipine Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "63ed21ea",
+    "key": "4dnjts8x",
     "name": "Nisoldipine Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "279be1a9",
+    "key": "th4hwlya",
     "name": "Nitro Bid",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6daa3c17",
+    "key": "mpneplna",
     "name": "Nitro Dur",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8b7cd67d",
+    "key": "obxszety",
     "name": "Nitroglycerin Transdermal Patch",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "cefeba80",
+    "key": "puy54kmu",
     "name": "Nitrostat Sublingual 0 4mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.97
   },
   {
-    "key": "a7a86e15",
+    "key": "xc6ne2rk",
     "name": "Norpace",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b4487570",
+    "key": "594staqh",
     "name": "Norpace Cr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c61d733e",
+    "key": "0rvigdgr",
     "name": "Norpramin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "018b71f1",
+    "key": "8bi1lz4l",
     "name": "Nortriptyline",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "7c4e7383",
+    "key": "44ali5qr",
     "name": "Norvasc",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e4f4f5ea",
+    "key": "m0d8jt7f",
     "name": "Novolin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f8046c4b",
+    "key": "53ifdw0y",
     "name": "Novolog",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6fbe796e",
+    "key": "kw6mmxcl",
     "name": "Nucala",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "7f37b4d3",
+    "key": "cy1gdtew",
     "name": "Nuedexta 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 184.43
   },
   {
-    "key": 82376660,
+    "key": "9nir62yp",
     "name": "Nulojix",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "726f4646",
+    "key": "vupt084b",
     "name": "Nulytely",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5874898c",
+    "key": "nu49go3b",
     "name": "Olanzapine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "ab9b5ce6",
+    "key": "owh0bo8f",
     "name": "Olanzapine Orally Disintegrating Tablets",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f8c64772",
+    "key": "dpk3ah74",
     "name": "Oleptro",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "72523ab8",
+    "key": "bkhkmj4e",
     "name": "Olmesartan",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "cbf0acf2",
+    "key": "udtuq3cb",
     "name": "Olmesartan Amlodipine Hydrochlorothiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6a2471b0",
+    "key": "u92g7p3b",
     "name": "Olmesartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5ba644d0",
+    "key": "j94a0okj",
     "name": "Oloptadine Opthalmic Solution 0 1",
     "preventative": false,
     "tier": 1,
     "cost": 12.96
   },
   {
-    "key": "76df5214",
+    "key": "5xmblms0",
     "name": "Omeprazole Dr 10mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.75
   },
   {
-    "key": "090d12ca",
+    "key": "r0jngikh",
     "name": "Omeprazole Dr 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 14.16
   },
   {
-    "key": "d970885a",
+    "key": "ox3jq94t",
     "name": "Omeprazole Dr 40mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.9
   },
   {
-    "key": "856eb926",
+    "key": "86u6qzpy",
     "name": "Omnipod",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "abaeba90",
+    "key": "mnw71ezx",
     "name": "Omnipod",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "3ff5ede0",
+    "key": "ie74l1ib",
     "name": "Ondansetron 4mg",
     "preventative": false,
     "tier": 1,
     "cost": 16.41
   },
   {
-    "key": "087f2df2",
+    "key": "n7kbsxbf",
     "name": "Ondansetron Odt 8mg",
     "preventative": false,
     "tier": 2,
     "cost": 22.29
   },
   {
-    "key": "07c2223c",
+    "key": "51xic3fy",
     "name": "Onfi",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c7a247fc",
+    "key": "6sn9ifa1",
     "name": "Onglyza",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "2b046a77",
+    "key": "5on1ixyf",
     "name": "Oralair",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8e335c68",
+    "key": "15wky03t",
     "name": "Oseni",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "b4400344",
+    "key": "f2cs8rf7",
     "name": "Osmoprep",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f544d0e8",
+    "key": "28m8qrt7",
     "name": "Oxcarbazepine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "bc3fe57f",
+    "key": "mtd0j8wr",
     "name": "Oxtellar Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "14b1c9b0",
+    "key": "tiewqwoy",
     "name": "Oxybutynin 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 15.79
   },
   {
-    "key": "4b72446c",
+    "key": "wb13cgeq",
     "name": "Oxybutynin Er 15mg",
     "preventative": false,
     "tier": 2,
     "cost": 19.63
   },
   {
-    "key": "98f9a035",
+    "key": "tw1whagp",
     "name": "Oxybutynin Er 5mg",
     "preventative": false,
     "tier": 3,
     "cost": 19.53
   },
   {
-    "key": "c0289bbf",
+    "key": "svc8squf",
     "name": "Oxybutynin Syrup 5mg 5m L",
     "preventative": false,
     "tier": 1,
     "cost": 16.05
   },
   {
-    "key": "e9c62d07",
+    "key": "4xmzsprk",
     "name": "Oxycodone 10mg",
     "preventative": false,
     "tier": 2,
     "cost": 20.75
   },
   {
-    "key": "3f2d5eb4",
+    "key": "5ao0fgb1",
     "name": "Pacerone",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "dfbf483c",
+    "key": "j86rd99x",
     "name": "Paliperidone",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "385dd227",
+    "key": "1tstgraz",
     "name": "Pamelor",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a28378cc",
+    "key": "puh4uakn",
     "name": "Pantoprazole Dr 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.04
   },
   {
-    "key": "969d711f",
+    "key": "ke6o0h3r",
     "name": "Pantoprazole Dr 40mg",
     "preventative": false,
     "tier": 1,
     "cost": 13.36
   },
   {
-    "key": "6f8894a4",
+    "key": "g5xdzwca",
     "name": "Parnate",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "5a5c17be",
+    "key": "asvvx93u",
     "name": "Paroxetine Hydrochloride",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6c8453e6",
+    "key": "n0wvueiq",
     "name": "Paroxetine Hydrochloride Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a56cc3ad",
+    "key": "01zejsyv",
     "name": "Pataday Opthalmic Solution 0 2",
     "preventative": false,
     "tier": 2,
     "cost": 13.97
   },
   {
-    "key": "494f207a",
+    "key": "1h3l361s",
     "name": "Patanol Opthalmic Solution 0 1",
     "preventative": false,
     "tier": 3,
     "cost": 42.46
   },
   {
-    "key": "ecccd3ba",
+    "key": "yxuclzqb",
     "name": "Paxil",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "0d01708d",
+    "key": "3zeiftd1",
     "name": "Paxil Cr",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c53ddc74",
+    "key": "mai8bqgs",
     "name": "Pazeo Ophtalmic Solution 0 7",
     "preventative": false,
     "tier": 3,
     "cost": 144.12
   },
   {
-    "key": "75b1e3e1",
+    "key": "iv5ig5nt",
     "name": "Pediatric Multivitamins With Fluoride",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "820814d5",
+    "key": "t6n7otst",
     "name": "Peg 3350 Electrolytes",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "404be0d5",
+    "key": "9mqpnio5",
     "name": "Peganone",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f35ab8fb",
+    "key": "lahotsiy",
     "name": "Pendolol",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e80e5b1a",
+    "key": "n08p36wn",
     "name": "Perindopril",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "04cc07d7",
+    "key": "biaoq411",
     "name": "Perphenazine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "0e0a6a2b",
+    "key": "rez32c9z",
     "name": "Pexeva",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "fa7c9e5e",
+    "key": "r66b4n20",
     "name": "Phendimetrazine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "56cf420c",
+    "key": "33ofqu5h",
     "name": "Phendimetrazine Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "15eb421c",
+    "key": "txuet0gr",
     "name": "Phenelzine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a3e1efcb",
+    "key": "1g7og2np",
     "name": "Phenobarbital",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1f4dfbf4",
+    "key": "cnbx0yb9",
     "name": "Phentermine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "dd141e4e",
+    "key": "mpesjmby",
     "name": "Phenytek",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "19f95c6f",
+    "key": "t0k1bm49",
     "name": "Phenytoin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "5f545116",
+    "key": "0cgzzc8n",
     "name": "Phenytoin Sodium Extended Release",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "01f0a698",
+    "key": "a9d5w543",
     "name": "Pioglitazone",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a4ca2578",
+    "key": "ltllf9n6",
     "name": "Pioglitazone Glimepiride",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "efb3171d",
+    "key": "98hh9wnl",
     "name": "Pioglitazone Metformin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "29a1bfa1",
+    "key": "6eduxh2a",
     "name": "Plavix",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "7ac96671",
+    "key": "spzhes5v",
     "name": "Plegridy",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "ce01d20b",
+    "key": "sbqtjuhe",
     "name": "Potassium Chloride Er 10meq",
     "preventative": false,
     "tier": 3,
     "cost": 23.39
   },
   {
-    "key": "afd1250f",
+    "key": "3lwc3zku",
     "name": "Potassium Chloride Er Micro 20meq",
     "preventative": false,
     "tier": 1,
     "cost": 17.36
   },
   {
-    "key": null,
+    "key": "250wy21l",
     "name": "Potiga",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "581b292e",
+    "key": "xz84fbqr",
     "name": "Pradaxa",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "265772ce",
+    "key": "yfphr9mx",
     "name": "Pramipexole 0 25mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.13
   },
   {
-    "key": "c40bf1d6",
+    "key": "knlhz2mv",
     "name": "Prandin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "3018469d",
+    "key": "25ci39s5",
     "name": "Prasugrel",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6586f86b",
+    "key": "15m06j3t",
     "name": "Pravachol",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "165d04c9",
+    "key": "2lwnuxsv",
     "name": "Pravastatin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6f7b38bf",
+    "key": "b2wg0kre",
     "name": "Prazosin 1mg",
     "preventative": false,
     "tier": 3,
     "cost": 22.83
   },
   {
-    "key": "152afecc",
+    "key": "3a2irsvx",
     "name": "Precose",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "81cab6a2",
+    "key": "kv936as9",
     "name": "Pred Forte Opthalmic Suspension 1",
     "preventative": false,
     "tier": 2,
     "cost": 12.05
   },
   {
-    "key": "d0cd7cd7",
+    "key": "pikkkti3",
     "name": "Prednisolone Acetate Opthalmic Solution 1",
     "preventative": false,
     "tier": 3,
     "cost": 35.66
   },
   {
-    "key": 78073149,
+    "key": "clq3g0yy",
     "name": "Prednisone 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.54
   },
   {
-    "key": "31bdb720",
+    "key": "6exkw1yy",
     "name": "Prednisone 1mg",
     "preventative": false,
     "tier": 2,
     "cost": 14.33
   },
   {
-    "key": "e3244007",
+    "key": "msj8e2ub",
     "name": "Prednisone 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 14.85
   },
   {
-    "key": "c43e22ca",
+    "key": "sqm8ck8x",
     "name": "Prednisone 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.53
   },
   {
-    "key": "4cb53687",
+    "key": "3hw7w18v",
     "name": "Premarin 0 9mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "70cd872e",
+    "key": "dbymloth",
     "name": "Premarin Vaginal Cream 0 625mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.42
   },
   {
-    "key": "c2a472f6",
+    "key": "gkuk4wv6",
     "name": "Prempro 0 65 2 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.29
   },
   {
-    "key": "690312d6",
+    "key": "4xzch18i",
     "name": "Preplus 27 1mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.79
   },
   {
-    "key": "074d2f11",
+    "key": "zafbyv40",
     "name": "Prepopik",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "03bc2969",
+    "key": "beq29iaw",
     "name": "Prestalia",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": 90044855,
+    "key": "o17yrxl2",
     "name": "Prevalite",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "7ded1993",
+    "key": "cmz47h45",
     "name": "Prevident 5000 Tooth Paste Plus Boost",
     "preventative": false,
     "tier": 3,
     "cost": 24.17
   },
   {
-    "key": "0e53c244",
+    "key": "6eronwno",
     "name": "Prevident Sensitive 5000 Tooth Paste",
     "preventative": false,
     "tier": 1,
     "cost": 24.17
   },
   {
-    "key": "313db295",
+    "key": "34qa6lvp",
     "name": "Primaquine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "7d54295d",
+    "key": "eqm75e85",
     "name": "Primidone",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "87bd0ca2",
+    "key": "8js3mtqf",
     "name": "Pristiq",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "4208cefe",
+    "key": "u9vfrurw",
     "name": "Pro Air Hfa",
     "preventative": false,
     "tier": 2,
     "cost": 12.08
   },
   {
-    "key": "dea10728",
+    "key": "5ytfo6xy",
     "name": "Pro Air Respiclick",
     "preventative": false,
     "tier": 3,
     "cost": 31.31
   },
   {
-    "key": "36fc4e13",
+    "key": "8wxxgxcu",
     "name": "Probuphene",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "db9fb832",
+    "key": "k5c152ut",
     "name": "Procardia",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e8182abc",
+    "key": "xf0tdw9i",
     "name": "Procardia Xl",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6778cfa7",
+    "key": "gfkj02se",
     "name": "Prograf",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a3331050",
+    "key": "hhkedvlf",
     "name": "Prolia",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f531488c",
+    "key": "lg3jjnor",
     "name": "Promethazine 25mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.47
   },
   {
-    "key": "41cf6632",
+    "key": "u2ymrm7c",
     "name": "Propafenone",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8fa323ed",
+    "key": "pr21rcrj",
     "name": "Propafenone Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "bcd4190f",
+    "key": "0pu3joky",
     "name": "Propranolol",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "2b42d39e",
+    "key": "t7ndrgf3",
     "name": "Propranolol Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "9b9c591f",
+    "key": "z9vvrg8y",
     "name": "Propranolol Hydrochlorothiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c4e25dee",
+    "key": "zg13dvvh",
     "name": "Protopic Ointment 0 03",
     "preventative": false,
     "tier": 3,
     "cost": 12.29
   },
   {
-    "key": "f886a445",
+    "key": "1xq2rp6x",
     "name": "Protriptyline",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "7f666be7",
+    "key": "ovkxwy72",
     "name": "Prozac",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "5706cf6d",
+    "key": "n0awwcy5",
     "name": "Pulmicort",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5805ae40",
+    "key": "lfjf34px",
     "name": "Pulmicort Flexhaler",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "9702605f",
+    "key": "ie7iz7dg",
     "name": "Pulmicort Flexhaler 180mcg",
     "preventative": false,
     "tier": 2,
     "cost": 17.21
   },
   {
-    "key": "6fde6e98",
+    "key": "93iwpeu8",
     "name": "Pulmozyme Solution 1mg 1m L",
     "preventative": false,
     "tier": 3,
     "cost": 2536.29
   },
   {
-    "key": "8e5f9fad",
+    "key": "z0kz5u06",
     "name": "Qbrelis",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8f24a21f",
+    "key": "1ldn3zqm",
     "name": "Qnasl Nasal Spray 80mcg",
     "preventative": false,
     "tier": 2,
     "cost": 47.25
   },
   {
-    "key": "e6cc289a",
+    "key": "yx044p3t",
     "name": "Qsymia",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5cfc4bd9",
+    "key": "1lsjgn3g",
     "name": "Quedexy Xr",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "ab968473",
+    "key": "vz3xtass",
     "name": "Questran",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a6a6af76",
+    "key": "qoou68ga",
     "name": "Questran Light",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "fcf300cb",
+    "key": "lv2tk7x8",
     "name": "Quetiapine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "684693c8",
+    "key": "ycflxp6t",
     "name": "Quetiapine Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f584af0d",
+    "key": "wcm9dnb0",
     "name": "Quinapril",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "8fa93fa7",
+    "key": "wlz2do5w",
     "name": "Quinapril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b6c57b45",
+    "key": "jy3xvy71",
     "name": "Qvar",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "91415ba9",
+    "key": "hau50jgg",
     "name": "Ragwitek",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "75a92a86",
+    "key": "wqvv22eb",
     "name": "Raloxifene 60mg",
     "preventative": false,
     "tier": 1,
     "cost": 23.19
   },
   {
-    "key": "c15c393f",
+    "key": "5qdcw8n6",
     "name": "Raloxifine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a5d58be4",
+    "key": "efw25n97",
     "name": "Ramipril",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "74a42619",
+    "key": "huo6ygkl",
     "name": "Ranexa 500mg",
     "preventative": false,
     "tier": 1,
     "cost": 118.85
   },
   {
-    "key": "956dd8d1",
+    "key": "j5da6rem",
     "name": "Ranitidine 150mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.37
   },
   {
-    "key": "ed32026f",
+    "key": "vf9lm2wq",
     "name": "Ranitidine 300mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.42
   },
   {
-    "key": "3141b02b",
+    "key": "eik570cg",
     "name": "Ranitidine Syrup 15mg 1m L",
     "preventative": false,
     "tier": 1,
     "cost": 14.52
   },
   {
-    "key": "cc0ea521",
+    "key": "icsycw4v",
     "name": "Rapamune",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1abc8420",
+    "key": "qmnhccst",
     "name": "Rebif",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "fe1a5c95",
+    "key": "mny9qior",
     "name": "Reclast",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "18ce3fff",
+    "key": "h433dtw0",
     "name": "Regimex",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1a0689ff",
+    "key": "vq2q18ny",
     "name": "Relpax 40mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.04
   },
   {
-    "key": "615137c2",
+    "key": "smlxqrkn",
     "name": "Remeron",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "2ddf16b8",
+    "key": "tjof212j",
     "name": "Repaglinide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "e17972b2",
+    "key": "pvohhx7i",
     "name": "Repaglinide Metformin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "bfb26fe6",
+    "key": "wtgei7yt",
     "name": "Restasis Eye Drops 0 05",
     "preventative": false,
     "tier": 1,
     "cost": 12.46
   },
   {
-    "key": "1ab837dc",
+    "key": "dk270oso",
     "name": "Rexulti",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "0c4f400e",
+    "key": "rc55l0z8",
     "name": "Riomet",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "157879c2",
+    "key": "pcxtjwzb",
     "name": "Risedronate",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "65100d43",
+    "key": "dk4sptop",
     "name": "Risperdal",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": 32665101,
+    "key": "8bltlvv2",
     "name": "Risperdal Consta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c81555c2",
+    "key": "14two6ln",
     "name": "Risperidone",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e8e8749c",
+    "key": "j2l463sz",
     "name": "Ritalin La 20mg",
     "preventative": false,
     "tier": 2,
     "cost": 43.3
   },
   {
-    "key": "619f34a0",
+    "key": "8bwxmsb2",
     "name": "Ritalin La 30mg",
     "preventative": false,
     "tier": 3,
     "cost": 44.75
   },
   {
-    "key": "5d5282cb",
+    "key": "097bnctx",
     "name": "Rizatriptan 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 18.48
   },
   {
-    "key": "b24e8968",
+    "key": "f97vacvh",
     "name": "Ropinirole 0 25mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "9e2b3196",
+    "key": "cmoh12cs",
     "name": "Ropinirole 0 5mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.7
   },
   {
-    "key": "22db56ad",
+    "key": "qhkq48jl",
     "name": "Ropinirole 1mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.98
   },
   {
-    "key": "9a58c547",
+    "key": "nqha2w1v",
     "name": "Ropinirole 2mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.51
   },
   {
-    "key": "85a2cad9",
+    "key": "6b4fclsz",
     "name": "Rosuvastatin",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "074ddf63",
+    "key": "lswuxbht",
     "name": "Roweepra",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6d282f82",
+    "key": "tkwntjzy",
     "name": "Rythmol Sr",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "9ab57a57",
+    "key": "k55hza6d",
     "name": "Sabril",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ca66cfed",
+    "key": "gt5cwuq5",
     "name": "Sandimmune",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "3ae5a3b5",
+    "key": "4z8kg7j0",
     "name": "Saphris",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8df91298",
+    "key": "q310dvef",
     "name": "Savaysa",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "db528708",
+    "key": "9fkgm1gd",
     "name": "Saxenda",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "3d865418",
+    "key": "rdl5293l",
     "name": "Sectral",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "cc343cfa",
+    "key": "dtjiq8nw",
     "name": "Selenium Sulfate Lotion 2 5",
     "preventative": false,
     "tier": 3,
     "cost": 15.68
   },
   {
-    "key": "9a00b3b6",
+    "key": "dghuttvc",
     "name": "Serevent Diskus 50mcg",
     "preventative": false,
     "tier": 1,
     "cost": 12.58
   },
   {
-    "key": "2a79e9a6",
+    "key": "otxx1eoh",
     "name": "Seroquel",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1c0b2962",
+    "key": "1l7gzwx0",
     "name": "Seroquel Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f1935904",
+    "key": "v270lng9",
     "name": "Sertraline",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e1aaf4f8",
+    "key": "iaolp2jv",
     "name": "Sf 5000 Plus Dental Cream 1 1",
     "preventative": false,
     "tier": 2,
     "cost": 18.5
   },
   {
-    "key": "eb779964",
+    "key": "zyczt9k8",
     "name": "Silenor 6mg",
     "preventative": false,
     "tier": 3,
     "cost": 20.7
   },
   {
-    "key": "79e11c39",
+    "key": "sfk5yxig",
     "name": "Simvastatin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "37333f92",
+    "key": "zqbpathk",
     "name": "Singulair",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8d62e604",
+    "key": "x10rmzpl",
     "name": "Sirolimus",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6be490a6",
+    "key": "xt6yezje",
     "name": "Sodium Chloride Nubulizer 0 9",
     "preventative": false,
     "tier": 1,
     "cost": 39.09
   },
   {
-    "key": "660fa1b7",
+    "key": "yvva5ays",
     "name": "Sodium Fluoride",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "0553980b",
+    "key": "0vciwcgv",
     "name": "Soliqua",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1a3115d5",
+    "key": "plaruin5",
     "name": "Soltamox",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "2b6e23c2",
+    "key": "b7cgk8r9",
     "name": "Sorine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "78f36e13",
+    "key": "ulnb25z9",
     "name": "Sotalol",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "701cf4d6",
+    "key": "u1sdfrn8",
     "name": "Sotalol Af",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "06f1317a",
+    "key": "kedbgd29",
     "name": "Sotylize",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a41883be",
+    "key": "yy6amwy5",
     "name": "Spacers",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "b1010ac5",
+    "key": "rkew4bzk",
     "name": "Spiriva Respimat",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "2dcaa308",
+    "key": "tp5axcrd",
     "name": "Spironolacton Hydrochlorothiazide",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8a4c457a",
+    "key": "ecq78t6i",
     "name": "Spironolactone 25mg",
     "preventative": false,
     "tier": 3,
     "cost": 14.88
   },
   {
-    "key": "641f3418",
+    "key": "vxfbzrml",
     "name": "Spritam",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d70ba455",
+    "key": "xezq54z5",
     "name": "Ssd Cream 1",
     "preventative": false,
     "tier": 2,
     "cost": 14.64
   },
   {
-    "key": "957407ba",
+    "key": "g3wq3nc2",
     "name": "Starlix",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "d6e8edd1",
+    "key": "0n4vptow",
     "name": "Strattera 10mg",
     "preventative": false,
     "tier": 1,
     "cost": 27.53
   },
   {
-    "key": "f98758a1",
+    "key": "sag8vzln",
     "name": "Strattera 18mg",
     "preventative": false,
     "tier": 2,
     "cost": 29.64
   },
   {
-    "key": "37d898ab",
+    "key": "wx1adnd3",
     "name": "Strattera 25mg",
     "preventative": false,
     "tier": 3,
     "cost": 33.27
   },
   {
-    "key": "9d832c41",
+    "key": "qtgtdfkc",
     "name": "Strattera 80mg",
     "preventative": false,
     "tier": 1,
     "cost": 33.44
   },
   {
-    "key": "7acdc38e",
+    "key": "4041gemq",
     "name": "Suboxone Film",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f7217f89",
+    "key": "48jh6tpf",
     "name": "Sucralfate 1gm",
     "preventative": false,
     "tier": 3,
     "cost": 23.59
   },
   {
-    "key": "c78cdc23",
+    "key": "r814stdz",
     "name": "Sular",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f74d6aea",
+    "key": "g947xil8",
     "name": "Sumatriptan 100mg",
     "preventative": false,
     "tier": 2,
     "cost": 19.06
   },
   {
-    "key": "aca14ba8",
+    "key": "wokyqm1q",
     "name": "Sumatriptan 25mg",
     "preventative": false,
     "tier": 3,
     "cost": 13.28
   },
   {
-    "key": "4fe89e43",
+    "key": "6vphftv8",
     "name": "Sumatriptan 50mg",
     "preventative": false,
     "tier": 1,
     "cost": 14.91
   },
   {
-    "key": "f2091b6e",
+    "key": "l9mjny6p",
     "name": "Sumatriptan Injection 6mg 0 5m L",
     "preventative": false,
     "tier": 2,
     "cost": 139.24
   },
   {
-    "key": "37937c90",
+    "key": "tx24z4xk",
     "name": "Sumatriptan Spray 20mg",
     "preventative": false,
     "tier": 3,
     "cost": 80.33
   },
   {
-    "key": "2b0c793a",
+    "key": "ugsvr4y5",
     "name": "Suprep",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8f60ee52",
+    "key": "qclxeg58",
     "name": "Surmontil",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c73c64d6",
+    "key": "a9r95wy7",
     "name": "Symbicort",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "b6d0de1f",
+    "key": "vmqy5sgu",
     "name": "Symelin Pen",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e34b8000",
+    "key": "quf534bj",
     "name": "Synagis",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1830a8ce",
+    "key": "o96530qs",
     "name": "Synjardy",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "11e38f4b",
+    "key": "ho57oidu",
     "name": "Synthroid 100mcg",
     "preventative": false,
     "tier": 1,
     "cost": 35.6
   },
   {
-    "key": "ca27a0fe",
+    "key": "h2f1jkzd",
     "name": "Synthroid 125mcg",
     "preventative": false,
     "tier": 2,
     "cost": 36.25
   },
   {
-    "key": "f9953c4c",
+    "key": "9z0bguih",
     "name": "Synthroid 137mcg",
     "preventative": false,
     "tier": 3,
     "cost": 36.89
   },
   {
-    "key": "028fbdec",
+    "key": "40zdxvx8",
     "name": "Synthroid 150mcg",
     "preventative": false,
     "tier": 1,
     "cost": 37.19
   },
   {
-    "key": "67e5746e",
+    "key": "0m3baewe",
     "name": "Synthroid 175mcg",
     "preventative": false,
     "tier": 2,
     "cost": 39.65
   },
   {
-    "key": "7a2a9443",
+    "key": "csigbk91",
     "name": "Synthroid 200mcg",
     "preventative": false,
     "tier": 3,
     "cost": 39.67
   },
   {
-    "key": "bdd1feb6",
+    "key": "dxkpd5he",
     "name": "Synthroid 75mcg",
     "preventative": false,
     "tier": 1,
     "cost": 34.85
   },
   {
-    "key": "f5999e81",
+    "key": "m7fagg3u",
     "name": "Synthroid 88mcg",
     "preventative": false,
     "tier": 2,
     "cost": 35.32
   },
   {
-    "key": "bb254833",
+    "key": "7anfximu",
     "name": "Tacrolimus",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e247fcc5",
+    "key": "gk94yg2u",
     "name": "Tamoxifen",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "0d3e19bc",
+    "key": "ega973z2",
     "name": "Tamsulosin 0 4mg",
     "preventative": false,
     "tier": 2,
     "cost": 13.01
   },
   {
-    "key": "baac18cb",
+    "key": "y5m2f0sr",
     "name": "Tanzeum",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a0b2f293",
+    "key": "rebclsnz",
     "name": "Tapazole 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 64.2
   },
   {
-    "key": "6448a2d7",
+    "key": "a9uktwc2",
     "name": "Tarka",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "7245e72c",
+    "key": "u8mkciza",
     "name": "Taztia Xt",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "a77c274c",
+    "key": "vtorcbs4",
     "name": "Tecfidera",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a8fc9145",
+    "key": "sfts19e0",
     "name": "Tegretol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "ff7af1db",
+    "key": "ly3yxm07",
     "name": "Tegretol Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ebd445cb",
+    "key": "ebsvcbzx",
     "name": "Tekturna",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f2158e8f",
+    "key": "qnnwg2se",
     "name": "Tekturna Hct",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": 79327154,
+    "key": "52b3qved",
     "name": "Telmisartan",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c87c5df9",
+    "key": "59106n3h",
     "name": "Telmisartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "8a93ffe1",
+    "key": "gi634313",
     "name": "Tenex",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "2e56132f",
+    "key": "ls9yz8s9",
     "name": "Tenoretic",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "5e6afa73",
+    "key": "ffdv9gra",
     "name": "Tenormin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f0e41899",
+    "key": "d74izwir",
     "name": "Terbinafine 250mg",
     "preventative": false,
     "tier": 2,
     "cost": 14.26
   },
   {
-    "key": "25d50580",
+    "key": "vhm2301e",
     "name": "Thioridazine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "af8fbac9",
+    "key": "vc2zwbi4",
     "name": "Thiothixene",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "4ebf73f9",
+    "key": "0gz79van",
     "name": "Tiagabine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1945cfa2",
+    "key": "ns59q8at",
     "name": "Tiazac",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ce74b935",
+    "key": "twrqakt8",
     "name": "Tikosyn",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "653b7cf8",
+    "key": "8x16a8ur",
     "name": "Timolol Maleate",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "41ba083d",
+    "key": "qsmsfbrm",
     "name": "Tizanidine 2mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.68
   },
   {
-    "key": "fdcae7a1",
+    "key": "2jg03zrx",
     "name": "Tizanidine 4mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.92
   },
   {
-    "key": "03569c4b",
+    "key": "hd9ucvy7",
     "name": "Tofranil",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "bc5587c2",
+    "key": "vpgy0eyr",
     "name": "Tolbutamide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "3b39c8cb",
+    "key": "4wj8y6yr",
     "name": "Tolterodine Er 2mg",
     "preventative": false,
     "tier": 1,
     "cost": 18.9
   },
   {
-    "key": "9e51bd68",
+    "key": "vty20x5h",
     "name": "Topamax",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "d800dfc1",
+    "key": "qh9py9fi",
     "name": "Topiramate",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e586feb2",
+    "key": "ysp93he8",
     "name": "Topiramate Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "6630bcd4",
+    "key": "guqfzsr0",
     "name": "Toprol Xl",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "a8f66994",
+    "key": "84t5rz0v",
     "name": "Toujeo",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6686dff4",
+    "key": "xr8kwtux",
     "name": "Toviaz 4mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.29
   },
   {
-    "key": "30a4a746",
+    "key": "4qfsxdf8",
     "name": "Toviaz 8mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.29
   },
   {
-    "key": "a1b1e80d",
+    "key": "xbcwtoc6",
     "name": "Tradjenta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "60e6e77a",
+    "key": "beph47rq",
     "name": "Tramadol 50mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.51
   },
   {
-    "key": "e9c8e0fa",
+    "key": "zagwle5a",
     "name": "Trandate",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "0ad79adc",
+    "key": "icgb3eio",
     "name": "Trandolapril",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e813dde9",
+    "key": "1npnl3g0",
     "name": "Trandolapril Verapamil Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "afe94be3",
+    "key": "8al3li23",
     "name": "Tranylcypromine",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "5f6ba4f2",
+    "key": "jorksmmw",
     "name": "Travatan Z Opthalmic Solution 0 004",
     "preventative": false,
     "tier": 3,
     "cost": 21.73
   },
   {
-    "key": "f4dfd1bd",
+    "key": "qo5kahpm",
     "name": "Travoprost Opthalmic Drops 0 004",
     "preventative": false,
     "tier": 1,
     "cost": 160.54
   },
   {
-    "key": "ad8ddec6",
+    "key": "qq32fpt7",
     "name": "Trazodone",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "6fbd86c4",
+    "key": "9dzja521",
     "name": "Tresiba",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "4385d778",
+    "key": "09wninrs",
     "name": "Tretinoin Cream 0 025",
     "preventative": false,
     "tier": 1,
     "cost": 20.6
   },
   {
-    "key": "8eac641b",
+    "key": "4yyp8tfi",
     "name": "Tretinoin Gel 0 04",
     "preventative": false,
     "tier": 2,
     "cost": 12.44
   },
   {
-    "key": "6c4e7d61",
+    "key": "kk4tbod5",
     "name": "Tretinoin Gel 0 1",
     "preventative": false,
     "tier": 3,
     "cost": 12.44
   },
   {
-    "key": "3dafe196",
+    "key": "ekuuhfoa",
     "name": "Triamcinolone Cream 0 1",
     "preventative": false,
     "tier": 1,
     "cost": 13.29
   },
   {
-    "key": "4f12c898",
+    "key": "qr9ng996",
     "name": "Triamcinolone Dental Paste 0 1",
     "preventative": false,
     "tier": 2,
     "cost": 26.78
   },
   {
-    "key": "829fd8e4",
+    "key": "qzwwt6i4",
     "name": "Triamcinolone Lotion 0 1",
     "preventative": false,
     "tier": 3,
     "cost": 15.72
   },
   {
-    "key": "83224cf5",
+    "key": "iyecy1h6",
     "name": "Triamcinolone Ointment 0 1",
     "preventative": false,
     "tier": 1,
     "cost": 20.31
   },
   {
-    "key": "6f30f00b",
+    "key": "2gi3j7iv",
     "name": "Triamcinolone Ointment 0 5",
     "preventative": false,
     "tier": 2,
     "cost": 25.35
   },
   {
-    "key": "b5c0f277",
+    "key": "8ojphjd8",
     "name": "Triamterene Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "0de60242",
+    "key": "xdthi8bo",
     "name": "Tribenzor",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e0ab213a",
+    "key": "bghjfd82",
     "name": "Tricor",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "8f83180d",
+    "key": "bbt9yx71",
     "name": "Trifluoperazine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1d1b7958",
+    "key": "k1oeryep",
     "name": "Triglide",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "074b0ecc",
+    "key": "jb30i2ud",
     "name": "Trileptal",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "9a63126d",
+    "key": "2h49lyfs",
     "name": "Trilipix",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ad2b289e",
+    "key": "is34ekt6",
     "name": "Trimipramine",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b24bc39a",
+    "key": "ws979d3l",
     "name": "Trintellix",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "d764f661",
+    "key": "e5h4qf4r",
     "name": "Trokendi Xr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "e2180d36",
+    "key": "7j8b0zsi",
     "name": "Trulicity",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "3131812a",
+    "key": "gqhp3r9e",
     "name": "Truvada 200 300mg",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "43cf6b63",
+    "key": "ruz45v3k",
     "name": "Twynsta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "0bab5dd6",
+    "key": "umvew18w",
     "name": "Tysabri",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b1e46d0d",
+    "key": "mb6i2car",
     "name": "Urine Testing Supplies",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "1206cacd",
+    "key": "yq8egg5u",
     "name": "Ursodiol 300mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.87
   },
   {
-    "key": "00cf6f5e",
+    "key": "kdoulkfu",
     "name": "Vagifem 10mcg",
     "preventative": false,
     "tier": 1,
     "cost": 12.18
   },
   {
-    "key": "44d61bce",
+    "key": "ux4efwur",
     "name": "Valacyclovir 1gm",
     "preventative": false,
     "tier": 2,
     "cost": 21.8
   },
   {
-    "key": "9bfdbcd8",
+    "key": "xvz0wtiq",
     "name": "Valacyclovir 500mg",
     "preventative": false,
     "tier": 3,
     "cost": 14.6
   },
   {
-    "key": "a4ad3109",
+    "key": "c2liogwy",
     "name": "Valproic Acid",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "b4370466",
+    "key": "w0bqp0aq",
     "name": "Valsartan",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c1a6ad7e",
+    "key": "fw1guh2v",
     "name": "Valsartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "c4d7906e",
+    "key": "ggsxeyl5",
     "name": "Vaseretic",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "f54a17d7",
+    "key": "s05coufl",
     "name": "Vasotec",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "55dbfc4f",
+    "key": "itp098hk",
     "name": "Venlafaxine",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "2b42830b",
+    "key": "kausnc2o",
     "name": "Venlafaxine Er",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "1b24c8e4",
+    "key": "10hruy1g",
     "name": "Venlafaxine Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "4800f79a",
+    "key": "lu7kllgt",
     "name": "Ventolin Hfa",
     "preventative": false,
     "tier": 3,
     "cost": 19.66
   },
   {
-    "key": "542fafc7",
+    "key": "l8fiswjs",
     "name": "Veramyst Nasal Spray 27 5mcg",
     "preventative": false,
     "tier": 1,
     "cost": 19.83
   },
   {
-    "key": "7879e44e",
+    "key": "4bkf5kzw",
     "name": "Verapamil",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "95cc3c28",
+    "key": "vpkfzu8e",
     "name": "Verapamil",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1c58a097",
+    "key": "dx9kudq4",
     "name": "Verapamil Extended Release",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "5569e5e7",
+    "key": "4xbe6te5",
     "name": "Verapamil Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "0ec4d64c",
+    "key": "pxj9fy4n",
     "name": "Verelan",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "df166a87",
+    "key": "8qg83a33",
     "name": "Verelan Pm",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "e678bc42",
+    "key": "ccojz0zy",
     "name": "Versacloz",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "cc4ef1eb",
+    "key": "cnb2wfj1",
     "name": "Vesicare 10mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.29
   },
   {
-    "key": "a2b9b730",
+    "key": "xmdgzz6z",
     "name": "Vesicare 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.29
   },
   {
-    "key": "5cea49ff",
+    "key": "0vtwvj6g",
     "name": "Viagra 100mg",
     "preventative": false,
     "tier": 2,
     "cost": 12.12
   },
   {
-    "key": "079d3f50",
+    "key": "oait024b",
     "name": "Victoza",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f8e1cefa",
+    "key": "jmsfo5ng",
     "name": "Vigabatrin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "377ef2f8",
+    "key": "0sh8cngi",
     "name": "Viibryd",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "5b64023e",
+    "key": "21xsm2p3",
     "name": "Vimpat",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "4a7205b8",
+    "key": "pzfrnsx5",
     "name": "Vitamin D2 50000 Units",
     "preventative": false,
     "tier": 1,
     "cost": 12.08
   },
   {
-    "key": "3b464dc4",
+    "key": "60wnujke",
     "name": "Voltaren Gel 1",
     "preventative": false,
     "tier": 2,
     "cost": 12.92
   },
   {
-    "key": "f7203907",
+    "key": "vv82wpje",
     "name": "Vraylar",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": 13905470,
+    "key": "miyqr5pg",
     "name": "Vsl 3",
     "preventative": false,
     "tier": 1,
     "cost": 151.32
   },
   {
-    "key": "e98906cb",
+    "key": "vc4k5om1",
     "name": "Vytorin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b0a51bbc",
+    "key": "3cfnl6s5",
     "name": "Vyvanse 10mg",
     "preventative": false,
     "tier": 3,
     "cost": 159.86
   },
   {
-    "key": "a3213790",
+    "key": "qwralnqt",
     "name": "Vyvanse 20mg",
     "preventative": false,
     "tier": 1,
     "cost": 67.17
   },
   {
-    "key": "2e624cf9",
+    "key": "d1lnfb5s",
     "name": "Vyvanse 30mg",
     "preventative": false,
     "tier": 2,
     "cost": 62.65
   },
   {
-    "key": "0a6d32b1",
+    "key": "fmufpe8j",
     "name": "Vyvanse 40mg",
     "preventative": false,
     "tier": 3,
     "cost": 67.07
   },
   {
-    "key": "4c58d76a",
+    "key": "kvpekfp7",
     "name": "Vyvanse 50mg",
     "preventative": false,
     "tier": 1,
     "cost": 62.8
   },
   {
-    "key": "651f1709",
+    "key": "ze0lzeqq",
     "name": "Vyvanse 60mg",
     "preventative": false,
     "tier": 2,
     "cost": 66.43
   },
   {
-    "key": "9231a7ad",
+    "key": "ng3bhocu",
     "name": "Vyvanse 70mg",
     "preventative": false,
     "tier": 3,
     "cost": 62.66
   },
   {
-    "key": "8433180c",
+    "key": "db03oxmx",
     "name": "Warfarin",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "c661f287",
+    "key": "jriguaz8",
     "name": "Welchol",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "c78eb771",
+    "key": "4bcs4ej2",
     "name": "Wellbutrin Sr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "735d6b44",
+    "key": "zervmwiw",
     "name": "Wellbutrin Xl",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "819f7703",
+    "key": "n3l7zy3q",
     "name": "Xarelto",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "5ceb5315",
+    "key": "hfkiwi2f",
     "name": "Xenical",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f02124e6",
+    "key": "qqkqourg",
     "name": "Xigduo Xr",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "385cc9c9",
+    "key": "4w6jwc34",
     "name": "Xiidra Opthalmic Solution 5",
     "preventative": false,
     "tier": 2,
     "cost": 459
   },
   {
-    "key": "f611f4fb",
+    "key": "f4n2l93r",
     "name": "Xolair",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "759e9a0d",
+    "key": "22tp9c36",
     "name": "Xopenex Hfa",
     "preventative": false,
     "tier": 1,
     "cost": 18.93
   },
   {
-    "key": "e8e87e1c",
+    "key": "6whcbzfx",
     "name": "Yosprala",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "57a9e85c",
+    "key": "9yl5pu0k",
     "name": "Yuvafem Vaginal Tablets 10mcg",
     "preventative": false,
     "tier": 3,
     "cost": 90.53
   },
   {
-    "key": "38d34d7b",
+    "key": "imm55483",
     "name": "Zafirlukast",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "a3b11c18",
+    "key": "tuk5vzfu",
     "name": "Zarontin",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "f4adba4f",
+    "key": "wymwk42h",
     "name": "Zebeta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "6db9883a",
+    "key": "ya444mb8",
     "name": "Zestoretic",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "5a06cec8",
+    "key": "v45y1i0e",
     "name": "Zestril",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "0ac16b89",
+    "key": "33qya0my",
     "name": "Zetia",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "d4255c05",
+    "key": "ewz0cixh",
     "name": "Ziac",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d5230043",
+    "key": "x7z2npuk",
     "name": "Zileuton Extended Release",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "95ea78c1",
+    "key": "ar368333",
     "name": "Zinbryta",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "1f2d1d43",
+    "key": "e0hps6e9",
     "name": "Ziprasidone",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": null,
+    "key": "z82c2wby",
     "name": "Zocor",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "40b28be3",
+    "key": "f1vyhdih",
     "name": "Zoledronic Acid",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "70e5cb4b",
+    "key": "gvjbcr9k",
     "name": "Zolmitriptan 2 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.12
   },
   {
-    "key": "699c002b",
+    "key": "gg7uzvu6",
     "name": "Zoloft",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "feb41121",
+    "key": "ojogj0tn",
     "name": "Zolpidem 10mg",
     "preventative": false,
     "tier": 3,
     "cost": 12.34
   },
   {
-    "key": "2ceaee89",
+    "key": "ob42e3vx",
     "name": "Zolpidem 5mg",
     "preventative": false,
     "tier": 1,
     "cost": 12.24
   },
   {
-    "key": "996b5225",
+    "key": "39dvvzmk",
     "name": "Zolpidem Er 12 5mg",
     "preventative": false,
     "tier": 2,
     "cost": 16.52
   },
   {
-    "key": "ef6fb774",
+    "key": "0z61qn95",
     "name": "Zolpidem Er 6 25mg",
     "preventative": false,
     "tier": 3,
     "cost": 17.03
   },
   {
-    "key": "d12a44d3",
+    "key": "s2f5yykl",
     "name": "Zomig Nasal Spray 2 5mcg",
     "preventative": false,
     "tier": 1,
     "cost": 183.38
   },
   {
-    "key": "3cc99172",
+    "key": "x9mwkx6c",
     "name": "Zonegran",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "9d23f5d3",
+    "key": "hj18w9zw",
     "name": "Zonisamide",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "18de8b84",
+    "key": "oskrqoif",
     "name": "Zonitivity",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "85f06cb3",
+    "key": "et63x02h",
     "name": "Zortress",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "b2992ad9",
+    "key": "htaiaq6b",
     "name": "Zubsolv",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "f0debd9a",
+    "key": "79z6tpzw",
     "name": "Zyban",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "eb583808",
+    "key": "yp60ns45",
     "name": "Zyflo",
     "preventative": true,
     "tier": 2,
     "cost": null
   },
   {
-    "key": "bee9251d",
+    "key": "enstoc04",
     "name": "Zyflo Cr",
     "preventative": true,
     "tier": 3,
     "cost": null
   },
   {
-    "key": "ea673ca9",
+    "key": "ujy74dvp",
     "name": "Zyprexa",
     "preventative": true,
     "tier": 1,
     "cost": null
   },
   {
-    "key": "d24be9cb",
+    "key": "zli0r3br",
     "name": "Zyprexa Zydis",
     "preventative": true,
     "tier": 2,
