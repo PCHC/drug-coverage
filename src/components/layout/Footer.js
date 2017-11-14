@@ -10,7 +10,7 @@ export default class Footer extends React.Component {
         </p>
         <hr/>
         <p>
-          Version 0.1.0<br/>
+          Version 0.2.0<br/>
           <a title="View source code on GitHub" className="text-muted" target="_blank" rel="noopener noreferrer" href="https://github.com/PCHC/drug-coverage">
             <i className="fa fa-github fa-lg"></i>
           </a>
