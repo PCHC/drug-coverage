@@ -33,7 +33,6 @@
   },
   "devDependencies": {
     "babel-polyfill": "^6.26.0",
-    "gh-pages": "^1.0.0",
     "jspolyfill-array.prototype.find": "^0.1.3"
   }
 }
