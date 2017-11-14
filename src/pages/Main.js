@@ -2,6 +2,8 @@ import React from 'react';
 
 import DrugPage from './DrugPage';
 import Home from './Home';
+import Footer from '../components/layout/Footer';
+import Disclaimer from '../components/layout/Disclaimer';
 
 import * as DrugActions from '../actions/DrugActions';
 import * as PlanActions from '../actions/PlanActions';
@@ -70,10 +72,8 @@ export default class Main extends React.Component {
         :
           <DrugPage {...this.state} {...this.props} />
         }
-        <hr />
-        <p className="text-center text-info">These are estimates based on average 30-day supplies to help employees gauge how much their prescriptions could cost for  2018.<br/>
-        Individual prescriptions may cost more or less than estimated.<br/>
-        Costs of medications are subject to change as low-cost medications change and drug costs rise.</p>
+        <Disclaimer />
+        <Footer />
       </div>
     );
   }
