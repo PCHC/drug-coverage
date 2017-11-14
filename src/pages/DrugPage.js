@@ -14,7 +14,7 @@ export default class DrugPage extends React.Component {
     if(!drug) {
       return(
         <div>
-          <h2>No Drug '{match.params.name}' Found</h2>
+          <h2>No Drug with ID '{match.params.name}' Found</h2>
           <DrugSearch value='' {...this.props} />
         </div>
       );
