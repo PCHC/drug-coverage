@@ -11,7 +11,7 @@ export default class Footer extends React.Component {
             If you are unable to find a drug, <a href="mailto:cmagee@pchc.com">contact Chelsea Magee</a>.</p>
           </div>
           <div className="col text-right">
-            <p>Version 0.1 <a className="text-muted" target="_blank" rel="noopener noreferrer" href="https://github.com/PCHC/drug-coverage"><i className="fa fa-github"></i></a></p>
+            <p>Version 0.1.0 <a className="text-muted" target="_blank" rel="noopener noreferrer" href="https://github.com/PCHC/drug-coverage"><i className="fa fa-github"></i></a></p>
           </div>
         </div>
       </footer>
