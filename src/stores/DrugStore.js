@@ -3,8 +3,8 @@ import { EventEmitter } from 'events';
 // Store gets Actions from the Dispatcher and sends changes to the Component
 
 import dispatcher from '../dispatcher';
-//import DrugList from '../data/DrugList';
-import DrugList from '../data/DummyDrugList';
+import DrugList from '../data/DrugList';
+//import DrugList from '../data/DummyDrugList';
 import 'jspolyfill-array.prototype.find';
 
 class DrugStore extends EventEmitter {
