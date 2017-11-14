@@ -4,6 +4,7 @@ $list-group-border-radius: 0;
 .drugs-autocomplete {
   .list-group {
     position: fixed;
+    z-index: 999;
     background: #fff;
     width: calc(100% - 2rem );
     left: 1rem;

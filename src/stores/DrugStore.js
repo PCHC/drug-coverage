@@ -5,7 +5,6 @@ import { EventEmitter } from 'events';
 import dispatcher from '../dispatcher';
 //import DrugList from '../data/DrugList';
 import DrugList from '../data/DummyDrugList';
-import PlanCostList from '../data/PlanCostList';
 import 'jspolyfill-array.prototype.find';
 
 class DrugStore extends EventEmitter {
@@ -13,7 +12,6 @@ class DrugStore extends EventEmitter {
     super();
 
     this.drugs = DrugList;
-    this.plans = PlanCostList;
     this.drug = {};
     this.plan = {};
   }
