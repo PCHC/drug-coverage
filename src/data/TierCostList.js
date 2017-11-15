@@ -1,5 +1,11 @@
 const TierCostList = {
   preventative: {
+    0: {
+      'ppohome': 0,
+      'ppochoice': 0,
+      'hdhphome': 0,
+      'hdhpchoice': 0
+    },
     1: {
       'ppohome': 4,
       'ppochoice': 4,
@@ -20,6 +26,12 @@ const TierCostList = {
     }
   },
   nonpreventative: {
+    0: {
+      'ppohome': 0,
+      'ppochoice': 0,
+      'hdhphome': 0,
+      'hdhpchoice': 0
+    },
     1: {
       'ppohome': 4,
       'ppochoice': 4,
