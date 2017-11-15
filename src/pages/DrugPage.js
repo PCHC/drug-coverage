@@ -29,7 +29,7 @@ export default class DrugPage extends React.Component {
               {drug.preventative ? 'Preventative' : 'Non-Preventative'}
             </p>
             { drug.priorauth ?
-              <p className="text-danger">This medication is not preferred by the health plan and will require a prior authorization from the prescriber to be covered.</p>
+              <p className="text-danger">This medication is not preferred under this plan and may not be covered.</p>
               : null }
             { !drug.preventative ?
               <p>Employees on High Deductible plans will be responsible for the full cost of these medications until they reach their deductible.</p>
