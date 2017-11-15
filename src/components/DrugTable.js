@@ -30,11 +30,11 @@ export default class DrugTable extends React.Component {
           </DrugRow>
           <DrugRow planKey="hdhphome" isHDHP={true} rowClass="info" {...this.props}>
             HDHP Home
-            { !preventative ? <span><br/><small>Until Deductible Reached</small></span> : null }
+            { !preventative ? <span><br/><small>After Deductible Reached</small></span> : null }
           </DrugRow>
           <DrugRow planKey="hdhpchoice" isHDHP={true} rowClass="danger" {...this.props}>
             HDHP Choice
-            { !preventative ? <span><br/><small>Until Deductible Reached</small></span> : null }
+            { !preventative ? <span><br/><small>After Deductible Reached</small></span> : null }
           </DrugRow>
         </tbody>
       </table>
