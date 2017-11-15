@@ -28,7 +28,7 @@ export default class DrugPage extends React.Component {
             <p className={`lead text-${drug.preventative ? 'success' : 'info'}`}>
               {drug.preventative ? 'Preventative' : 'Non-Preventative'}
             </p>
-            { drug.nonpreferred ?
+            { drug.priorauth ?
               <p className="text-danger">This medication is not preferred by the health plan and will require a prior authorization from the prescriber to be covered.</p>
               : null }
             { !drug.preventative ?
