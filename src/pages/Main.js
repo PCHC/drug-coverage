@@ -66,7 +66,6 @@ export default class Main extends React.Component {
     return(
       <div className="container-fluid">
         <h1>PCHC Benefits Prescription Drug Coverage</h1>
-        <p className="alert alert-warning">This tool is currently being tested. The prices seen are not accurate.</p>
         <hr />
         { !('name' in match.params ) ?
           <Home {...this.state} {...this.props} />
