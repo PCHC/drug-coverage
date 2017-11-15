@@ -2,6 +2,7 @@
   "name": "pchc-medlist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://intranet/drugcosts",
   "browserslist": [
     "last 2 versions",
     "android 4",

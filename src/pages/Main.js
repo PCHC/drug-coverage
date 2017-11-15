@@ -7,8 +7,10 @@ import Disclaimer from '../components/layout/Disclaimer';
 
 import * as DrugActions from '../actions/DrugActions';
 import * as PlanActions from '../actions/PlanActions';
+import * as AppActions from '../actions/AppActions';
 import DrugStore from '../stores/DrugStore';
 import PlanStore from '../stores/PlanStore';
+import AppStore from '../stores/AppStore';
 
 export default class Main extends React.Component {
   constructor(props) {
@@ -16,10 +18,12 @@ export default class Main extends React.Component {
 
     this.getDrug = this.getDrug.bind(this);
     this.getPlan = this.getPlan.bind(this);
+    this.getAcknowledgement = this.getAcknowledgement.bind(this);
     this.drug = DrugStore.lookupDrug(props.match.params.name);
     this.plan = this.drug ? PlanStore.lookupPlan(this.drug) : {};
 
     this.state = {
+      acknowledged: false,
       drugs: DrugStore.getAllDrugs(),
       drug: this.drug,
       plan: this.plan,
@@ -30,11 +34,13 @@ export default class Main extends React.Component {
   componentWillMount() {
     DrugStore.on('change', this.getDrug);
     PlanStore.on('change', this.getPlan);
+    AppStore.on('change', this.getAcknowledgement);
   }
 
   componentWillUnmount() {
     DrugStore.removeListener('change', this.getDrug);
     PlanStore.removeListener('change', this.getPlan);
+    AppStore.removeListener('change', this.getAcknowledgement);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -60,8 +66,15 @@ export default class Main extends React.Component {
     })
   }
 
+  getAcknowledgement() {
+    this.setState({
+      acknowledged: AppStore.getAcknowledgement()
+    })
+  }
+
   render() {
     const { match } = this.props;
+    const { acknowledged } = this.state;
 
     return(
       <div className="container-fluid">
@@ -72,7 +85,9 @@ export default class Main extends React.Component {
         :
           <DrugPage {...this.state} {...this.props} />
         }
-        <Disclaimer />
+        { acknowledged ?
+          <Disclaimer acknowledged={this.state.acknowledged} />
+        : null }
         <Footer />
       </div>
     );
