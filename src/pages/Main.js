@@ -19,6 +19,8 @@ export default class Main extends React.Component {
     this.getDrug = this.getDrug.bind(this);
     this.getPlan = this.getPlan.bind(this);
     this.getAuth = this.getAuth.bind(this);
+    this.doAuthPass = this.doAuthPass.bind(this);
+    this.handleAuthPassChange = this.handleAuthPassChange.bind(this);
     this.getAcknowledgement = this.getAcknowledgement.bind(this);
     this.drug = DrugStore.lookupDrug(props.match.params.name);
     this.plan = this.drug ? PlanStore.lookupPlan(this.drug) : {};
@@ -26,6 +28,7 @@ export default class Main extends React.Component {
     this.state = {
       acknowledged: false,
       isAuth: AppStore.getAuth(),
+      authPass: null,
       drugs: DrugStore.getAllDrugs(),
       drug: this.drug,
       plan: this.plan,
@@ -86,6 +89,17 @@ export default class Main extends React.Component {
     })
   }
 
+  handleAuthPassChange(e) {
+    this.setState({
+      authPass: e.target.value
+    });
+  }
+
+  doAuthPass() {
+    const { authPass } = this.state;
+    AppActions.doAuthPass(authPass);
+  }
+
   render() {
     const { match } = this.props;
     const { acknowledged, isAuth } = this.state;
@@ -102,6 +116,15 @@ export default class Main extends React.Component {
             <p>
               If you think this is in error, <a href="mailto:cviolette@pchc.com">contact Chris Violette</a>.
             </p>
+            <p>
+              If you are still unable to open this tool, you may try inputting a password instead. The password to enable this tool can be found <a href="http://intranet/benefits/2018-open-enrollment/#calculators">on the PCHC Intranet.</a>:
+            </p>
+            <form>
+              <div className="form-group">
+                <input type="password" className="form-control" onChange={this.handleAuthPassChange} placeholder="Password" />
+              </div>
+              <a href="#" className="btn btn-primary" onClick={this.doAuthPass}>Submit</a>
+            </form>
           </div>
         :
           <div>

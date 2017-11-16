@@ -43,6 +43,13 @@ class AppStore extends EventEmitter {
     });
   }
 
+  doAuthPass(password) {
+    if(password.toLowerCase() === '2b26esv') {
+      this.isAuth = true;
+      this.emit('auth');
+    }
+  }
+
   getAuth() {
     return this.isAuth;
   }
@@ -56,6 +63,11 @@ class AppStore extends EventEmitter {
       }
       case 'DO_AUTH': {
         this.doAuth(action.response);
+        break;
+      }
+      case 'DO_AUTH_PASS': {
+        this.doAuthPass(action.password);
+        break;
       }
       default: {
         return true;

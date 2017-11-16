@@ -21,3 +21,10 @@ export function doAuth() {
       console.log('Error fetching and parsing data', error);
     });
 }
+
+export function doAuthPass(password) {
+  dispatcher.dispatch({
+    type: "DO_AUTH_PASS",
+    password
+  })
+}
