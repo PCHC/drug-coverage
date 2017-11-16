@@ -9,6 +9,7 @@ class AppStore extends EventEmitter {
     super();
 
     this.acknowledged = false;
+    this.isAuth = false;
   }
 
   acknowledgeTerms() {
@@ -21,12 +22,38 @@ class AppStore extends EventEmitter {
     return this.acknowledged;
   }
 
+  doAuth(response) {
+    const ips = [
+      '216.195.133.189',
+      '72.45.183.107',
+      '96.61.69.202',
+      '66.186.180.200',
+      '127.0.0.1'
+    ];
+
+    const {data} = response;
+
+    ips.map((ip) => {
+      if(data.ip === ip) {
+        this.isAuth = true;
+        this.emit('auth');
+      }
+    });
+  }
+
+  getAuth() {
+    return this.isAuth;
+  }
+
   handleActions(action) {
     switch(action.type) {
       case 'ACKNOWLEDGE_TERMS': {
         this.acknowledgeTerms();
         this.emit('change');
         break;
+      }
+      case 'DO_AUTH': {
+        this.doAuth(action.response);
       }
       default: {
         return true;

@@ -18,12 +18,14 @@ export default class Main extends React.Component {
 
     this.getDrug = this.getDrug.bind(this);
     this.getPlan = this.getPlan.bind(this);
+    this.getAuth = this.getAuth.bind(this);
     this.getAcknowledgement = this.getAcknowledgement.bind(this);
     this.drug = DrugStore.lookupDrug(props.match.params.name);
     this.plan = this.drug ? PlanStore.lookupPlan(this.drug) : {};
 
     this.state = {
       acknowledged: false,
+      isAuth: AppStore.getAuth(),
       drugs: DrugStore.getAllDrugs(),
       drug: this.drug,
       plan: this.plan,
@@ -35,12 +37,18 @@ export default class Main extends React.Component {
     DrugStore.on('change', this.getDrug);
     PlanStore.on('change', this.getPlan);
     AppStore.on('change', this.getAcknowledgement);
+    AppStore.on('auth', this.getAuth);
+  }
+
+  componentDidMount() {
+    AppActions.doAuth();
   }
 
   componentWillUnmount() {
     DrugStore.removeListener('change', this.getDrug);
     PlanStore.removeListener('change', this.getPlan);
     AppStore.removeListener('change', this.getAcknowledgement);
+    AppStore.removeListener('auth', this.getAuth);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -72,22 +80,41 @@ export default class Main extends React.Component {
     })
   }
 
+  getAuth() {
+    this.setState({
+      isAuth: AppStore.getAuth()
+    })
+  }
+
   render() {
     const { match } = this.props;
-    const { acknowledged } = this.state;
+    const { acknowledged, isAuth } = this.state;
 
     return(
       <div className="container-fluid">
         <h1>PCHC Benefits Prescription Drug Coverage</h1>
         <hr />
-        { !('name' in match.params ) ?
-          <Home {...this.state} {...this.props} />
+        {!isAuth ?
+          <div>
+            <p className="lead">
+              This tool is only available on the PCHC computer network. Please visit when at a PCHC workstation.
+            </p>
+            <p>
+              If you think this is in error, <a href="mailto:cviolette@pchc.com">contact Chris Violette</a>.
+            </p>
+          </div>
         :
-          <DrugPage {...this.state} {...this.props} />
+          <div>
+            { !('name' in match.params ) ?
+              <Home {...this.state} {...this.props} />
+            :
+              <DrugPage {...this.state} {...this.props} />
+            }
+            { acknowledged ?
+              <Disclaimer acknowledged={this.state.acknowledged} />
+            : null }
+          </div>
         }
-        { acknowledged ?
-          <Disclaimer acknowledged={this.state.acknowledged} />
-        : null }
         <Footer />
       </div>
     );
