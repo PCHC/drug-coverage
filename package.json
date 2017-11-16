@@ -2,6 +2,7 @@
   "name": "pchc-medlist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pchc.github.io/employeedrugcost",
   "browserslist": [
     "last 2 versions",
     "android 4",
@@ -30,10 +31,11 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "aws s3 cp build s3://pchcmedlist-hosting-mobilehub-994474970 --recursive"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "babel-polyfill": "^6.26.0",
+    "gh-pages": "^1.0.0",
     "jspolyfill-array.prototype.find": "^0.1.3"
   }
 }
