@@ -1,6 +1,6 @@
 const DrugList = [
   {
-    "key": "aj7yb9tp",
+    "key": "9ru8094",
     "name": "Abilify",
     "preventative": true,
     "tier": 3,
@@ -8,7 +8,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "u55t6lnb",
+    "key": "rreanc8",
     "name": "Acamprosate Calcium",
     "preventative": true,
     "tier": 1,
@@ -16,7 +16,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y4enzttx",
+    "key": "lzlas61",
     "name": "Acarbose",
     "preventative": true,
     "tier": 1,
@@ -24,7 +24,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tggeb32i",
+    "key": "vhz17p9",
     "name": "Accolate",
     "preventative": true,
     "tier": 3,
@@ -32,7 +32,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hzip7fdr",
+    "key": "ux765tf",
     "name": "Accu Check Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -40,7 +40,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "iwq54p43",
+    "key": "47tbv9x",
     "name": "Accupril",
     "preventative": true,
     "tier": 3,
@@ -48,7 +48,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1n29rkcm",
+    "key": "sbxbcjb",
     "name": "Accuretic",
     "preventative": true,
     "tier": 3,
@@ -56,7 +56,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zc7264wo",
+    "key": "gtt9oix",
     "name": "Acebutolol",
     "preventative": true,
     "tier": 1,
@@ -64,7 +64,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sc35ecx6",
+    "key": "tuctbw2",
     "name": "Aceon",
     "preventative": true,
     "tier": 3,
@@ -72,7 +72,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vs73569k",
+    "key": "bhqubb6",
     "name": "Acetazolamide 250mg",
     "preventative": false,
     "tier": 1,
@@ -80,7 +80,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jvtjkryg",
+    "key": "35vh53t",
     "name": "Actonel",
     "preventative": true,
     "tier": 3,
@@ -88,7 +88,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x94tbeu5",
+    "key": "23jly0j",
     "name": "Actoplus Met",
     "preventative": true,
     "tier": 3,
@@ -96,7 +96,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "clk4z0cm",
+    "key": "azucm3p",
     "name": "Actoplus Met Xr",
     "preventative": true,
     "tier": 3,
@@ -104,7 +104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "48bknw65",
+    "key": "frnar95",
     "name": "Actos",
     "preventative": true,
     "tier": 3,
@@ -112,7 +112,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "otuy8i23",
+    "key": "ya67m3u",
     "name": "Acyclovir 200mg",
     "preventative": false,
     "tier": 1,
@@ -120,7 +120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o8gagrao",
+    "key": "sn5rfoe",
     "name": "Acyclovir 400mg",
     "preventative": false,
     "tier": 1,
@@ -128,7 +128,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7cq51ybl",
+    "key": "9nya46h",
     "name": "Adalat Cc",
     "preventative": true,
     "tier": 3,
@@ -136,7 +136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "88vzjr82",
+    "key": "2cujtg0",
     "name": "Adderall Xr 20mg",
     "preventative": false,
     "tier": 3,
@@ -144,7 +144,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "r6klaz0u",
+    "key": "cq4mrzy",
     "name": "Adipex P",
     "preventative": true,
     "tier": 3,
@@ -152,7 +152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8utc6gco",
+    "key": "yvft1q0",
     "name": "Adlyxin",
     "preventative": true,
     "tier": 3,
@@ -160,7 +160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sdkvoc6p",
+    "key": "woqv7wn",
     "name": "Advair",
     "preventative": true,
     "tier": 2,
@@ -168,7 +168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "baum261d",
+    "key": "5v6dhlb",
     "name": "Advair Hfa",
     "preventative": true,
     "tier": 2,
@@ -176,7 +176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jcjsqwjy",
+    "key": "74ydan3",
     "name": "Aerospan",
     "preventative": true,
     "tier": 3,
@@ -184,7 +184,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "6nlpzkzv",
+    "key": "ym5q8x7",
     "name": "Afrezza",
     "preventative": true,
     "tier": 3,
@@ -192,7 +192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r7j67cqf",
+    "key": "zd74333",
     "name": "Aggrenox",
     "preventative": true,
     "tier": 3,
@@ -200,7 +200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6trco2zf",
+    "key": "vjljp34",
     "name": "Albuterol 0 083 Nebs",
     "preventative": false,
     "tier": 1,
@@ -208,7 +208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "viqh2nze",
+    "key": "qxspihg",
     "name": "Aldactazide",
     "preventative": true,
     "tier": 1,
@@ -216,7 +216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4sm9r31h",
+    "key": "6abed6e",
     "name": "Alendronate",
     "preventative": true,
     "tier": 1,
@@ -224,7 +224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ss0fvyrt",
+    "key": "tf8sylq",
     "name": "Alfuzosin Er 10mg",
     "preventative": false,
     "tier": 1,
@@ -232,7 +232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "iwcmo073",
+    "key": "a9hgl2y",
     "name": "Allopurinol 100mg",
     "preventative": false,
     "tier": 1,
@@ -240,7 +240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xskyxj3s",
+    "key": "f6hqo5d",
     "name": "Allopurinol 300mg",
     "preventative": false,
     "tier": 1,
@@ -248,7 +248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "aph40r4x",
+    "key": "xqz24xd",
     "name": "Alogliptin",
     "preventative": true,
     "tier": 1,
@@ -256,7 +256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5fft6ncb",
+    "key": "p97eecu",
     "name": "Alogliptin Metformin",
     "preventative": true,
     "tier": 1,
@@ -264,7 +264,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "uotlci1w",
+    "key": "f1z9uwi",
     "name": "Alogliptin Pioglitazone",
     "preventative": true,
     "tier": 1,
@@ -272,7 +272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vks4icox",
+    "key": "6vjcmpz",
     "name": "Alprazolam 1mg",
     "preventative": false,
     "tier": 1,
@@ -280,7 +280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "38m9vqqi",
+    "key": "mbokdcg",
     "name": "Altace",
     "preventative": true,
     "tier": 3,
@@ -288,7 +288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1ishlf1m",
+    "key": "ob3v42o",
     "name": "Altoprev",
     "preventative": true,
     "tier": 3,
@@ -296,7 +296,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "07a0b82s",
+    "key": "77osamm",
     "name": "Alvesco",
     "preventative": true,
     "tier": 3,
@@ -304,7 +304,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "br2vzm32",
+    "key": "gbxxc4m",
     "name": "Amaryl",
     "preventative": true,
     "tier": 3,
@@ -312,7 +312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vm2s5xb1",
+    "key": "4745vrp",
     "name": "Amethia",
     "preventative": true,
     "tier": 0,
@@ -320,7 +320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bfm7kfnq",
+    "key": "38dojhc",
     "name": "Amethia Lo",
     "preventative": true,
     "tier": 0,
@@ -328,7 +328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c2wfz3wk",
+    "key": "d7egmqp",
     "name": "Amiloride Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -336,7 +336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vsegp58v",
+    "key": "dvhnhka",
     "name": "Amiodarone",
     "preventative": true,
     "tier": 1,
@@ -344,7 +344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "15v8d4zy",
+    "key": "usyi6cn",
     "name": "Amitriptyline",
     "preventative": true,
     "tier": 1,
@@ -352,7 +352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "j17gei65",
+    "key": "xtb82ka",
     "name": "Amlodipine",
     "preventative": true,
     "tier": 1,
@@ -360,7 +360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z9ssu3be",
+    "key": "e1ng2c7",
     "name": "Amlodipine Atorvastatin",
     "preventative": true,
     "tier": 1,
@@ -368,7 +368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4r3zoavr",
+    "key": "07uakfx",
     "name": "Amlodipine Benazepril",
     "preventative": true,
     "tier": 1,
@@ -376,7 +376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m6j0hs7i",
+    "key": "0f9owgz",
     "name": "Amlodipine Olmesartan",
     "preventative": true,
     "tier": 1,
@@ -384,7 +384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gtwk6lt7",
+    "key": "xwpewkv",
     "name": "Amlodipine Telmisartan",
     "preventative": true,
     "tier": 1,
@@ -392,7 +392,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "a80r187p",
+    "key": "eso05fa",
     "name": "Amlodipine Valsartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -400,7 +400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3pzsv5at",
+    "key": "22cxt56",
     "name": "Ammonium Lactate Cream 12",
     "preventative": false,
     "tier": 1,
@@ -408,7 +408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kp562yjp",
+    "key": "fhm7j4n",
     "name": "Amoxapine",
     "preventative": true,
     "tier": 1,
@@ -416,7 +416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hq5sluh6",
+    "key": "75p26i3",
     "name": "Amphetamine Dextroamphetamine 10mg",
     "preventative": false,
     "tier": 1,
@@ -424,7 +424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mzqhzakw",
+    "key": "rhautd2",
     "name": "Amphetamine Dextroamphetamine 15mg",
     "preventative": false,
     "tier": 1,
@@ -432,7 +432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qfr9a7y6",
+    "key": "ot8zrdq",
     "name": "Amphetamine Dextroamphetamine 20mg",
     "preventative": false,
     "tier": 1,
@@ -440,7 +440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9iqgksi5",
+    "key": "kcsl4io",
     "name": "Amphetamine Dextroamphetamine 5mg",
     "preventative": false,
     "tier": 1,
@@ -448,7 +448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ug0bc4uk",
+    "key": "8dugn21",
     "name": "Amphetamine Dextroamphetamine Er 10mg",
     "preventative": false,
     "tier": 1,
@@ -456,7 +456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2tr0mun7",
+    "key": "w6kq1kr",
     "name": "Amphetamine Dextroamphetamine Er 15mg",
     "preventative": false,
     "tier": 1,
@@ -464,7 +464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "28ihqejm",
+    "key": "txy2lnj",
     "name": "Amphetamine Dextroamphetamine Er 20mg",
     "preventative": false,
     "tier": 1,
@@ -472,7 +472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ph7938ix",
+    "key": "hors5lw",
     "name": "Amphetamine Dextroamphetamine Er 25mg",
     "preventative": false,
     "tier": 1,
@@ -480,7 +480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fm2ylk3a",
+    "key": "5hcbxwt",
     "name": "Amphetamine Dextroamphetamine Er 30mg",
     "preventative": false,
     "tier": 1,
@@ -488,7 +488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wm9edkf0",
+    "key": "qqbq96t",
     "name": "Anafranil",
     "preventative": true,
     "tier": 3,
@@ -496,7 +496,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l24xf2z2",
+    "key": "62jut6r",
     "name": "Anastrazole",
     "preventative": true,
     "tier": 1,
@@ -504,7 +504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "99zz4zy3",
+    "key": "4oyydj8",
     "name": "Antabuse",
     "preventative": true,
     "tier": 3,
@@ -512,7 +512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vzpzxecu",
+    "key": "onoojc4",
     "name": "Antara",
     "preventative": true,
     "tier": 3,
@@ -520,7 +520,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nk4ywulo",
+    "key": "qtewmes",
     "name": "Apidra",
     "preventative": true,
     "tier": 3,
@@ -528,7 +528,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "tyvenc8k",
+    "key": "k2f7vur",
     "name": "Apitom",
     "preventative": true,
     "tier": 3,
@@ -536,7 +536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mikk0ryh",
+    "key": "yl7jlnn",
     "name": "Aplenzin",
     "preventative": true,
     "tier": 3,
@@ -544,7 +544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "thbtsf96",
+    "key": "pjpd2zr",
     "name": "Apri",
     "preventative": true,
     "tier": 0,
@@ -552,7 +552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "b75c0v30",
+    "key": "9zrn2x3",
     "name": "Apriso 0 375mg",
     "preventative": false,
     "tier": 2,
@@ -560,7 +560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ruyjoq9x",
+    "key": "c1mytvn",
     "name": "Aranelle",
     "preventative": true,
     "tier": 0,
@@ -568,7 +568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r7v6f64u",
+    "key": "ht8osf2",
     "name": "Arimidex",
     "preventative": true,
     "tier": 3,
@@ -576,7 +576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "d4kfqxhu",
+    "key": "bhpal1s",
     "name": "Aripiprazole",
     "preventative": true,
     "tier": 1,
@@ -584,7 +584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lsk2wlvh",
+    "key": "5su8syt",
     "name": "Aristada",
     "preventative": true,
     "tier": 2,
@@ -592,7 +592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yu0rpc2y",
+    "key": "yu3452d",
     "name": "Arixtra",
     "preventative": true,
     "tier": 3,
@@ -600,7 +600,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lacyfljx",
+    "key": "9hirowi",
     "name": "Armodafinil 150mg",
     "preventative": false,
     "tier": 1,
@@ -608,7 +608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1vng3gyz",
+    "key": "c5h1jxc",
     "name": "Armour Thyroid 1 4 Grain",
     "preventative": false,
     "tier": 3,
@@ -616,7 +616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x8yaddxx",
+    "key": "pem6vl9",
     "name": "Armour Thyroid 2 Grain",
     "preventative": false,
     "tier": 3,
@@ -624,7 +624,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mzgjdx32",
+    "key": "uyai1ae",
     "name": "Armour Thyroid 4 Grain",
     "preventative": false,
     "tier": 3,
@@ -632,7 +632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c6ffakrr",
+    "key": "dfte1a3",
     "name": "Arnuity Ellipta",
     "preventative": true,
     "tier": 3,
@@ -640,7 +640,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bvjvx9kc",
+    "key": "kxinsnr",
     "name": "Aromasin",
     "preventative": true,
     "tier": 3,
@@ -648,7 +648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ljofazwl",
+    "key": "6ezla6y",
     "name": "Asmanex",
     "preventative": true,
     "tier": 2,
@@ -656,7 +656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "inhmii1u",
+    "key": "lzx5nng",
     "name": "Asmanex Hfa",
     "preventative": true,
     "tier": 2,
@@ -664,7 +664,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1i8m9nco",
+    "key": "1oxbycv",
     "name": "Assure Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -672,7 +672,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zvj81nre",
+    "key": "g7kgwto",
     "name": "Astagraf Xl",
     "preventative": true,
     "tier": 3,
@@ -680,7 +680,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dnylwb5m",
+    "key": "k28s9ob",
     "name": "Atacand",
     "preventative": true,
     "tier": 3,
@@ -688,7 +688,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "i9ycd1dr",
+    "key": "i1mb0oj",
     "name": "Atacand Hct",
     "preventative": true,
     "tier": 3,
@@ -696,7 +696,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "ltt9zfvt",
+    "key": "liz4raw",
     "name": "Atelvia",
     "preventative": true,
     "tier": 2,
@@ -704,7 +704,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2oypruf6",
+    "key": "97qad0c",
     "name": "Atenolol",
     "preventative": true,
     "tier": 1,
@@ -712,7 +712,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4c162uq1",
+    "key": "liysfns",
     "name": "Atenolol Chlorthalidone",
     "preventative": true,
     "tier": 1,
@@ -720,7 +720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ligj3t8o",
+    "key": "siqpbwa",
     "name": "Atomoxetine 100mg",
     "preventative": false,
     "tier": 1,
@@ -728,7 +728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x22xjloi",
+    "key": "19epq3v",
     "name": "Atomoxetine 25mg",
     "preventative": false,
     "tier": 1,
@@ -736,7 +736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m9rh66yc",
+    "key": "dyu3z0t",
     "name": "Atomoxetine 40mg",
     "preventative": false,
     "tier": 1,
@@ -744,7 +744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8wwh3c0n",
+    "key": "05ft6yr",
     "name": "Atorvastatin",
     "preventative": true,
     "tier": 1,
@@ -752,7 +752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "p73mt6sb",
+    "key": "5umvc2g",
     "name": "Atovaquone Proguanil",
     "preventative": true,
     "tier": 1,
@@ -760,7 +760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4ji6fc5s",
+    "key": "q9qt0en",
     "name": "Aubagio",
     "preventative": true,
     "tier": 2,
@@ -768,7 +768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2oif21ce",
+    "key": "cgb45o2",
     "name": "Avalide",
     "preventative": true,
     "tier": 3,
@@ -776,7 +776,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "235ukmm9",
+    "key": "fzew1a6",
     "name": "Avapro",
     "preventative": true,
     "tier": 3,
@@ -784,7 +784,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pqllvin5",
+    "key": "dxqbm3f",
     "name": "Aviane",
     "preventative": true,
     "tier": 0,
@@ -792,7 +792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3hc4hkud",
+    "key": "0a6q154",
     "name": "Avonex",
     "preventative": true,
     "tier": 3,
@@ -800,7 +800,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "fpa7dpsw",
+    "key": "oq1pkd2",
     "name": "Azelastine Nasal Spray 0 1",
     "preventative": false,
     "tier": 1,
@@ -808,7 +808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sues3b1b",
+    "key": "qkhdjoa",
     "name": "Azelastine Nasal Spray 0 15",
     "preventative": false,
     "tier": 1,
@@ -816,7 +816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8yw3cqml",
+    "key": "f8tx5wx",
     "name": "Azor",
     "preventative": true,
     "tier": 2,
@@ -824,7 +824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "efr8fhio",
+    "key": "i6prsw5",
     "name": "Baclofen 10mg",
     "preventative": false,
     "tier": 1,
@@ -832,7 +832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7u7vimy0",
+    "key": "ebf0lpz",
     "name": "Balziva",
     "preventative": true,
     "tier": 0,
@@ -840,7 +840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "oa6l73ct",
+    "key": "qpwhym1",
     "name": "Banzel",
     "preventative": true,
     "tier": 3,
@@ -848,7 +848,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "w1rgzesq",
+    "key": "s1z6u1t",
     "name": "Basaglar Kwikpen",
     "preventative": true,
     "tier": 2,
@@ -856,7 +856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rb1xhxug",
+    "key": "rxsyibn",
     "name": "Belviq",
     "preventative": true,
     "tier": 2,
@@ -864,7 +864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lb6rkmtq",
+    "key": "bald3ts",
     "name": "Belviq Xr",
     "preventative": true,
     "tier": 2,
@@ -872,7 +872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2jww5x3k",
+    "key": "dgkf321",
     "name": "Benazepril",
     "preventative": true,
     "tier": 1,
@@ -880,7 +880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fhufo0ss",
+    "key": "457be5u",
     "name": "Benazepril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -888,7 +888,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mq9me373",
+    "key": "5yeikup",
     "name": "Benicar",
     "preventative": true,
     "tier": 2,
@@ -896,7 +896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "in4sbwvs",
+    "key": "a6v1lbc",
     "name": "Benicar Hct",
     "preventative": true,
     "tier": 2,
@@ -904,7 +904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r60ctbog",
+    "key": "o8m7ugq",
     "name": "Benzphetamine",
     "preventative": true,
     "tier": 1,
@@ -912,7 +912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ykahkoty",
+    "key": "l8q46pa",
     "name": "Betapace",
     "preventative": true,
     "tier": 3,
@@ -920,7 +920,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "apm5x1cu",
+    "key": "bnrfcsh",
     "name": "Betapace Af",
     "preventative": true,
     "tier": 3,
@@ -928,7 +928,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "ub6v9lsw",
+    "key": "sx774wm",
     "name": "Betaseron",
     "preventative": true,
     "tier": 2,
@@ -936,7 +936,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "22z5aqeq",
+    "key": "7b5taee",
     "name": "Betaxolol",
     "preventative": true,
     "tier": 1,
@@ -944,7 +944,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4ojzl4iy",
+    "key": "1dxmv5n",
     "name": "Beyaz",
     "preventative": true,
     "tier": 3,
@@ -952,7 +952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sz2yzjkk",
+    "key": "1oz32zr",
     "name": "Bibricor",
     "preventative": true,
     "tier": 3,
@@ -960,7 +960,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "06mo4z60",
+    "key": "rczd3fk",
     "name": "Binosto",
     "preventative": true,
     "tier": 3,
@@ -968,7 +968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xot2j7p8",
+    "key": "kztajzu",
     "name": "Bisoprolol",
     "preventative": true,
     "tier": 1,
@@ -976,7 +976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kky4umz0",
+    "key": "eyvvsdj",
     "name": "Bisoprolol Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -984,7 +984,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3jug2cnw",
+    "key": "hnh61am",
     "name": "Boniva",
     "preventative": true,
     "tier": 3,
@@ -992,7 +992,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jninl1zu",
+    "key": "ad8p0ns",
     "name": "Breeze Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -1000,7 +1000,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "dx2uscw4",
+    "key": "7p115s5",
     "name": "Breo Ellipta",
     "preventative": true,
     "tier": 2,
@@ -1008,7 +1008,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "h3010mi5",
+    "key": "4zsr1fd",
     "name": "Brevicon",
     "preventative": true,
     "tier": 3,
@@ -1016,7 +1016,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5s4kur85",
+    "key": "9metal0",
     "name": "Brilinta",
     "preventative": true,
     "tier": 2,
@@ -1024,7 +1024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "poy3t35m",
+    "key": "k3i8jab",
     "name": "Briviact",
     "preventative": true,
     "tier": 3,
@@ -1032,7 +1032,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9aslzdt5",
+    "key": "02a5kfk",
     "name": "Budesonide Suspension",
     "preventative": true,
     "tier": 1,
@@ -1040,7 +1040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "khly7ugd",
+    "key": "58346qt",
     "name": "Bumetanide 1mg",
     "preventative": false,
     "tier": 1,
@@ -1048,7 +1048,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "v47o2sjt",
+    "key": "d5rjttw",
     "name": "Bunavail",
     "preventative": true,
     "tier": 3,
@@ -1056,7 +1056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "47qiaxya",
+    "key": "ksiwje4",
     "name": "Buprenorphine Sublingual",
     "preventative": true,
     "tier": 1,
@@ -1064,7 +1064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "drc4lehx",
+    "key": "gqi6ywq",
     "name": "Buprenorphine Naloxone Sublingual",
     "preventative": true,
     "tier": 1,
@@ -1072,7 +1072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ogadjz3l",
+    "key": "byyqz4p",
     "name": "Bupropion",
     "preventative": true,
     "tier": 1,
@@ -1080,7 +1080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lon4hkzc",
+    "key": "73htahv",
     "name": "Bupropion Extended Release",
     "preventative": true,
     "tier": 1,
@@ -1088,7 +1088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0lxeo24w",
+    "key": "ivhjkeh",
     "name": "Buspirone 10mg",
     "preventative": false,
     "tier": 1,
@@ -1096,7 +1096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qcidvhv8",
+    "key": "kdvtr8m",
     "name": "Buspirone 15mg",
     "preventative": false,
     "tier": 1,
@@ -1104,7 +1104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "36smica7",
+    "key": "h7gcpgd",
     "name": "Buspirone 30mg",
     "preventative": false,
     "tier": 1,
@@ -1112,7 +1112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "a1pknzpm",
+    "key": "xhqng5p",
     "name": "Buspirone 5mg",
     "preventative": false,
     "tier": 1,
@@ -1120,7 +1120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o1ifht4r",
+    "key": "feubr5c",
     "name": "Butalbitol Acetaminophen Caffeine",
     "preventative": false,
     "tier": 1,
@@ -1128,7 +1128,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "qe7t57ey",
+    "key": "kdj9tvg",
     "name": "Butalbitol Aspirin Caffeine",
     "preventative": false,
     "tier": 1,
@@ -1136,7 +1136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gignj0cs",
+    "key": "095vb7c",
     "name": "Bydureon",
     "preventative": true,
     "tier": 3,
@@ -1144,7 +1144,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "4btbif09",
+    "key": "8tetsm7",
     "name": "Byetta",
     "preventative": true,
     "tier": 3,
@@ -1152,7 +1152,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "ljbo7067",
+    "key": "g7un9ue",
     "name": "Bystolic",
     "preventative": true,
     "tier": 2,
@@ -1160,7 +1160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "p63vqwut",
+    "key": "wvjodii",
     "name": "Byvalson",
     "preventative": true,
     "tier": 3,
@@ -1168,7 +1168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "p2cnxiu0",
+    "key": "8f5es1n",
     "name": "Caduet",
     "preventative": true,
     "tier": 3,
@@ -1176,7 +1176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cxn86dcx",
+    "key": "wfv8k69",
     "name": "Calan",
     "preventative": true,
     "tier": 3,
@@ -1184,7 +1184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0zsrkin4",
+    "key": "as32sh8",
     "name": "Calan Sr",
     "preventative": true,
     "tier": 3,
@@ -1192,7 +1192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "88pmqu6f",
+    "key": "c577fi6",
     "name": "Calcitonin",
     "preventative": true,
     "tier": 1,
@@ -1200,7 +1200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pdw31f82",
+    "key": "yl9hlx0",
     "name": "Calcitonin Salmon",
     "preventative": true,
     "tier": 1,
@@ -1208,7 +1208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fagnn30f",
+    "key": "ponh6xz",
     "name": "Camila",
     "preventative": true,
     "tier": 0,
@@ -1216,7 +1216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "98xo7gz0",
+    "key": "ulc3mxr",
     "name": "Camrese Lo",
     "preventative": true,
     "tier": 0,
@@ -1224,7 +1224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "v6p1gr5u",
+    "key": "4tz9xku",
     "name": "Candesartan",
     "preventative": true,
     "tier": 1,
@@ -1232,7 +1232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "h9lkxddh",
+    "key": "ojs56g5",
     "name": "Candesartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -1240,7 +1240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "94m7zsh6",
+    "key": "0vtg8nr",
     "name": "Captopril",
     "preventative": true,
     "tier": 1,
@@ -1248,7 +1248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9sohkbi9",
+    "key": "z5bbpsa",
     "name": "Captopril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -1256,7 +1256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "eddy1g62",
+    "key": "78jvsiy",
     "name": "Carafate 1gm 10m L",
     "preventative": false,
     "tier": 3,
@@ -1264,7 +1264,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2majl5sn",
+    "key": "7g1rthg",
     "name": "Carbamazepine",
     "preventative": true,
     "tier": 1,
@@ -1272,7 +1272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0h516hdh",
+    "key": "wm4zo0s",
     "name": "Carbamazepine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -1280,7 +1280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qmdrom1t",
+    "key": "6padsvo",
     "name": "Carbatrol",
     "preventative": true,
     "tier": 3,
@@ -1288,7 +1288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t1hgclj4",
+    "key": "80nowjg",
     "name": "Cardizem",
     "preventative": true,
     "tier": 3,
@@ -1296,7 +1296,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "6rfqyt2o",
+    "key": "zw6lx96",
     "name": "Cardizem Cd",
     "preventative": true,
     "tier": 3,
@@ -1304,7 +1304,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "904t3nsf",
+    "key": "5qeo8ml",
     "name": "Cardizem La",
     "preventative": true,
     "tier": 3,
@@ -1312,7 +1312,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "6lv9lfdd",
+    "key": "lrw11un",
     "name": "Cartia Xt",
     "preventative": true,
     "tier": 3,
@@ -1320,7 +1320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "meg0o9a7",
+    "key": "s3obd5g",
     "name": "Carvedilol",
     "preventative": true,
     "tier": 1,
@@ -1328,7 +1328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jxkcywlm",
+    "key": "rfdn0dn",
     "name": "Catapres",
     "preventative": true,
     "tier": 3,
@@ -1336,7 +1336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k2udzo66",
+    "key": "zmnb182",
     "name": "Catapres Tts",
     "preventative": true,
     "tier": 3,
@@ -1344,7 +1344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nrl3hmtc",
+    "key": "kz6qjm7",
     "name": "Celecoxib 100mg",
     "preventative": false,
     "tier": 1,
@@ -1352,7 +1352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xf45xd1c",
+    "key": "amjqj3l",
     "name": "Celecoxib 200mg",
     "preventative": false,
     "tier": 1,
@@ -1360,7 +1360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5h95p43o",
+    "key": "6oearxt",
     "name": "Celexa",
     "preventative": true,
     "tier": 3,
@@ -1368,7 +1368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8jwfnb6f",
+    "key": "hw94du5",
     "name": "Cellcept",
     "preventative": true,
     "tier": 3,
@@ -1376,7 +1376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6k4fbkiz",
+    "key": "5vmztmu",
     "name": "Celontin",
     "preventative": true,
     "tier": 3,
@@ -1384,7 +1384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xey85ao2",
+    "key": "ngm53m2",
     "name": "Cetirizine Syrup 5mg 5m L",
     "preventative": false,
     "tier": 1,
@@ -1392,7 +1392,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qamsnlvx",
+    "key": "p1hlfqw",
     "name": "Cevimeline 30mg",
     "preventative": false,
     "tier": 1,
@@ -1400,7 +1400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0xx22x81",
+    "key": "u62cgoy",
     "name": "Chantix",
     "preventative": true,
     "tier": 3,
@@ -1408,7 +1408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4p2ytncu",
+    "key": "djrphhp",
     "name": "Chloroquine",
     "preventative": true,
     "tier": 1,
@@ -1416,7 +1416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dvarqg57",
+    "key": "nrbqn21",
     "name": "Chlorpromazine",
     "preventative": true,
     "tier": 1,
@@ -1424,7 +1424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "27kcvwl1",
+    "key": "azya4pq",
     "name": "Chlorpropamide",
     "preventative": true,
     "tier": 1,
@@ -1432,7 +1432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rsyxikix",
+    "key": "jw48i2n",
     "name": "Chlorthalidone",
     "preventative": true,
     "tier": 1,
@@ -1440,7 +1440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cv8m8c0x",
+    "key": "vi96bi7",
     "name": "Chlorthiazide",
     "preventative": true,
     "tier": 1,
@@ -1448,7 +1448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rj5coisj",
+    "key": "0tidq1f",
     "name": "Cholestyramine",
     "preventative": true,
     "tier": 1,
@@ -1456,7 +1456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y2r7gj35",
+    "key": "9mvay10",
     "name": "Cialis 10mg",
     "preventative": false,
     "tier": 2,
@@ -1464,7 +1464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3vvl1636",
+    "key": "yp6ve8c",
     "name": "Cialis 20mg",
     "preventative": false,
     "tier": 2,
@@ -1472,7 +1472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mk4qy2tp",
+    "key": "qwutf7j",
     "name": "Cialis 5mg",
     "preventative": false,
     "tier": 2,
@@ -1480,7 +1480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o1d5cdhh",
+    "key": "gic478m",
     "name": "Cilostazol 50mg",
     "preventative": false,
     "tier": 1,
@@ -1488,7 +1488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gqmv0pny",
+    "key": "n6hhk35",
     "name": "Cinqair",
     "preventative": true,
     "tier": 3,
@@ -1496,7 +1496,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l6dyrupy",
+    "key": "n0lcvev",
     "name": "Cinryze",
     "preventative": true,
     "tier": 3,
@@ -1504,7 +1504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "eala1e30",
+    "key": "lbmmcce",
     "name": "Citalopram",
     "preventative": true,
     "tier": 1,
@@ -1512,7 +1512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y419hjz3",
+    "key": "kblxik8",
     "name": "Clever Choice Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -1520,7 +1520,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3kw7hwi4",
+    "key": "8fmpcz6",
     "name": "Clindamycin Pad 1",
     "preventative": false,
     "tier": 1,
@@ -1528,7 +1528,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q5jqidk2",
+    "key": "2jobtk0",
     "name": "Clindamycin Solution 1",
     "preventative": false,
     "tier": 1,
@@ -1536,7 +1536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c8mcul9z",
+    "key": "64xj551",
     "name": "Clindamycin Benzoyl Peroxide Gel 1 2 5",
     "preventative": false,
     "tier": 1,
@@ -1544,7 +1544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0qy2d6cj",
+    "key": "pekp30v",
     "name": "Clindamycin Benzoyl Peroxide Gel 1 5",
     "preventative": false,
     "tier": 1,
@@ -1552,7 +1552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wjk0qnza",
+    "key": "ed5i26b",
     "name": "Clobetasol Cream 0 05",
     "preventative": false,
     "tier": 1,
@@ -1560,7 +1560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "30oyvp5i",
+    "key": "6ucc6hc",
     "name": "Clobetasol Ointment 0 05",
     "preventative": false,
     "tier": 1,
@@ -1568,7 +1568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m5vrt6ze",
+    "key": "ihmi8rm",
     "name": "Clobetasol Solution 0 05",
     "preventative": false,
     "tier": 1,
@@ -1576,7 +1576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ee0fsaqg",
+    "key": "665svua",
     "name": "Clomipramine",
     "preventative": true,
     "tier": 1,
@@ -1584,7 +1584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2kxmk2kx",
+    "key": "3afzkay",
     "name": "Clonazepam",
     "preventative": true,
     "tier": 1,
@@ -1592,7 +1592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3t10tm7s",
+    "key": "jn7oly8",
     "name": "Clonidine",
     "preventative": true,
     "tier": 1,
@@ -1600,7 +1600,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ktrcnuxj",
+    "key": "klcb7mk",
     "name": "Clonidine Transdermal",
     "preventative": true,
     "tier": 1,
@@ -1608,7 +1608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0g91aqew",
+    "key": "w8ayhld",
     "name": "Clopidogrel",
     "preventative": true,
     "tier": 1,
@@ -1616,7 +1616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5l1j9949",
+    "key": "x7jemge",
     "name": "Clorpres",
     "preventative": true,
     "tier": 3,
@@ -1624,7 +1624,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5onewgi5",
+    "key": "dd6sdwi",
     "name": "Clozapine",
     "preventative": true,
     "tier": 1,
@@ -1632,7 +1632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rrm1tdao",
+    "key": "4oirdj5",
     "name": "Clozaril",
     "preventative": true,
     "tier": 3,
@@ -1640,7 +1640,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "km8ga6b0",
+    "key": "yr6noub",
     "name": "Colchicine 0 6mg",
     "preventative": false,
     "tier": 1,
@@ -1648,7 +1648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4mzh8omb",
+    "key": "6uqjvu1",
     "name": "Colestid",
     "preventative": true,
     "tier": 3,
@@ -1656,7 +1656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m540mstm",
+    "key": "xzkq31s",
     "name": "Colestipol",
     "preventative": true,
     "tier": 1,
@@ -1664,7 +1664,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pijbv1gx",
+    "key": "6flgjov",
     "name": "Colyte",
     "preventative": true,
     "tier": 3,
@@ -1672,7 +1672,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hbwq8t2j",
+    "key": "vq9838u",
     "name": "Combigan Solution 0 2 0 5",
     "preventative": false,
     "tier": 2,
@@ -1680,7 +1680,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6xzu8kxr",
+    "key": "pxpceud",
     "name": "Combivent Respimat",
     "preventative": false,
     "tier": 2,
@@ -1688,7 +1688,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ykqqbh6m",
+    "key": "0f5ezi7",
     "name": "Concerta 36mg",
     "preventative": false,
     "tier": 3,
@@ -1696,7 +1696,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ptjd5fct",
+    "key": "vftna94",
     "name": "Contour Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -1704,7 +1704,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "t673fife",
+    "key": "jbt75z6",
     "name": "Contrave",
     "preventative": true,
     "tier": 2,
@@ -1712,7 +1712,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c4dernvn",
+    "key": "y1xdj6o",
     "name": "Copaxone",
     "preventative": true,
     "tier": 2,
@@ -1720,7 +1720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yzkp9occ",
+    "key": "njk2qxk",
     "name": "Coreg",
     "preventative": true,
     "tier": 2,
@@ -1728,7 +1728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "06ig51eb",
+    "key": "dtazo56",
     "name": "Coreg Cr",
     "preventative": true,
     "tier": 2,
@@ -1736,7 +1736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ypqv1s48",
+    "key": "bbzwi7b",
     "name": "Corgard",
     "preventative": true,
     "tier": 3,
@@ -1744,7 +1744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bdpgm66t",
+    "key": "gmnuasq",
     "name": "Corzide",
     "preventative": true,
     "tier": 3,
@@ -1752,7 +1752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u5kx0vc8",
+    "key": "vvdgcfk",
     "name": "Coumadin",
     "preventative": true,
     "tier": 3,
@@ -1760,7 +1760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gjgofoiy",
+    "key": "dqmiant",
     "name": "Cozaar",
     "preventative": true,
     "tier": 3,
@@ -1768,7 +1768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "npb4ixol",
+    "key": "u8kwcct",
     "name": "Creon 24000unit",
     "preventative": false,
     "tier": 2,
@@ -1776,7 +1776,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "80jgiu1p",
+    "key": "i921fq3",
     "name": "Crestor",
     "preventative": true,
     "tier": 3,
@@ -1784,7 +1784,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "150h00xp",
+    "key": "t5uqkpx",
     "name": "Cromolyn Sodium Nebulizer Solution",
     "preventative": true,
     "tier": 1,
@@ -1792,7 +1792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yu9k3p1p",
+    "key": "botbo2f",
     "name": "Cryselle",
     "preventative": true,
     "tier": 0,
@@ -1800,7 +1800,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tqx57pg5",
+    "key": "3pttq4x",
     "name": "Cyanocobalamine 1000mcg Vial",
     "preventative": false,
     "tier": 1,
@@ -1808,7 +1808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "g0fp8xno",
+    "key": "s17ytgd",
     "name": "Cyclessa",
     "preventative": true,
     "tier": 3,
@@ -1816,7 +1816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nj7ya1el",
+    "key": "22bak0m",
     "name": "Cyclobenzaprine 10mg",
     "preventative": false,
     "tier": 1,
@@ -1824,7 +1824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cvu9rn3h",
+    "key": "ybhhfna",
     "name": "Cyclobenzaprine 5mg",
     "preventative": false,
     "tier": 1,
@@ -1832,7 +1832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hh69b0py",
+    "key": "msgiv5d",
     "name": "Cyclosporine",
     "preventative": true,
     "tier": 1,
@@ -1840,7 +1840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wpm9rt6l",
+    "key": "fhjvf34",
     "name": "Cymbalta",
     "preventative": true,
     "tier": 3,
@@ -1848,7 +1848,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "14k540b3",
+    "key": "021n1di",
     "name": "Cyproheptadine 4mg",
     "preventative": false,
     "tier": 1,
@@ -1856,7 +1856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jrd6x7el",
+    "key": "01p8s2g",
     "name": "Cytomel 5mcg",
     "preventative": false,
     "tier": 3,
@@ -1864,7 +1864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "10tt73mm",
+    "key": "wukjk3p",
     "name": "Daliresp 500mcg",
     "preventative": false,
     "tier": 2,
@@ -1872,7 +1872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gbizhnu1",
+    "key": "m1hwujg",
     "name": "Daytrana 10mg 9hr",
     "preventative": false,
     "tier": 3,
@@ -1880,7 +1880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ht21p4gq",
+    "key": "75qyvup",
     "name": "Daytrana 15mg 9hr",
     "preventative": false,
     "tier": 3,
@@ -1888,7 +1888,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "48svjc1b",
+    "key": "z4gf5qv",
     "name": "Daytrana 20mg 9hr",
     "preventative": false,
     "tier": 3,
@@ -1896,7 +1896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "n3ucfuek",
+    "key": "gcx93m9",
     "name": "Depade",
     "preventative": true,
     "tier": 3,
@@ -1904,7 +1904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ezqntro3",
+    "key": "o3ls5wd",
     "name": "Depakene",
     "preventative": true,
     "tier": 3,
@@ -1912,7 +1912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e903zu0r",
+    "key": "she74fc",
     "name": "Depakote",
     "preventative": true,
     "tier": 3,
@@ -1920,7 +1920,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "v036hjpe",
+    "key": "j6fu0lg",
     "name": "Depakote Er",
     "preventative": true,
     "tier": 3,
@@ -1928,7 +1928,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jincbu55",
+    "key": "m3nf31h",
     "name": "Depo Provera",
     "preventative": true,
     "tier": 3,
@@ -1936,7 +1936,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hr8tcs8i",
+    "key": "utmoj9a",
     "name": "Desipramine",
     "preventative": true,
     "tier": 1,
@@ -1944,7 +1944,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vrmgi9e7",
+    "key": "oqtoyac",
     "name": "Desloratadine 5mg",
     "preventative": false,
     "tier": 1,
@@ -1952,7 +1952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wzpprb8x",
+    "key": "5suohrv",
     "name": "Desogen",
     "preventative": true,
     "tier": 3,
@@ -1960,7 +1960,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "phpm3rnr",
+    "key": "90izzf6",
     "name": "Desvenlafaxine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -1968,7 +1968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ywyudb40",
+    "key": "f7q374b",
     "name": "Dexilant Dr 30mg",
     "preventative": false,
     "tier": 2,
@@ -1976,7 +1976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kaeee32l",
+    "key": "6vl4nbq",
     "name": "Dexilant Dr 60mg",
     "preventative": false,
     "tier": 2,
@@ -1984,7 +1984,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pc69m2bt",
+    "key": "ukbvudl",
     "name": "Dexmethylphenidate Er 25mg",
     "preventative": false,
     "tier": 1,
@@ -1992,7 +1992,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7oroj4wm",
+    "key": "aajcprq",
     "name": "Diazepam 10mg",
     "preventative": false,
     "tier": 1,
@@ -2000,7 +2000,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "esau63ye",
+    "key": "q1t6w6k",
     "name": "Diazepam 5mg",
     "preventative": false,
     "tier": 1,
@@ -2008,7 +2008,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kgsvseen",
+    "key": "yzy3uz2",
     "name": "Diclegis 10 10mg",
     "preventative": false,
     "tier": 2,
@@ -2016,7 +2016,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wvjuv1nw",
+    "key": "96cqljj",
     "name": "Diclofenac Gel 1",
     "preventative": false,
     "tier": 1,
@@ -2024,7 +2024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mosio18y",
+    "key": "g8vc6n4",
     "name": "Dicyclomine 10mg",
     "preventative": false,
     "tier": 1,
@@ -2032,7 +2032,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wukpcgi6",
+    "key": "1e1k850",
     "name": "Dicyclomine 20mg",
     "preventative": false,
     "tier": 1,
@@ -2040,7 +2040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "km580yii",
+    "key": "8mdqq85",
     "name": "Diethylpropion",
     "preventative": true,
     "tier": 1,
@@ -2048,7 +2048,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7cyqcfda",
+    "key": "nn0hyg9",
     "name": "Diethylpropion Extended Release",
     "preventative": true,
     "tier": 1,
@@ -2056,7 +2056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5m2ii1k9",
+    "key": "hb9fzb7",
     "name": "Differin Lotion 0 1",
     "preventative": false,
     "tier": 2,
@@ -2064,7 +2064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ghj3yihi",
+    "key": "rujzuy6",
     "name": "Dilantin",
     "preventative": true,
     "tier": 3,
@@ -2072,7 +2072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9ctge1tg",
+    "key": "6k95jg1",
     "name": "Diltiazem",
     "preventative": true,
     "tier": 1,
@@ -2080,7 +2080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vptqncgc",
+    "key": "x0k9dai",
     "name": "Diltiazem Extended Release",
     "preventative": true,
     "tier": 1,
@@ -2088,7 +2088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "oooyq5y4",
+    "key": "6dbhzwc",
     "name": "Diltiazem Xr",
     "preventative": true,
     "tier": 1,
@@ -2096,7 +2096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "li26bcgc",
+    "key": "bquyeb5",
     "name": "Diltrate Sr",
     "preventative": true,
     "tier": 3,
@@ -2104,7 +2104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "32r53t9y",
+    "key": "fl6f8ta",
     "name": "Dilt Xr",
     "preventative": true,
     "tier": 3,
@@ -2112,7 +2112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "oowrjfqj",
+    "key": "nm868tn",
     "name": "Diovan",
     "preventative": true,
     "tier": 3,
@@ -2120,7 +2120,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "eailzmwm",
+    "key": "rmf4rxn",
     "name": "Diovan Hct",
     "preventative": true,
     "tier": 3,
@@ -2128,7 +2128,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "ri1xr441",
+    "key": "6h3l03l",
     "name": "Dipyridamole",
     "preventative": true,
     "tier": 1,
@@ -2136,7 +2136,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "wxt7iv9x",
+    "key": "7psddug",
     "name": "Dipyridamole Extended Release Aspirin",
     "preventative": true,
     "tier": 1,
@@ -2144,7 +2144,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9h0s6do1",
+    "key": "755gceg",
     "name": "Disopyramide",
     "preventative": true,
     "tier": 1,
@@ -2152,7 +2152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m2wfarjj",
+    "key": "qiuvzzq",
     "name": "Disulfiram",
     "preventative": true,
     "tier": 1,
@@ -2160,7 +2160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wlbczrfe",
+    "key": "0mdmw8u",
     "name": "Diuril",
     "preventative": true,
     "tier": 3,
@@ -2168,7 +2168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kfbmzgvg",
+    "key": "2bi8nn5",
     "name": "Divalproex Sodium Delayed Release",
     "preventative": true,
     "tier": 1,
@@ -2176,7 +2176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jvjlj01c",
+    "key": "smyfkx3",
     "name": "Divalproex Sodium Extended Release",
     "preventative": true,
     "tier": 1,
@@ -2184,7 +2184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qhn3tvab",
+    "key": "ugyceja",
     "name": "Dofetilide",
     "preventative": true,
     "tier": 1,
@@ -2192,7 +2192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nnqe0e5y",
+    "key": "ztvhvo6",
     "name": "Donepezil 10mg",
     "preventative": false,
     "tier": 1,
@@ -2200,7 +2200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5rqhx8cx",
+    "key": "fnl046p",
     "name": "Dorzolamide Opthalmic Solution 2",
     "preventative": false,
     "tier": 1,
@@ -2208,7 +2208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "uw8a6g63",
+    "key": "ymi7tkw",
     "name": "Dorzolamide Timolol Opthalmic Solution 2 0 5",
     "preventative": false,
     "tier": 1,
@@ -2216,7 +2216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nt45cmqf",
+    "key": "icisaoj",
     "name": "Doxepin",
     "preventative": true,
     "tier": 1,
@@ -2224,7 +2224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lablirb9",
+    "key": "cj7uuu3",
     "name": "Doxycycline Hyclate 100mg Capsules",
     "preventative": false,
     "tier": 1,
@@ -2232,7 +2232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ldu3l4bp",
+    "key": "y3zbxhh",
     "name": "Doxycycline Hyclate 100mg Tablets",
     "preventative": false,
     "tier": 1,
@@ -2240,7 +2240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "58mabh1v",
+    "key": "toj6k4p",
     "name": "Doxycycline Hyclate 50mg Capsules",
     "preventative": false,
     "tier": 1,
@@ -2248,7 +2248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zj1jaolu",
+    "key": "hqxkcds",
     "name": "Drysol Solution 20",
     "preventative": false,
     "tier": 3,
@@ -2256,7 +2256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9w6ie7hw",
+    "key": "0ek6jfm",
     "name": "Duetact",
     "preventative": true,
     "tier": 3,
@@ -2264,7 +2264,15 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xk7vn6z0",
+    "key": "dhafi16",
+    "name": "Dulera",
+    "preventative": false,
+    "tier": 2,
+    "cost": 28.18,
+    "priorauth": false
+  },
+  {
+    "key": "eof4uh8",
     "name": "Duloxetine Delayed Release",
     "preventative": true,
     "tier": 1,
@@ -2272,7 +2280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "j27qmhdn",
+    "key": "j75m1r6",
     "name": "Durezol Opthalmic 0 05",
     "preventative": false,
     "tier": 2,
@@ -2280,7 +2288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u7pi4x2g",
+    "key": "66vrgkj",
     "name": "Durlaza",
     "preventative": true,
     "tier": 3,
@@ -2288,7 +2296,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7d633s1v",
+    "key": "l1d6691",
     "name": "Dutoprol",
     "preventative": true,
     "tier": 3,
@@ -2296,7 +2304,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "uch7j8bx",
+    "key": "pjwo5im",
     "name": "Dyazide",
     "preventative": true,
     "tier": 3,
@@ -2304,7 +2312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cpq1mth7",
+    "key": "e80wwfq",
     "name": "Easy Touch Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -2312,7 +2320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "98yckot6",
+    "key": "a5vh9mf",
     "name": "Econazole Cream 1",
     "preventative": false,
     "tier": 1,
@@ -2320,7 +2328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "own07ti4",
+    "key": "k0gz83j",
     "name": "Edarbi",
     "preventative": true,
     "tier": 3,
@@ -2328,7 +2336,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "z9lneiz0",
+    "key": "s3cnavi",
     "name": "Edarbyclor",
     "preventative": true,
     "tier": 3,
@@ -2336,7 +2344,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "2c3fs9fs",
+    "key": "3106euj",
     "name": "Effexor Xr",
     "preventative": true,
     "tier": 3,
@@ -2344,7 +2352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xj5e3vsm",
+    "key": "9o57zhz",
     "name": "Effient",
     "preventative": true,
     "tier": 2,
@@ -2352,7 +2360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dhg1w713",
+    "key": "k86d7uw",
     "name": "Elavil",
     "preventative": true,
     "tier": 3,
@@ -2360,7 +2368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5e9dedxt",
+    "key": "ch7v0v2",
     "name": "Eliquis",
     "preventative": true,
     "tier": 2,
@@ -2368,7 +2376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "guvawovp",
+    "key": "9jk6mcc",
     "name": "Embrace Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -2376,7 +2384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x1kcg88s",
+    "key": "hnlg1yk",
     "name": "Emsam",
     "preventative": true,
     "tier": 3,
@@ -2384,7 +2392,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zxfwtvyv",
+    "key": "0ichu38",
     "name": "Enalapril",
     "preventative": true,
     "tier": 1,
@@ -2392,7 +2400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "udup9wwl",
+    "key": "jbc3sqr",
     "name": "Enalapril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -2400,7 +2408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pftkaxln",
+    "key": "yinlo0i",
     "name": "Enoxaparin",
     "preventative": true,
     "tier": 1,
@@ -2408,7 +2416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9b9yjrec",
+    "key": "sb94yz9",
     "name": "Envarsus Xr",
     "preventative": true,
     "tier": 3,
@@ -2416,7 +2424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "f5k6lrt4",
+    "key": "sw21hom",
     "name": "Epaned",
     "preventative": true,
     "tier": 3,
@@ -2424,7 +2432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x4m2m4y4",
+    "key": "l4xy3js",
     "name": "Epinastine Opthalmic Solution 0 05",
     "preventative": false,
     "tier": 1,
@@ -2432,7 +2440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s6yq6edy",
+    "key": "gdv1x8m",
     "name": "Epinepherine Kit 0 15mg 2 Pack",
     "preventative": false,
     "tier": 1,
@@ -2440,7 +2448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2n1xnmb6",
+    "key": "y30mzi9",
     "name": "Epinepherine Pen 0 3mg 2 Pack",
     "preventative": false,
     "tier": 1,
@@ -2448,7 +2456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qqy2g6pd",
+    "key": "ak5z1me",
     "name": "Epi Pen 0 3mg 2 Pack",
     "preventative": false,
     "tier": 2,
@@ -2456,7 +2464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "svluneu7",
+    "key": "ynlcoyp",
     "name": "Epi Pen Jr 0 15mg 2 Pack",
     "preventative": false,
     "tier": 2,
@@ -2464,7 +2472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "h3ibul07",
+    "key": "mzzuxnh",
     "name": "Epitol",
     "preventative": true,
     "tier": 3,
@@ -2472,7 +2480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "797f1kfy",
+    "key": "7qqnpmn",
     "name": "Eprosartan",
     "preventative": true,
     "tier": 1,
@@ -2480,7 +2488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8djply0d",
+    "key": "4c5xlha",
     "name": "Equetro",
     "preventative": true,
     "tier": 3,
@@ -2488,7 +2496,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yect5yeq",
+    "key": "ptfbsye",
     "name": "Erythromycin Pads 2",
     "preventative": false,
     "tier": 1,
@@ -2496,7 +2504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "i72aavvu",
+    "key": "d4fyr53",
     "name": "Erythromycin Benzoyl Peroxide Gel 3 5",
     "preventative": false,
     "tier": 1,
@@ -2504,7 +2512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vwmnyw60",
+    "key": "st4ly0c",
     "name": "Escitalopram",
     "preventative": true,
     "tier": 1,
@@ -2512,7 +2520,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "j3q9hdt8",
+    "key": "on7uv6u",
     "name": "Esomeprazole Dr 20mg",
     "preventative": false,
     "tier": 1,
@@ -2520,7 +2528,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l4d8fjwr",
+    "key": "6pepvtv",
     "name": "Esomeprazole Dr 40mg",
     "preventative": false,
     "tier": 1,
@@ -2528,7 +2536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r0prqlzb",
+    "key": "6lx02bt",
     "name": "Estrace Cream 0 1mg Gm",
     "preventative": false,
     "tier": 2,
@@ -2536,7 +2544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nz2kgynj",
+    "key": "id61zv1",
     "name": "Estradiol 0 5mg",
     "preventative": false,
     "tier": 1,
@@ -2544,7 +2552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u8v5rqq0",
+    "key": "vpzamf8",
     "name": "Estradiol 1mcg",
     "preventative": false,
     "tier": 1,
@@ -2552,7 +2560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9r3s9day",
+    "key": "9bji4e3",
     "name": "Estradiol Patch 0 375mg Day",
     "preventative": false,
     "tier": 1,
@@ -2560,7 +2568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qmijo441",
+    "key": "obzwhwd",
     "name": "Estring Ring 2mg",
     "preventative": false,
     "tier": 3,
@@ -2568,7 +2576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ylpqgrjk",
+    "key": "xo7pq22",
     "name": "Estrogel",
     "preventative": false,
     "tier": 3,
@@ -2576,7 +2584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "efgnr2ev",
+    "key": "0kdwq01",
     "name": "Estrostep Fe",
     "preventative": true,
     "tier": 3,
@@ -2584,7 +2592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "24o0xiqb",
+    "key": "rwa4m5w",
     "name": "Eszopiclone 3mg",
     "preventative": false,
     "tier": 1,
@@ -2592,7 +2600,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3d1zmpil",
+    "key": "pe3p6d4",
     "name": "Ethosuximide",
     "preventative": true,
     "tier": 1,
@@ -2600,7 +2608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hqz0waee",
+    "key": "f51606l",
     "name": "Etodolac 400mg",
     "preventative": false,
     "tier": 1,
@@ -2608,7 +2616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qhsb0iqy",
+    "key": "4fsqxh6",
     "name": "Etodolac 600mg",
     "preventative": false,
     "tier": 1,
@@ -2616,7 +2624,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yugaiesf",
+    "key": "hfzntf9",
     "name": "Eucrisa Ointment 2",
     "preventative": false,
     "tier": 3,
@@ -2624,7 +2632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "j4d3w384",
+    "key": "msgtu39",
     "name": "Evista",
     "preventative": true,
     "tier": 3,
@@ -2632,7 +2640,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lr1fztxv",
+    "key": "otk9d9y",
     "name": "Exemestant",
     "preventative": true,
     "tier": 1,
@@ -2640,7 +2648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t3iqa3c3",
+    "key": "blzfisf",
     "name": "Exetimibe Simvastatin",
     "preventative": true,
     "tier": 1,
@@ -2648,7 +2656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y8sy1lf3",
+    "key": "e37zk8q",
     "name": "Exforge",
     "preventative": true,
     "tier": 3,
@@ -2656,7 +2664,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "28shq0o3",
+    "key": "3994zqc",
     "name": "Exforge Hct",
     "preventative": true,
     "tier": 3,
@@ -2664,7 +2672,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "dqaw8c9r",
+    "key": "g7vijhs",
     "name": "Extavia",
     "preventative": true,
     "tier": 3,
@@ -2672,7 +2680,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "kmhqzg6l",
+    "key": "mivhhuw",
     "name": "Ezetimibe",
     "preventative": true,
     "tier": 1,
@@ -2680,7 +2688,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "50p4htuy",
+    "key": "2ioh9wf",
     "name": "Famotidine 20mg",
     "preventative": false,
     "tier": 1,
@@ -2688,7 +2696,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gbjrh3kk",
+    "key": "gxsyz9m",
     "name": "Famotidine 40mg",
     "preventative": false,
     "tier": 1,
@@ -2696,7 +2704,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3flay1il",
+    "key": "4fznytb",
     "name": "Fanapt",
     "preventative": true,
     "tier": 3,
@@ -2704,7 +2712,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "pr5xvua6",
+    "key": "x4xg1ks",
     "name": "Farxiga",
     "preventative": true,
     "tier": 2,
@@ -2712,7 +2720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8mnifgvc",
+    "key": "kwszxpc",
     "name": "Fazaclo",
     "preventative": true,
     "tier": 3,
@@ -2720,7 +2728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9xk8ezme",
+    "key": "gv52cay",
     "name": "Felbamate",
     "preventative": true,
     "tier": 1,
@@ -2728,7 +2736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y6ycivnz",
+    "key": "c2kz2qn",
     "name": "Felbatol",
     "preventative": true,
     "tier": 3,
@@ -2736,7 +2744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5506ztdd",
+    "key": "ad059de",
     "name": "Felodipine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -2744,7 +2752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yg1m2ubf",
+    "key": "s8i2ra7",
     "name": "Femara",
     "preventative": true,
     "tier": 3,
@@ -2752,7 +2760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "a4znrf3g",
+    "key": "t8iwzrb",
     "name": "Femcon Fe",
     "preventative": true,
     "tier": 3,
@@ -2760,7 +2768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "aqjlkg0n",
+    "key": "r3fdn8s",
     "name": "Fenofibrate",
     "preventative": true,
     "tier": 1,
@@ -2768,7 +2776,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kxxqaiq2",
+    "key": "sp3t4xx",
     "name": "Fenofibric Acid",
     "preventative": true,
     "tier": 1,
@@ -2776,7 +2784,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "f2degj8j",
+    "key": "qrxzoej",
     "name": "Fenofibric Acid Delayed Release",
     "preventative": true,
     "tier": 1,
@@ -2784,7 +2792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mkmh1yr5",
+    "key": "6yregfg",
     "name": "Fenoglide",
     "preventative": true,
     "tier": 3,
@@ -2792,7 +2800,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "f1xes3fz",
+    "key": "5skv8oh",
     "name": "Fetzima",
     "preventative": true,
     "tier": 3,
@@ -2800,7 +2808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ge47rt9y",
+    "key": "mk0gtvc",
     "name": "Finasteride 5mg",
     "preventative": false,
     "tier": 1,
@@ -2808,7 +2816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "g0tnacnr",
+    "key": "nxv42s3",
     "name": "Flecainide",
     "preventative": true,
     "tier": 1,
@@ -2816,7 +2824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "h5zg5qxr",
+    "key": "2ql4f5f",
     "name": "Flovent Diskus",
     "preventative": true,
     "tier": 2,
@@ -2824,7 +2832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wknvwv5j",
+    "key": "fy5ye7y",
     "name": "Flovent Hfa",
     "preventative": true,
     "tier": 2,
@@ -2832,7 +2840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8rg83959",
+    "key": "biir5wb",
     "name": "Fluocinolone Scalp Oil 0 01",
     "preventative": false,
     "tier": 1,
@@ -2840,7 +2848,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "smo0ibhq",
+    "key": "dkjgf9i",
     "name": "Fluocinolone Solution 0 01",
     "preventative": false,
     "tier": 1,
@@ -2848,7 +2856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y2iozyvr",
+    "key": "1jq0sfl",
     "name": "Fluocinonide Cream 0 05",
     "preventative": false,
     "tier": 1,
@@ -2856,7 +2864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9jqax1qm",
+    "key": "ydcashl",
     "name": "Fluocinonide Ointment 0 05",
     "preventative": false,
     "tier": 1,
@@ -2864,7 +2872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "v5v31ibn",
+    "key": "yx8nzvp",
     "name": "Fluocinonide Solution 0 05",
     "preventative": false,
     "tier": 1,
@@ -2872,7 +2880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0rsjljld",
+    "key": "vyl2ioh",
     "name": "Fluorouracil Cream 5",
     "preventative": false,
     "tier": 1,
@@ -2880,7 +2888,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "n05avek0",
+    "key": "jqx1rex",
     "name": "Fluouxetine Delayed Release",
     "preventative": true,
     "tier": 1,
@@ -2888,7 +2896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mkokxxk4",
+    "key": "ayjnp5e",
     "name": "Fluoxetine",
     "preventative": true,
     "tier": 1,
@@ -2896,7 +2904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pj15s2su",
+    "key": "m4qz37q",
     "name": "Fluphenazine",
     "preventative": true,
     "tier": 1,
@@ -2904,7 +2912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5mimib8x",
+    "key": "olw2odx",
     "name": "Fluphenazine Decanoate",
     "preventative": true,
     "tier": 1,
@@ -2912,7 +2920,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "usv4omfc",
+    "key": "zo6hwk5",
     "name": "Fluticasone Nasal Spray",
     "preventative": false,
     "tier": 1,
@@ -2920,7 +2928,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "oqeumz6k",
+    "key": "zqy527w",
     "name": "Fluticasone Salmeterol",
     "preventative": true,
     "tier": 1,
@@ -2928,7 +2936,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o34ekcg6",
+    "key": "k0p2r1v",
     "name": "Fluvastatin",
     "preventative": true,
     "tier": 1,
@@ -2936,7 +2944,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u7wxpx4o",
+    "key": "hf9mspu",
     "name": "Fluvastatin Extended Release",
     "preventative": true,
     "tier": 1,
@@ -2944,7 +2952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vucrm3wh",
+    "key": "jk6ysxl",
     "name": "Fluvoxamine",
     "preventative": true,
     "tier": 1,
@@ -2952,7 +2960,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ryqm38am",
+    "key": "mvahns9",
     "name": "Fluvoxamine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -2960,7 +2968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "knr2ttaz",
+    "key": "hpehfzp",
     "name": "Focalin Xr 25mg",
     "preventative": false,
     "tier": 3,
@@ -2968,7 +2976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dt428v7t",
+    "key": "hap3fb6",
     "name": "Folic Acid 1mg",
     "preventative": false,
     "tier": 1,
@@ -2976,7 +2984,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z55f2yu9",
+    "key": "vsgtghs",
     "name": "Fondaparinux",
     "preventative": true,
     "tier": 1,
@@ -2984,7 +2992,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fjz1daym",
+    "key": "2t6wmxg",
     "name": "Forfivo",
     "preventative": true,
     "tier": 3,
@@ -2992,7 +3000,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "j9cfimus",
+    "key": "rpyp7b2",
     "name": "Fortamet",
     "preventative": true,
     "tier": 3,
@@ -3000,7 +3008,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "1zfo2auk",
+    "key": "zjk62fl",
     "name": "Fosamax",
     "preventative": true,
     "tier": 3,
@@ -3008,7 +3016,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l952l3we",
+    "key": "1zl9gwf",
     "name": "Fosinopril",
     "preventative": true,
     "tier": 1,
@@ -3016,7 +3024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u4kla4rh",
+    "key": "12d6m0b",
     "name": "Fosinopril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -3024,7 +3032,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "g80t6gf6",
+    "key": "rkmdga4",
     "name": "Fragmin",
     "preventative": true,
     "tier": 3,
@@ -3032,7 +3040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "iqjm18y2",
+    "key": "vfc80nq",
     "name": "Freestyle Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -3040,7 +3048,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "8zxoogcl",
+    "key": "99am317",
     "name": "Furosemide 20mg",
     "preventative": false,
     "tier": 1,
@@ -3048,7 +3056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bgu87181",
+    "key": "a4atus7",
     "name": "Fycompa",
     "preventative": true,
     "tier": 2,
@@ -3056,7 +3064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "eyuvyqsk",
+    "key": "bbl2to0",
     "name": "Gabapentin 100mg",
     "preventative": false,
     "tier": 1,
@@ -3064,7 +3072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0590h3rh",
+    "key": "xscvgot",
     "name": "Gabapentin 300mg",
     "preventative": false,
     "tier": 1,
@@ -3072,7 +3080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "uvm53gl5",
+    "key": "o8nlvo4",
     "name": "Gabapentin 400mg",
     "preventative": false,
     "tier": 1,
@@ -3080,7 +3088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "i550bpr6",
+    "key": "3suzccs",
     "name": "Gabapentin 600mg",
     "preventative": false,
     "tier": 1,
@@ -3088,7 +3096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xptxpym3",
+    "key": "qjk51o4",
     "name": "Gabitril",
     "preventative": true,
     "tier": 3,
@@ -3096,7 +3104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qxb749zv",
+    "key": "5h505z6",
     "name": "Gavilyte",
     "preventative": true,
     "tier": 3,
@@ -3104,7 +3112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u1zts47r",
+    "key": "ic2o915",
     "name": "Gemfibrozil",
     "preventative": true,
     "tier": 1,
@@ -3112,7 +3120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6n9xe3im",
+    "key": "lp6q1d6",
     "name": "Generic Prenatal Vitamin Prescriptions",
     "preventative": true,
     "tier": 1,
@@ -3120,7 +3128,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sp6mwu22",
+    "key": "h6kk4hw",
     "name": "Gengraf",
     "preventative": true,
     "tier": 3,
@@ -3128,7 +3136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4kcudxtz",
+    "key": "bomt0rr",
     "name": "Genress Fe",
     "preventative": true,
     "tier": 3,
@@ -3136,7 +3144,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ywnts4dr",
+    "key": "bnz3om8",
     "name": "Geodon",
     "preventative": true,
     "tier": 3,
@@ -3144,7 +3152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "f8qukkh1",
+    "key": "34oon53",
     "name": "Gianvi",
     "preventative": true,
     "tier": 0,
@@ -3152,7 +3160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e38aoeb2",
+    "key": "jae33so",
     "name": "Gilenya",
     "preventative": true,
     "tier": 2,
@@ -3160,7 +3168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "d0nwi8hm",
+    "key": "lzxapgn",
     "name": "Glatiramer",
     "preventative": true,
     "tier": 1,
@@ -3168,7 +3176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ibx1p760",
+    "key": "lzneq2o",
     "name": "Glimepiride",
     "preventative": true,
     "tier": 1,
@@ -3176,7 +3184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hu8flmxp",
+    "key": "nwk3453",
     "name": "Glipizide",
     "preventative": true,
     "tier": 1,
@@ -3184,7 +3192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "p3z8eg4a",
+    "key": "d8ca9yn",
     "name": "Glipizide Extended Release",
     "preventative": true,
     "tier": 1,
@@ -3192,7 +3200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "64w28008",
+    "key": "uzr9svf",
     "name": "Glipizide Metformin",
     "preventative": true,
     "tier": 1,
@@ -3200,7 +3208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "g23uulep",
+    "key": "1pw0u78",
     "name": "Glucocard Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -3208,7 +3216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vgzt59uq",
+    "key": "letw7vg",
     "name": "Glucophage",
     "preventative": true,
     "tier": 3,
@@ -3216,7 +3224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cfwvi3nz",
+    "key": "m6p6579",
     "name": "Glucophage Xr",
     "preventative": true,
     "tier": 3,
@@ -3224,7 +3232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "iuk9g5lb",
+    "key": "16avzzf",
     "name": "Glucotrol",
     "preventative": true,
     "tier": 3,
@@ -3232,7 +3240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "d1b83zi4",
+    "key": "b0npp9i",
     "name": "Glucotrol Xl",
     "preventative": true,
     "tier": 3,
@@ -3240,7 +3248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u7jw8xcz",
+    "key": "vsqh4bj",
     "name": "Glucovance",
     "preventative": true,
     "tier": 3,
@@ -3248,7 +3256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kl0s4mmt",
+    "key": "mzth469",
     "name": "Glumetza",
     "preventative": true,
     "tier": 3,
@@ -3256,7 +3264,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "9hskbptw",
+    "key": "cu7jp6o",
     "name": "Glyburide",
     "preventative": true,
     "tier": 1,
@@ -3264,7 +3272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vw91w9df",
+    "key": "q0qsyqe",
     "name": "Glyburide Micronized",
     "preventative": true,
     "tier": 1,
@@ -3272,7 +3280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t1z5kwxu",
+    "key": "9mzffkn",
     "name": "Glyburide Metformin",
     "preventative": true,
     "tier": 1,
@@ -3280,7 +3288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "d6smlpfa",
+    "key": "gvpc208",
     "name": "Glycopyrrolate 1mg",
     "preventative": false,
     "tier": 1,
@@ -3288,7 +3296,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2tqxo6x6",
+    "key": "mjz675t",
     "name": "Glynase",
     "preventative": true,
     "tier": 3,
@@ -3296,7 +3304,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x5i6u1dk",
+    "key": "gkognpc",
     "name": "Glyset",
     "preventative": true,
     "tier": 1,
@@ -3304,7 +3312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ca5lhdau",
+    "key": "8tvtqgm",
     "name": "Glyxambi",
     "preventative": true,
     "tier": 3,
@@ -3312,7 +3320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9fopulsk",
+    "key": "gvg7llf",
     "name": "Golytely",
     "preventative": true,
     "tier": 3,
@@ -3320,7 +3328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ei0472il",
+    "key": "9xe0x17",
     "name": "Grastek",
     "preventative": true,
     "tier": 3,
@@ -3328,7 +3336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sysrihyw",
+    "key": "30e51em",
     "name": "Guanabenz",
     "preventative": true,
     "tier": 1,
@@ -3336,7 +3344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r64wlrf1",
+    "key": "g5ihtex",
     "name": "Guanfacine",
     "preventative": true,
     "tier": 1,
@@ -3344,7 +3352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pu3mk2ro",
+    "key": "z7ik1lg",
     "name": "Haldol",
     "preventative": true,
     "tier": 3,
@@ -3352,7 +3360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "97w8soqb",
+    "key": "0vpxoqx",
     "name": "Haldol Decanoate",
     "preventative": true,
     "tier": 3,
@@ -3360,7 +3368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e47q2hl6",
+    "key": "iz39nfj",
     "name": "Haloperidol",
     "preventative": true,
     "tier": 1,
@@ -3368,7 +3376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dotawegt",
+    "key": "0rzee1h",
     "name": "Horizant 300mg",
     "preventative": false,
     "tier": 3,
@@ -3376,7 +3384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hocygxai",
+    "key": "06w41k5",
     "name": "Humalog",
     "preventative": true,
     "tier": 3,
@@ -3384,7 +3392,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "on35kl11",
+    "key": "wcnois7",
     "name": "Humira Kit 40mg",
     "preventative": false,
     "tier": 2,
@@ -3392,7 +3400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "niyv8pfw",
+    "key": "izykscw",
     "name": "Humira Pen Injection 40mg 0 8m L",
     "preventative": false,
     "tier": 2,
@@ -3400,7 +3408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nu8k1bpt",
+    "key": "6q3kevb",
     "name": "Humulin",
     "preventative": true,
     "tier": 3,
@@ -3408,7 +3416,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "ptwruwad",
+    "key": "inwfji4",
     "name": "Hydralazine",
     "preventative": true,
     "tier": 1,
@@ -3416,7 +3424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z4fin504",
+    "key": "qcgwysk",
     "name": "Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -3424,7 +3432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hkju73r6",
+    "key": "g7mc3ez",
     "name": "Hydrocodone Acetaminophen 5 325mg",
     "preventative": false,
     "tier": 1,
@@ -3432,7 +3440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dmtbzjhu",
+    "key": "ut9c50c",
     "name": "Hydrocortisone Cream 2 5",
     "preventative": false,
     "tier": 1,
@@ -3440,7 +3448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ptrxwrdq",
+    "key": "u6sgyv7",
     "name": "Hydromorphone 2mg",
     "preventative": false,
     "tier": 1,
@@ -3448,7 +3456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "oeuezybq",
+    "key": "c26qhmg",
     "name": "Hydroxychloroquine 200mg",
     "preventative": false,
     "tier": 1,
@@ -3456,7 +3464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1e3j1ibf",
+    "key": "meafuym",
     "name": "Hydroxyzine 10mg",
     "preventative": false,
     "tier": 1,
@@ -3464,7 +3472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nsj2a4hf",
+    "key": "cfo5l9i",
     "name": "Hydroxyzine 25mg",
     "preventative": false,
     "tier": 1,
@@ -3472,7 +3480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "uwt9e4dd",
+    "key": "z64napk",
     "name": "Hydroxyzine 50mg",
     "preventative": false,
     "tier": 1,
@@ -3480,7 +3488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jx8fnwpt",
+    "key": "aqpvbhq",
     "name": "Hydroxyzine Syrup 10mg 5m L",
     "preventative": false,
     "tier": 1,
@@ -3488,7 +3496,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6r0keatd",
+    "key": "hetkz5n",
     "name": "Hyoscamine Odt 0 125mg",
     "preventative": false,
     "tier": 1,
@@ -3496,7 +3504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9jy17p35",
+    "key": "i4f5w90",
     "name": "Hyzaar",
     "preventative": true,
     "tier": 3,
@@ -3504,7 +3512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mhfdoa3a",
+    "key": "fsoivke",
     "name": "Ibandronate",
     "preventative": true,
     "tier": 1,
@@ -3512,7 +3520,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cvqdf9ed",
+    "key": "rjdkl8l",
     "name": "Ibuprofen 400mg",
     "preventative": false,
     "tier": 1,
@@ -3520,7 +3528,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "a2j1zr1w",
+    "key": "j7e3zkc",
     "name": "Ibuprofen 600mg",
     "preventative": false,
     "tier": 1,
@@ -3528,7 +3536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gnjofzy9",
+    "key": "p6lj6f5",
     "name": "Ibuprofen 800mg",
     "preventative": false,
     "tier": 1,
@@ -3536,7 +3544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l2lzfyhl",
+    "key": "5a0e462",
     "name": "Imipramine Hydrochloride",
     "preventative": true,
     "tier": 1,
@@ -3544,7 +3552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "904foo9y",
+    "key": "ki88jx0",
     "name": "Imipramine Pamoate",
     "preventative": true,
     "tier": 1,
@@ -3552,7 +3560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hxz1uth4",
+    "key": "6v4s9lo",
     "name": "Implanon",
     "preventative": true,
     "tier": 3,
@@ -3560,7 +3568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7r1bw1vr",
+    "key": "pc0tq68",
     "name": "Indapamide",
     "preventative": true,
     "tier": 1,
@@ -3568,7 +3576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0h70fmzh",
+    "key": "60zg5ik",
     "name": "Inderal La",
     "preventative": true,
     "tier": 3,
@@ -3576,7 +3584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "89bpdvz3",
+    "key": "j92ix7v",
     "name": "Indomethacin 50mg",
     "preventative": false,
     "tier": 3,
@@ -3584,7 +3592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ah960brc",
+    "key": "38bb9z5",
     "name": "Invega",
     "preventative": true,
     "tier": 3,
@@ -3592,7 +3600,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "p0o24kow",
+    "key": "557if4u",
     "name": "Invega Sustenna",
     "preventative": true,
     "tier": 3,
@@ -3600,7 +3608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fzu1r34o",
+    "key": "09j1cs1",
     "name": "Invega Trinza",
     "preventative": true,
     "tier": 3,
@@ -3608,7 +3616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lfubfwib",
+    "key": "rriuaqr",
     "name": "Invokamet",
     "preventative": true,
     "tier": 3,
@@ -3616,7 +3624,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "dn92ojms",
+    "key": "t87zqqv",
     "name": "Invokamet Xr",
     "preventative": true,
     "tier": 3,
@@ -3624,7 +3632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q2ooisl7",
+    "key": "3sa2yqa",
     "name": "Invokana",
     "preventative": true,
     "tier": 3,
@@ -3632,7 +3640,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "urt6ekce",
+    "key": "068aztl",
     "name": "Ipratropium Albuterol Nebulizers",
     "preventative": false,
     "tier": 1,
@@ -3640,7 +3648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nuum2tzz",
+    "key": "ybwboem",
     "name": "Iprivask",
     "preventative": true,
     "tier": 3,
@@ -3648,7 +3656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zbue4f6k",
+    "key": "vbh4tlm",
     "name": "Irbesartan",
     "preventative": true,
     "tier": 1,
@@ -3656,7 +3664,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6we7d957",
+    "key": "8fzz5wp",
     "name": "Irbesartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -3664,7 +3672,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6n3vjhxm",
+    "key": "8y8hka2",
     "name": "Irenka",
     "preventative": true,
     "tier": 3,
@@ -3672,7 +3680,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cb2gevo9",
+    "key": "d19jfkt",
     "name": "Isoptin Sr",
     "preventative": true,
     "tier": 3,
@@ -3680,7 +3688,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6lxay4zq",
+    "key": "wqg9zek",
     "name": "Isordil",
     "preventative": true,
     "tier": 3,
@@ -3688,7 +3696,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4z7b5ihe",
+    "key": "4mc11m7",
     "name": "Isosorbide Dinitrate",
     "preventative": true,
     "tier": 1,
@@ -3696,7 +3704,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ade11ex2",
+    "key": "qy2dbh3",
     "name": "Isosorbide Dinitrate Extended Release",
     "preventative": true,
     "tier": 1,
@@ -3704,7 +3712,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "71200v7s",
+    "key": "9ndi9yn",
     "name": "Isosorbide Mononitrate",
     "preventative": true,
     "tier": 1,
@@ -3712,7 +3720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "snbvubrc",
+    "key": "0h72ard",
     "name": "Isosorbide Mononitrate Extended Release",
     "preventative": true,
     "tier": 1,
@@ -3720,7 +3728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "aqb65zsj",
+    "key": "ov2eoiv",
     "name": "Isradipine",
     "preventative": true,
     "tier": 1,
@@ -3728,7 +3736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3eae7k24",
+    "key": "4vpzeu7",
     "name": "Jantoven",
     "preventative": true,
     "tier": 3,
@@ -3736,7 +3744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s3c3vaxq",
+    "key": "tt93p3p",
     "name": "Janumet",
     "preventative": true,
     "tier": 3,
@@ -3744,7 +3752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "geshv1b1",
+    "key": "btkxcp2",
     "name": "Janumet Xr",
     "preventative": true,
     "tier": 3,
@@ -3752,7 +3760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "uuqn4v4z",
+    "key": "ffyydf5",
     "name": "Januvia",
     "preventative": true,
     "tier": 3,
@@ -3760,7 +3768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jvhffvg5",
+    "key": "sw5ulhl",
     "name": "Jardiance",
     "preventative": true,
     "tier": 3,
@@ -3768,7 +3776,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mxdae6en",
+    "key": "g2my7zp",
     "name": "Jentadueto Xr",
     "preventative": true,
     "tier": 3,
@@ -3776,7 +3784,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r7sni9dr",
+    "key": "mz4vsp4",
     "name": "Jentaduetto",
     "preventative": true,
     "tier": 3,
@@ -3784,7 +3792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vpyjq6j1",
+    "key": "ujis1qy",
     "name": "Jolessa",
     "preventative": true,
     "tier": 0,
@@ -3792,7 +3800,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zybc6mmp",
+    "key": "kxu525b",
     "name": "Junel",
     "preventative": true,
     "tier": 0,
@@ -3800,7 +3808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zxe3ffjb",
+    "key": "vdt1s2u",
     "name": "Junel Fe",
     "preventative": true,
     "tier": 0,
@@ -3808,7 +3816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o26tqy4l",
+    "key": "4xgv7d4",
     "name": "Kariva",
     "preventative": true,
     "tier": 0,
@@ -3816,7 +3824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "73w9618t",
+    "key": "6umukck",
     "name": "Kelnor",
     "preventative": true,
     "tier": 0,
@@ -3824,7 +3832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vr6ijleq",
+    "key": "8ie3wsv",
     "name": "Keppra",
     "preventative": true,
     "tier": 3,
@@ -3832,7 +3840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jf47l6n0",
+    "key": "x03rmcs",
     "name": "Keppra Xr",
     "preventative": true,
     "tier": 3,
@@ -3840,7 +3848,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0c9yrajc",
+    "key": "5u56u0o",
     "name": "Ketoconazole Cream 2",
     "preventative": false,
     "tier": 1,
@@ -3848,7 +3856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "w5l78e9v",
+    "key": "r60h61q",
     "name": "Ketoconazole Shampoo 2",
     "preventative": false,
     "tier": 1,
@@ -3856,7 +3864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5ms785y1",
+    "key": "xfetu4k",
     "name": "Khedezla",
     "preventative": true,
     "tier": 3,
@@ -3864,7 +3872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m5dj4jz5",
+    "key": "j4ugowx",
     "name": "Klonopin",
     "preventative": true,
     "tier": 3,
@@ -3872,7 +3880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ns1hqme6",
+    "key": "i9mdvty",
     "name": "Kombiglyze Xr",
     "preventative": true,
     "tier": 3,
@@ -3880,7 +3888,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "44vj0e33",
+    "key": 8476214,
     "name": "Kynamro",
     "preventative": true,
     "tier": 3,
@@ -3888,7 +3896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sh9coqcm",
+    "key": "khinupv",
     "name": "Labetalol",
     "preventative": true,
     "tier": 1,
@@ -3896,7 +3904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c3tn73jj",
+    "key": "qegt6f3",
     "name": "Lamictal",
     "preventative": true,
     "tier": 3,
@@ -3904,7 +3912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4tgrf2b9",
+    "key": "tafujt2",
     "name": "Lamictal Xr",
     "preventative": true,
     "tier": 3,
@@ -3912,7 +3920,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2a14beiw",
+    "key": "qu41rgl",
     "name": "Lamotrigine",
     "preventative": true,
     "tier": 1,
@@ -3920,7 +3928,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o1byp9tp",
+    "key": "cc4vc3u",
     "name": "Lamotrigine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -3928,7 +3936,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rb9vai91",
+    "key": "x9sjbwm",
     "name": "Lansoprazole Dr 15mg",
     "preventative": false,
     "tier": 1,
@@ -3936,7 +3944,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fwv994ou",
+    "key": "ni2d423",
     "name": "Lansoprazole Dr 30mg",
     "preventative": false,
     "tier": 1,
@@ -3944,7 +3952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "htyh71rc",
+    "key": "vv7ai64",
     "name": "Lantus",
     "preventative": true,
     "tier": 3,
@@ -3952,7 +3960,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "r31q7jat",
+    "key": "icaocza",
     "name": "Larin",
     "preventative": true,
     "tier": 2,
@@ -3960,7 +3968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4u5l21td",
+    "key": "j63m8pw",
     "name": "Latuda",
     "preventative": true,
     "tier": 2,
@@ -3968,7 +3976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tz37vrp9",
+    "key": "6ar5iun",
     "name": "Lemtrada",
     "preventative": true,
     "tier": 3,
@@ -3976,7 +3984,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "88vx1r1k",
+    "key": "nuky0wa",
     "name": "Lescol Xl",
     "preventative": true,
     "tier": 3,
@@ -3984,7 +3992,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k46vnz9t",
+    "key": "m7qyypu",
     "name": "Lessina",
     "preventative": true,
     "tier": 0,
@@ -3992,7 +4000,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "n6krezxv",
+    "key": "13xd4d7",
     "name": "Letrozole",
     "preventative": true,
     "tier": 1,
@@ -4000,7 +4008,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m3zhse07",
+    "key": "7u822qz",
     "name": "Levatol",
     "preventative": true,
     "tier": 3,
@@ -4008,7 +4016,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8aqvqqm8",
+    "key": "luy49z6",
     "name": "Levemir",
     "preventative": true,
     "tier": 2,
@@ -4016,7 +4024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l1jt2ks4",
+    "key": "q3b1ls1",
     "name": "Levetiracetam",
     "preventative": true,
     "tier": 1,
@@ -4024,7 +4032,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1xqydbcp",
+    "key": "8h1lp6e",
     "name": "Levetiracetam Extended Release",
     "preventative": true,
     "tier": 1,
@@ -4032,7 +4040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fjjnquov",
+    "key": "iksh1hu",
     "name": "Levocetirizine 5mg",
     "preventative": false,
     "tier": 3,
@@ -4040,7 +4048,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xnoiwdaq",
+    "key": "hiy57tf",
     "name": "Levonorgestrel",
     "preventative": true,
     "tier": 0,
@@ -4048,7 +4056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c032x40a",
+    "key": "3soh4b0",
     "name": "Levora",
     "preventative": true,
     "tier": 0,
@@ -4056,7 +4064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cmgqytdy",
+    "key": "ady3nzm",
     "name": "Levothyroxine 100mcg",
     "preventative": false,
     "tier": 1,
@@ -4064,7 +4072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rp26rolu",
+    "key": "j4i4i16",
     "name": "Levothyroxine 112mcg",
     "preventative": false,
     "tier": 1,
@@ -4072,7 +4080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6iqr9elg",
+    "key": "a1t89hf",
     "name": "Levothyroxine 125mcg",
     "preventative": false,
     "tier": 1,
@@ -4080,7 +4088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ewgie789",
+    "key": "o719jps",
     "name": "Levothyroxine 137mcg",
     "preventative": false,
     "tier": 1,
@@ -4088,7 +4096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "se3niqnz",
+    "key": "qog02y9",
     "name": "Levothyroxine 150mcg",
     "preventative": false,
     "tier": 1,
@@ -4096,7 +4104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vraila02",
+    "key": "4vnjkau",
     "name": "Levothyroxine 175mcg",
     "preventative": false,
     "tier": 1,
@@ -4104,7 +4112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mmyvto5m",
+    "key": "dynfagn",
     "name": "Levothyroxine 200mcg",
     "preventative": false,
     "tier": 1,
@@ -4112,7 +4120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "go3cwuuq",
+    "key": "cijnv0r",
     "name": "Levothyroxine 25mcg",
     "preventative": false,
     "tier": 1,
@@ -4120,7 +4128,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jqy2lcpe",
+    "key": "vwnu0d4",
     "name": "Levothyroxine 50mcg",
     "preventative": false,
     "tier": 1,
@@ -4128,7 +4136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yhbezwel",
+    "key": "zqlz6lr",
     "name": "Levothyroxine 75mcg",
     "preventative": false,
     "tier": 1,
@@ -4136,7 +4144,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gncfrhtk",
+    "key": "5t3ckha",
     "name": "Levothyroxine 88mcg",
     "preventative": false,
     "tier": 1,
@@ -4144,7 +4152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o18znsp1",
+    "key": "ax1kwqs",
     "name": "Lexapro",
     "preventative": true,
     "tier": 1,
@@ -4152,7 +4160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pfyfcwe6",
+    "key": "obb6zbv",
     "name": "Lialda 1 2gm",
     "preventative": false,
     "tier": 2,
@@ -4160,7 +4168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "emj73nni",
+    "key": "ccshfe8",
     "name": "Lidocaine Patch 5",
     "preventative": false,
     "tier": 1,
@@ -4168,7 +4176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xyzu8d4f",
+    "key": "2m73dm5",
     "name": "Lidoderm Patch 5",
     "preventative": false,
     "tier": 1,
@@ -4176,7 +4184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vv2an0p8",
+    "key": "pwb065a",
     "name": "Liletta Iud",
     "preventative": true,
     "tier": 0,
@@ -4184,7 +4192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qlq6qw5a",
+    "key": "itbp51o",
     "name": "Linzess 145mcg",
     "preventative": false,
     "tier": 2,
@@ -4192,7 +4200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "w2n2cons",
+    "key": "eondinl",
     "name": "Liothyronine 5mcg",
     "preventative": false,
     "tier": 3,
@@ -4200,7 +4208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xlrtaczz",
+    "key": "1rg7i2s",
     "name": "Lipitor",
     "preventative": true,
     "tier": 3,
@@ -4208,7 +4216,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "1timl2td",
+    "key": "yxob60l",
     "name": "Lipofen",
     "preventative": true,
     "tier": 3,
@@ -4216,7 +4224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9chfvsx2",
+    "key": "2egkidw",
     "name": "Lisinopril",
     "preventative": true,
     "tier": 1,
@@ -4224,7 +4232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s4tvqbsc",
+    "key": "pm4zrxl",
     "name": "Lisinopril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -4232,7 +4240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x00w3rj1",
+    "key": "ntdzlj3",
     "name": "Lithium 600mg",
     "preventative": false,
     "tier": 1,
@@ -4240,7 +4248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vz6ih6dp",
+    "key": "0g62rx4",
     "name": "Livalo",
     "preventative": true,
     "tier": 3,
@@ -4248,7 +4256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ylf56sft",
+    "key": "0njkq6m",
     "name": "Lo Loestrin Fe",
     "preventative": true,
     "tier": 1,
@@ -4256,7 +4264,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k500cuxt",
+    "key": "xf84cal",
     "name": "Loestrin",
     "preventative": true,
     "tier": 3,
@@ -4264,7 +4272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vw8o693a",
+    "key": "rmdrlt3",
     "name": "Lofibra",
     "preventative": true,
     "tier": 3,
@@ -4272,7 +4280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wlewiqjb",
+    "key": "evs8yr1",
     "name": "Lomaria",
     "preventative": true,
     "tier": 3,
@@ -4280,7 +4288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7c47m0a3",
+    "key": "ehgbcxx",
     "name": "Lopid",
     "preventative": true,
     "tier": 3,
@@ -4288,7 +4296,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zdhdori3",
+    "key": "n5ni8jf",
     "name": "Lopressor",
     "preventative": true,
     "tier": 3,
@@ -4296,7 +4304,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rng822rq",
+    "key": "jy0eivm",
     "name": "Lopressor Hct",
     "preventative": true,
     "tier": 3,
@@ -4304,7 +4312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "seml52g7",
+    "key": "h7326ut",
     "name": "Loprox Shampoo 1",
     "preventative": false,
     "tier": 3,
@@ -4312,7 +4320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5xqu7sp4",
+    "key": "w7e88so",
     "name": "Lorazepam 0 5mg",
     "preventative": false,
     "tier": 1,
@@ -4320,7 +4328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "skyuy1z2",
+    "key": "svqudxt",
     "name": "Lorazepam 1mg",
     "preventative": false,
     "tier": 1,
@@ -4328,7 +4336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1nsetkon",
+    "key": "12e3gn2",
     "name": "Losartan",
     "preventative": true,
     "tier": 1,
@@ -4336,7 +4344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "weob9hoz",
+    "key": "l5kxi4m",
     "name": "Losartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -4344,7 +4352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vlxbzfxh",
+    "key": "sg6my6e",
     "name": "Loseasonique",
     "preventative": true,
     "tier": 3,
@@ -4352,7 +4360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ezgzkdjw",
+    "key": "2cb2r35",
     "name": "Lotemax Opthalmic Solution 0 5",
     "preventative": false,
     "tier": 2,
@@ -4360,7 +4368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jz5a3dmd",
+    "key": "n5tl5hj",
     "name": "Lotensin",
     "preventative": true,
     "tier": 3,
@@ -4368,7 +4376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vlr2vvbh",
+    "key": "20l03vs",
     "name": "Lotensin Hct",
     "preventative": true,
     "tier": 3,
@@ -4376,7 +4384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3t3s8hbi",
+    "key": "s81i6vb",
     "name": "Lotrel",
     "preventative": true,
     "tier": 3,
@@ -4384,7 +4392,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "59isa7fg",
+    "key": "804wkfj",
     "name": "Lovastatin",
     "preventative": true,
     "tier": 1,
@@ -4392,7 +4400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "seaqgu23",
+    "key": "otvs6mt",
     "name": "Lovenox",
     "preventative": true,
     "tier": 3,
@@ -4400,7 +4408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vd2d06yy",
+    "key": "41qzwhr",
     "name": "Low Ogestrel 28",
     "preventative": true,
     "tier": 0,
@@ -4408,7 +4416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l9c31qbl",
+    "key": "62e1txa",
     "name": "Loxapine",
     "preventative": true,
     "tier": 1,
@@ -4416,7 +4424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2ma6kiwt",
+    "key": "2pvt6xx",
     "name": "Lutera",
     "preventative": true,
     "tier": 0,
@@ -4424,7 +4432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l2pndaj3",
+    "key": "pvwz6i0",
     "name": "Lyrica 150mg",
     "preventative": false,
     "tier": 2,
@@ -4432,7 +4440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pmjbg0b8",
+    "key": "sqlxjva",
     "name": "Lyrica 300mg",
     "preventative": false,
     "tier": 2,
@@ -4440,7 +4448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4beljilh",
+    "key": "m0urnbu",
     "name": "Lyrica 75mg",
     "preventative": false,
     "tier": 2,
@@ -4448,7 +4456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kgyjijau",
+    "key": "mmckskl",
     "name": "Malarone",
     "preventative": true,
     "tier": 3,
@@ -4456,7 +4464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "d9xkxc94",
+    "key": "tyvdi5e",
     "name": "Maprotiline",
     "preventative": true,
     "tier": 1,
@@ -4464,7 +4472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6r5slr48",
+    "key": "m8crymb",
     "name": "Marplan",
     "preventative": true,
     "tier": 3,
@@ -4472,7 +4480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "svuv0jc6",
+    "key": "vs53col",
     "name": "Matzim La",
     "preventative": true,
     "tier": 3,
@@ -4480,7 +4488,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "woeqpzpe",
+    "key": "2g1525b",
     "name": "Mavik",
     "preventative": true,
     "tier": 3,
@@ -4488,7 +4496,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kznhfzcx",
+    "key": "nm6yoqy",
     "name": "Maxzide",
     "preventative": true,
     "tier": 3,
@@ -4496,7 +4504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wwtc3wjo",
+    "key": "fwfscjk",
     "name": "Meclizine 12 5mg",
     "preventative": false,
     "tier": 1,
@@ -4504,7 +4512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kvzpmx0j",
+    "key": "syikl30",
     "name": "Meclizine 25mg",
     "preventative": false,
     "tier": 1,
@@ -4512,7 +4520,15 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ng73lji3",
+    "key": "mxylbii",
+    "name": "Medroxyprogesterone Injection",
+    "preventative": true,
+    "tier": 0,
+    "cost": null,
+    "priorauth": false
+  },
+  {
+    "key": "rva814l",
     "name": "Mefloquine",
     "preventative": true,
     "tier": 1,
@@ -4520,7 +4536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k9ibw9zo",
+    "key": "51m1nds",
     "name": "Meloxicam 15mg",
     "preventative": false,
     "tier": 1,
@@ -4528,7 +4544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z60hvl0z",
+    "key": "7cio13j",
     "name": "Mercaptopurine 50mg",
     "preventative": false,
     "tier": 1,
@@ -4536,7 +4552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nfvskz1e",
+    "key": "g0dxbiw",
     "name": "Mesalamine 1 2gm",
     "preventative": false,
     "tier": 1,
@@ -4544,7 +4560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o64n973d",
+    "key": "jzkopjb",
     "name": "Mestranol",
     "preventative": true,
     "tier": 3,
@@ -4552,7 +4568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sdf3idzn",
+    "key": "40mog70",
     "name": "Metaglip",
     "preventative": true,
     "tier": 3,
@@ -4560,7 +4576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hpqpzkcx",
+    "key": "y4gigy1",
     "name": "Metaxolone 800mg",
     "preventative": false,
     "tier": 1,
@@ -4568,7 +4584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xm7l8d2g",
+    "key": "cnupmnp",
     "name": "Metformin",
     "preventative": true,
     "tier": 1,
@@ -4576,7 +4592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "uv1no0ee",
+    "key": "y7aarai",
     "name": "Metformin Extended Release",
     "preventative": true,
     "tier": 1,
@@ -4584,7 +4600,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qrn0hh7t",
+    "key": "l4p3k6r",
     "name": "Methocarbamol 500mg",
     "preventative": false,
     "tier": 1,
@@ -4592,7 +4608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8c7el8hf",
+    "key": "caobfgi",
     "name": "Methotrexate 2 5mg",
     "preventative": false,
     "tier": 1,
@@ -4600,7 +4616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "612r795y",
+    "key": "pblqxkm",
     "name": "Methyclothiazide",
     "preventative": true,
     "tier": 1,
@@ -4608,7 +4624,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "09uyx4pz",
+    "key": "lj0b7tl",
     "name": "Methyldopa",
     "preventative": true,
     "tier": 1,
@@ -4616,7 +4632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "eplez9s8",
+    "key": "88bgzi7",
     "name": "Methyldopa Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -4624,7 +4640,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1lc8vfvc",
+    "key": "s1q78r8",
     "name": "Methylphenidate 10mg",
     "preventative": false,
     "tier": 1,
@@ -4632,7 +4648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s2hem2jx",
+    "key": "mqarium",
     "name": "Methylphenidate 20mg",
     "preventative": false,
     "tier": 1,
@@ -4640,7 +4656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6st74116",
+    "key": "r9vtav5",
     "name": "Methylphenidate 5mg",
     "preventative": false,
     "tier": 1,
@@ -4648,7 +4664,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3gxo1sy3",
+    "key": "155ubhe",
     "name": "Methylphenidate Cd 30mg",
     "preventative": false,
     "tier": 1,
@@ -4656,7 +4672,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jy0i4bxv",
+    "key": "3zr3yfx",
     "name": "Methylphenidate Cd 40mg",
     "preventative": false,
     "tier": 1,
@@ -4664,7 +4680,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "an3sff6d",
+    "key": "wu5bwf9",
     "name": "Methylphenidate Er 10mg",
     "preventative": false,
     "tier": 1,
@@ -4672,7 +4688,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7aighkbr",
+    "key": "2x205n3",
     "name": "Methylphenidate Er 18mg",
     "preventative": false,
     "tier": 1,
@@ -4680,7 +4696,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e8f347p8",
+    "key": "wsjyy0u",
     "name": "Methylphenidate Er 20mg",
     "preventative": false,
     "tier": 1,
@@ -4688,7 +4704,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "drkbuvf4",
+    "key": "s3rtm9x",
     "name": "Methylphenidate Er 27mg",
     "preventative": false,
     "tier": 1,
@@ -4696,7 +4712,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fev35j7p",
+    "key": "g6urs77",
     "name": "Methylphenidate Er 36mg",
     "preventative": false,
     "tier": 1,
@@ -4704,7 +4720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "csph8348",
+    "key": "j1byqrc",
     "name": "Methylphenidate Er 54mg",
     "preventative": false,
     "tier": 1,
@@ -4712,7 +4728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ti4ly1xf",
+    "key": "z2yd9um",
     "name": "Metoclopramide 5mg",
     "preventative": false,
     "tier": 1,
@@ -4720,7 +4736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1b2fh4ae",
+    "key": "gy9lfhf",
     "name": "Metoprolol",
     "preventative": true,
     "tier": 1,
@@ -4728,7 +4744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mczn2vtl",
+    "key": "vxjh44x",
     "name": "Metoprolol Succinate Extended Release",
     "preventative": true,
     "tier": 1,
@@ -4736,7 +4752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "os5atefi",
+    "key": "3zwjit8",
     "name": "Metoprolol Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -4744,7 +4760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1gp16x2z",
+    "key": "969i2rk",
     "name": "Mevacor",
     "preventative": true,
     "tier": 3,
@@ -4752,7 +4768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "skklslhl",
+    "key": "cs1jb1m",
     "name": "Miacalcin Nasal Spray",
     "preventative": true,
     "tier": 3,
@@ -4760,7 +4776,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "y3oisbr9",
+    "key": "mnq98kk",
     "name": "Micardis",
     "preventative": true,
     "tier": 3,
@@ -4768,7 +4784,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zmv5psei",
+    "key": "pn33ljz",
     "name": "Micardis Hct",
     "preventative": true,
     "tier": 3,
@@ -4776,7 +4792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vmjgw93b",
+    "key": "pdjsgkp",
     "name": "Microdot Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -4784,7 +4800,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cvfg4tmw",
+    "key": "uxhlnf5",
     "name": "Microgestin",
     "preventative": true,
     "tier": 0,
@@ -4792,7 +4808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yp5yd5or",
+    "key": "iexb5b3",
     "name": "Microgestin Fe",
     "preventative": true,
     "tier": 0,
@@ -4800,7 +4816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t0wo14nj",
+    "key": "6ymh8iq",
     "name": "Microzide",
     "preventative": true,
     "tier": 3,
@@ -4808,7 +4824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c9setbyr",
+    "key": "l3yzmgd",
     "name": "Midodrine 10mg",
     "preventative": false,
     "tier": 1,
@@ -4816,7 +4832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qt3xilik",
+    "key": "sniui8t",
     "name": "Mifediac Cc",
     "preventative": true,
     "tier": 3,
@@ -4824,7 +4840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4z0yg2vl",
+    "key": "o2n3yp6",
     "name": "Miglitol",
     "preventative": true,
     "tier": 1,
@@ -4832,7 +4848,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0ynh88d2",
+    "key": "vfx8fwg",
     "name": "Minastrin 24 Fe Chewable",
     "preventative": true,
     "tier": 3,
@@ -4840,7 +4856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7ehmzxig",
+    "key": "z0u3ccq",
     "name": "Minitran",
     "preventative": true,
     "tier": 3,
@@ -4848,7 +4864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bwizl6lm",
+    "key": "0zjuayl",
     "name": "Minocycline 100mg",
     "preventative": false,
     "tier": 1,
@@ -4856,7 +4872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0if92ffm",
+    "key": "5pgoo5r",
     "name": "Minocycline 50mg",
     "preventative": false,
     "tier": 1,
@@ -4864,7 +4880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c1sa4s56",
+    "key": "qk12pl4",
     "name": "Minoxidil",
     "preventative": true,
     "tier": 1,
@@ -4872,7 +4888,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "et215g9m",
+    "key": "mfkgklv",
     "name": "Mircette",
     "preventative": true,
     "tier": 3,
@@ -4880,7 +4896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fkfzl4yx",
+    "key": "wykqfdm",
     "name": "Mirena Iud",
     "preventative": true,
     "tier": 0,
@@ -4888,7 +4904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xp47yt49",
+    "key": "1bhs6hi",
     "name": "Mirtazapine",
     "preventative": true,
     "tier": 1,
@@ -4896,7 +4912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "smpib4x5",
+    "key": "oofo6yd",
     "name": "Modafinil 100mg",
     "preventative": false,
     "tier": 1,
@@ -4904,7 +4920,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "agb75v8y",
+    "key": "07ttebq",
     "name": "Modafinil 200mg",
     "preventative": false,
     "tier": 1,
@@ -4912,7 +4928,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lb07at4f",
+    "key": "djbj737",
     "name": "Moexipril",
     "preventative": true,
     "tier": 1,
@@ -4920,7 +4936,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r468vsab",
+    "key": "78qozqo",
     "name": "Moexipril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -4928,7 +4944,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6lvdi4pt",
+    "key": "7ms1bhp",
     "name": "Mometasone Nasal Spray 50mcg",
     "preventative": false,
     "tier": 1,
@@ -4936,7 +4952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pmyf4jmt",
+    "key": "ppranwl",
     "name": "Mono Nessa",
     "preventative": true,
     "tier": 0,
@@ -4944,7 +4960,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3agncbhz",
+    "key": "b9jb08u",
     "name": "Montelukast",
     "preventative": true,
     "tier": 1,
@@ -4952,7 +4968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "clsj59yl",
+    "key": "j2p8lee",
     "name": "Mosamax Plus D",
     "preventative": true,
     "tier": 3,
@@ -4960,7 +4976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yu3bs97n",
+    "key": "o0kpuzg",
     "name": "Moviprep",
     "preventative": true,
     "tier": 2,
@@ -4968,7 +4984,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9atvr831",
+    "key": "pw3usni",
     "name": "Multaq",
     "preventative": true,
     "tier": 3,
@@ -4976,7 +4992,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k2m3hahq",
+    "key": "x3wio6x",
     "name": "Mycophenolate Mofetil",
     "preventative": true,
     "tier": 1,
@@ -4984,7 +5000,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bgpuhr9g",
+    "key": "uwvdcjq",
     "name": "Mycophenolate Sodium Delayed Release",
     "preventative": true,
     "tier": 1,
@@ -4992,7 +5008,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s4aipt8d",
+    "key": "3syniub",
     "name": "Myfortic",
     "preventative": true,
     "tier": 3,
@@ -5000,7 +5016,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l0abmj7a",
+    "key": "dm72ds4",
     "name": "Myrbetriq 25mg",
     "preventative": false,
     "tier": 2,
@@ -5008,7 +5024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ur8l5wqn",
+    "key": "dustd6l",
     "name": "Myrbetriq 50mg",
     "preventative": false,
     "tier": 2,
@@ -5016,7 +5032,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4eqzljrs",
+    "key": "n9hyj7j",
     "name": "Mysoline",
     "preventative": true,
     "tier": 3,
@@ -5024,7 +5040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "daad5v17",
+    "key": "gcwdazb",
     "name": "Nadolol",
     "preventative": true,
     "tier": 1,
@@ -5032,7 +5048,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "imm84sll",
+    "key": "shrviu0",
     "name": "Nadolol Bendroflumethiazide",
     "preventative": true,
     "tier": 1,
@@ -5040,7 +5056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4msku8we",
+    "key": "5vt0c04",
     "name": "Naltrexone",
     "preventative": true,
     "tier": 1,
@@ -5048,7 +5064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jfgtrupd",
+    "key": "l2746fa",
     "name": "Naproxen 250mg",
     "preventative": false,
     "tier": 1,
@@ -5056,7 +5072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "du9122cs",
+    "key": "mbi65h6",
     "name": "Naproxen 500mg",
     "preventative": false,
     "tier": 1,
@@ -5064,7 +5080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lp177h7h",
+    "key": "hezg3di",
     "name": "Nardil",
     "preventative": true,
     "tier": 3,
@@ -5072,7 +5088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "06edb190",
+    "key": "1qfpd6k",
     "name": "Nascobal Nasal Spray 500mcg",
     "preventative": false,
     "tier": 3,
@@ -5080,7 +5096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tkbu0033",
+    "key": "89jatlr",
     "name": "Nasonex Nasal Spray 50mcg",
     "preventative": false,
     "tier": 3,
@@ -5088,7 +5104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wcquevbc",
+    "key": "7z4ei40",
     "name": "Natazia",
     "preventative": true,
     "tier": 0,
@@ -5096,7 +5112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "79l0qwm7",
+    "key": "usgqqyl",
     "name": "Nateglinide",
     "preventative": true,
     "tier": 1,
@@ -5104,7 +5120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q76bhmp9",
+    "key": "ipl9mgd",
     "name": "Nature Thyroid 1 5grain",
     "preventative": false,
     "tier": 3,
@@ -5112,7 +5128,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u6pz11p0",
+    "key": "5chhdjx",
     "name": "Necon",
     "preventative": true,
     "tier": 0,
@@ -5120,7 +5136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0ge7cehz",
+    "key": "kpwi8t1",
     "name": "Necon 7 7 7",
     "preventative": true,
     "tier": 0,
@@ -5128,7 +5144,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lyd6qoc6",
+    "key": "7nxinmn",
     "name": "Neoral",
     "preventative": true,
     "tier": 3,
@@ -5136,7 +5152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vroby7kc",
+    "key": "elqj746",
     "name": "Nesina",
     "preventative": true,
     "tier": 0,
@@ -5144,7 +5160,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "p25cd4z1",
+    "key": "gcn3m2m",
     "name": "Nevanac Opthalmic Suspension 0 1",
     "preventative": false,
     "tier": 3,
@@ -5152,7 +5168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "so8kdc42",
+    "key": "kusbeil",
     "name": "Nexium 40mg",
     "preventative": false,
     "tier": 3,
@@ -5160,7 +5176,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "6uj0a06k",
+    "key": "zldwmf3",
     "name": "Nexplanon",
     "preventative": true,
     "tier": 0,
@@ -5168,7 +5184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pyweehip",
+    "key": "yaen12w",
     "name": "Niacin Extended Release",
     "preventative": true,
     "tier": 1,
@@ -5176,7 +5192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kn510psp",
+    "key": "i6enej7",
     "name": "Niacor",
     "preventative": true,
     "tier": 3,
@@ -5184,7 +5200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7gm6jokr",
+    "key": "b5kyzzg",
     "name": "Niaspan",
     "preventative": true,
     "tier": 3,
@@ -5192,7 +5208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "or953cxn",
+    "key": "1r7wb4j",
     "name": "Nicardipine",
     "preventative": true,
     "tier": 1,
@@ -5200,7 +5216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nqna26b4",
+    "key": "w22norq",
     "name": "Nicoderm Cq",
     "preventative": true,
     "tier": 0,
@@ -5208,7 +5224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "m457xb4p",
+    "key": "62oqj2n",
     "name": "Nicorette Gum",
     "preventative": true,
     "tier": 0,
@@ -5216,7 +5232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7akazvdc",
+    "key": "43a8v20",
     "name": "Nicorette Lozenge",
     "preventative": true,
     "tier": 0,
@@ -5224,7 +5240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dl9xmth5",
+    "key": "uvwdscb",
     "name": "Nicotine Polacrilex Gum",
     "preventative": true,
     "tier": 0,
@@ -5232,7 +5248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pb2eg3o1",
+    "key": "zebjcrk",
     "name": "Nicotine Transdermal Patch",
     "preventative": true,
     "tier": 0,
@@ -5240,7 +5256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ix3gqdpu",
+    "key": "jh276wj",
     "name": "Nicotrol Inhaler",
     "preventative": true,
     "tier": 0,
@@ -5248,7 +5264,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "g19tc8xt",
+    "key": "y9rtdmc",
     "name": "Nicotrol Ns",
     "preventative": true,
     "tier": 0,
@@ -5256,7 +5272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z9398yxg",
+    "key": "wzphz8e",
     "name": "Nifedipine",
     "preventative": true,
     "tier": 1,
@@ -5264,7 +5280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nnututmi",
+    "key": "94p9tqk",
     "name": "Nifedipine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -5272,7 +5288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2lolf7yt",
+    "key": "xmuayrj",
     "name": "Nisoldipine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -5280,7 +5296,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k5zfkct0",
+    "key": "izyfu7g",
     "name": "Nitro Bid",
     "preventative": true,
     "tier": 3,
@@ -5288,7 +5304,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "43371y0g",
+    "key": "h93x5bx",
     "name": "Nitro Dur",
     "preventative": true,
     "tier": 3,
@@ -5296,7 +5312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s7bst0vm",
+    "key": "7v4hc93",
     "name": "Nitroglycerin Transdermal Patch",
     "preventative": true,
     "tier": 1,
@@ -5304,7 +5320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t6pi2jhu",
+    "key": "eiao8x6",
     "name": "Nitrostat Sublingual 0 4mg",
     "preventative": false,
     "tier": 3,
@@ -5312,7 +5328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bktz4q9o",
+    "key": "fn1xald",
     "name": "Nora Be",
     "preventative": true,
     "tier": 0,
@@ -5320,7 +5336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bkv6mttu",
+    "key": "2j9nrbg",
     "name": "Norpace",
     "preventative": true,
     "tier": 3,
@@ -5328,7 +5344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q0qfvuap",
+    "key": "r8peiff",
     "name": "Norpace Cr",
     "preventative": true,
     "tier": 3,
@@ -5336,7 +5352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ic3hgc5r",
+    "key": "woej8kk",
     "name": "Norpramin",
     "preventative": true,
     "tier": 3,
@@ -5344,7 +5360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fokfw940",
+    "key": "41rqzqr",
     "name": "Nortrel",
     "preventative": true,
     "tier": 0,
@@ -5352,7 +5368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zdynamgp",
+    "key": "7s9plyg",
     "name": "Nortrel 7 7 7",
     "preventative": true,
     "tier": 0,
@@ -5360,7 +5376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "03ji4jrq",
+    "key": "5r76kmr",
     "name": "Nortriptyline",
     "preventative": true,
     "tier": 1,
@@ -5368,7 +5384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nynwbqgt",
+    "key": "i2bn2jy",
     "name": "Norvasc",
     "preventative": true,
     "tier": 3,
@@ -5376,7 +5392,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "5v7z7jm3",
+    "key": "d22j526",
     "name": "Nova Max Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -5384,7 +5400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gpwouqtf",
+    "key": "vjucpzo",
     "name": "Novolin",
     "preventative": true,
     "tier": 2,
@@ -5392,7 +5408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "b52bmv2l",
+    "key": "pewrath",
     "name": "Novolog",
     "preventative": true,
     "tier": 2,
@@ -5400,7 +5416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "flcwi6r2",
+    "key": "8nlq0c2",
     "name": "Nucala",
     "preventative": true,
     "tier": 3,
@@ -5408,7 +5424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ow7pwk09",
+    "key": "1cwdddw",
     "name": "Nuedexta 10mg",
     "preventative": false,
     "tier": 3,
@@ -5416,7 +5432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2yelkv8n",
+    "key": "p20leaa",
     "name": "Nulojix",
     "preventative": true,
     "tier": 3,
@@ -5424,7 +5440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o5pjiirv",
+    "key": "k2uhlh4",
     "name": "Nulytely",
     "preventative": true,
     "tier": 3,
@@ -5432,7 +5448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jzc5gskq",
+    "key": "zmguon6",
     "name": "Nuvaring",
     "preventative": true,
     "tier": 0,
@@ -5440,7 +5456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ef3bhvgf",
+    "key": "3tvvet9",
     "name": "Ocella",
     "preventative": true,
     "tier": 0,
@@ -5448,7 +5464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mg3j3w08",
+    "key": "3kg4mj9",
     "name": "Ogestrel",
     "preventative": true,
     "tier": 0,
@@ -5456,7 +5472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zcdi5i5t",
+    "key": "8wr70c5",
     "name": "Olanzapine",
     "preventative": true,
     "tier": 1,
@@ -5464,7 +5480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zcpfc4z0",
+    "key": "b7dp0eg",
     "name": "Olanzapine Orally Disintegrating Tablets",
     "preventative": true,
     "tier": 1,
@@ -5472,7 +5488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1itdazam",
+    "key": "wjpq1qe",
     "name": "Oleptro",
     "preventative": true,
     "tier": 3,
@@ -5480,7 +5496,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "hvv7jqyy",
+    "key": "s60c1o8",
     "name": "Olmesartan",
     "preventative": true,
     "tier": 1,
@@ -5488,7 +5504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u3bbyab9",
+    "key": "79rpm6t",
     "name": "Olmesartan Amlodipine Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -5496,7 +5512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kkhl2hex",
+    "key": "3l0se3i",
     "name": "Olmesartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -5504,7 +5520,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "f6f38y3b",
+    "key": "uu3liw1",
     "name": "Oloptadine Opthalmic Solution 0 1",
     "preventative": false,
     "tier": 1,
@@ -5512,7 +5528,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sxfoyo4z",
+    "key": "kn1jtu7",
     "name": "Omeprazole Dr 10mg",
     "preventative": false,
     "tier": 1,
@@ -5520,7 +5536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nxpo5sm1",
+    "key": "rf1pxuo",
     "name": "Omeprazole Dr 20mg",
     "preventative": false,
     "tier": 1,
@@ -5528,7 +5544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ujesrhbt",
+    "key": "rskou7j",
     "name": "Omeprazole Dr 40mg",
     "preventative": false,
     "tier": 1,
@@ -5536,7 +5552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5iz0bqib",
+    "key": "koeelqi",
     "name": "Omnipod",
     "preventative": true,
     "tier": 2,
@@ -5544,7 +5560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "48c5nmsx",
+    "key": "uhglrv5",
     "name": "Ondansetron 4mg",
     "preventative": false,
     "tier": 1,
@@ -5552,7 +5568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "afkka95n",
+    "key": "hkodmy7",
     "name": "Ondansetron Odt 8mg",
     "preventative": false,
     "tier": 1,
@@ -5560,7 +5576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zxc7v0qy",
+    "key": "45o2gq7",
     "name": "One Touch Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -5568,7 +5584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "90yvfibs",
+    "key": "zj6pkd4",
     "name": "Onfi",
     "preventative": true,
     "tier": 3,
@@ -5576,7 +5592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bmo682z4",
+    "key": "21460kt",
     "name": "Onglyza",
     "preventative": true,
     "tier": 3,
@@ -5584,7 +5600,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "53k5ve6y",
+    "key": "swnrwkk",
     "name": "Optium Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -5592,7 +5608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rzikhzxg",
+    "key": "fwl6vms",
     "name": "Oralair",
     "preventative": true,
     "tier": 3,
@@ -5600,7 +5616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vsfajmm2",
+    "key": "gqz0hds",
     "name": "Ortho Micron Tab",
     "preventative": true,
     "tier": 3,
@@ -5608,7 +5624,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qirusug3",
+    "key": "91gsew6",
     "name": "Ortho Novum",
     "preventative": true,
     "tier": 3,
@@ -5616,7 +5632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "89yixh5k",
+    "key": "93fpz1r",
     "name": "Ortho Tri Cyclen Lo",
     "preventative": true,
     "tier": 3,
@@ -5624,7 +5640,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u3a6dvtb",
+    "key": "h2t39g1",
     "name": "Ortho Tri Cyclin",
     "preventative": true,
     "tier": 3,
@@ -5632,7 +5648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hg620ucs",
+    "key": "42w82rq",
     "name": "Ortho Cyclen",
     "preventative": true,
     "tier": 3,
@@ -5640,7 +5656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yus78u20",
+    "key": "8bk9pic",
     "name": "Oseni",
     "preventative": true,
     "tier": 3,
@@ -5648,7 +5664,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "cx1mv385",
+    "key": "eqppycz",
     "name": "Osmoprep",
     "preventative": true,
     "tier": 3,
@@ -5656,7 +5672,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bc7m4ben",
+    "key": "5l1ulul",
     "name": "Oxcarbazepine",
     "preventative": true,
     "tier": 1,
@@ -5664,7 +5680,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1hv31ak3",
+    "key": "mi13fqu",
     "name": "Oxtellar Xr",
     "preventative": true,
     "tier": 2,
@@ -5672,7 +5688,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3wyfz78y",
+    "key": "ftnyjuz",
     "name": "Oxybutynin 5mg",
     "preventative": false,
     "tier": 1,
@@ -5680,7 +5696,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qudg3q0m",
+    "key": "7liaxz3",
     "name": "Oxybutynin Er 15mg",
     "preventative": false,
     "tier": 1,
@@ -5688,7 +5704,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "v8au4dg6",
+    "key": "fr6rold",
     "name": "Oxybutynin Er 5mg",
     "preventative": false,
     "tier": 1,
@@ -5696,7 +5712,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t04jjrtk",
+    "key": "izjejls",
     "name": "Oxybutynin Syrup 5mg 5m L",
     "preventative": false,
     "tier": 1,
@@ -5704,7 +5720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kv4yqpcv",
+    "key": "i7b65w2",
     "name": "Oxycodone 10mg",
     "preventative": false,
     "tier": 1,
@@ -5712,7 +5728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fpxce9hc",
+    "key": "ps8b2f6",
     "name": "Pacerone",
     "preventative": true,
     "tier": 3,
@@ -5720,7 +5736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k5aqttix",
+    "key": "r0ku0ok",
     "name": "Paliperidone",
     "preventative": true,
     "tier": 1,
@@ -5728,7 +5744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "haje1zfv",
+    "key": "la1pwtb",
     "name": "Pamelor",
     "preventative": true,
     "tier": 3,
@@ -5736,7 +5752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ptcj79nj",
+    "key": "2ntqkck",
     "name": "Pantoprazole Dr 20mg",
     "preventative": false,
     "tier": 1,
@@ -5744,7 +5760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3zltm5c4",
+    "key": "ipzt8nm",
     "name": "Pantoprazole Dr 40mg",
     "preventative": false,
     "tier": 1,
@@ -5752,7 +5768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "itii3qbx",
+    "key": "34yzw1c",
     "name": "Parnate",
     "preventative": true,
     "tier": 3,
@@ -5760,7 +5776,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3137nvgu",
+    "key": "74b7p9w",
     "name": "Paroxetine Hydrochloride",
     "preventative": true,
     "tier": 1,
@@ -5768,7 +5784,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jkpasw6t",
+    "key": "xbnv6fw",
     "name": "Paroxetine Hydrochloride Extended Release",
     "preventative": true,
     "tier": 1,
@@ -5776,7 +5792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e1o1bwjq",
+    "key": "jxgtned",
     "name": "Pataday Opthalmic Solution 0 2",
     "preventative": false,
     "tier": 2,
@@ -5784,7 +5800,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3qwghjyo",
+    "key": "ojho1uv",
     "name": "Patanol Opthalmic Solution 0 1",
     "preventative": false,
     "tier": 3,
@@ -5792,7 +5808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zfqirje6",
+    "key": "o06yn36",
     "name": "Paxil",
     "preventative": true,
     "tier": 3,
@@ -5800,7 +5816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k2z4fg0d",
+    "key": "fuf1ukq",
     "name": "Paxil Cr",
     "preventative": true,
     "tier": 3,
@@ -5808,7 +5824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k3fgbo9z",
+    "key": "lhtwk1c",
     "name": "Pazeo Ophtalmic Solution 0 7",
     "preventative": false,
     "tier": 2,
@@ -5816,7 +5832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "faczecbp",
+    "key": "16d87ck",
     "name": "Pediatric Multivitamins With Fluoride",
     "preventative": true,
     "tier": 1,
@@ -5824,7 +5840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kiv24327",
+    "key": "gk9uszl",
     "name": "Peg 3350 Electrolytes",
     "preventative": true,
     "tier": 1,
@@ -5832,7 +5848,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "58lbtx3c",
+    "key": "3xoyuc4",
     "name": "Peganone",
     "preventative": true,
     "tier": 3,
@@ -5840,7 +5856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "f6mo1se1",
+    "key": "tmqkdxc",
     "name": "Pendolol",
     "preventative": true,
     "tier": 1,
@@ -5848,7 +5864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c9hspua6",
+    "key": "emzjwyt",
     "name": "Perindopril",
     "preventative": true,
     "tier": 1,
@@ -5856,7 +5872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bkfhjgcb",
+    "key": "dxz6lpa",
     "name": "Perphenazine",
     "preventative": true,
     "tier": 1,
@@ -5864,7 +5880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lhkshu4g",
+    "key": "a7prja7",
     "name": "Pexeva",
     "preventative": true,
     "tier": 3,
@@ -5872,7 +5888,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bdytoirb",
+    "key": "eojyi34",
     "name": "Phendimetrazine",
     "preventative": true,
     "tier": 1,
@@ -5880,7 +5896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kbglowi8",
+    "key": "9q10z58",
     "name": "Phendimetrazine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -5888,7 +5904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ugosmnbs",
+    "key": "2jpgt2m",
     "name": "Phenelzine",
     "preventative": true,
     "tier": 1,
@@ -5896,7 +5912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yz7h18e5",
+    "key": "1cwuvej",
     "name": "Phenobarbital",
     "preventative": true,
     "tier": 1,
@@ -5904,7 +5920,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "orjceln4",
+    "key": "ca2ro1u",
     "name": "Phentermine",
     "preventative": true,
     "tier": 1,
@@ -5912,7 +5928,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lkva21vh",
+    "key": "cz64zrr",
     "name": "Phenytek",
     "preventative": true,
     "tier": 3,
@@ -5920,7 +5936,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4qpm2zjl",
+    "key": "o6wx1x7",
     "name": "Phenytoin",
     "preventative": true,
     "tier": 1,
@@ -5928,7 +5944,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l40s1p2d",
+    "key": "1h16sh4",
     "name": "Phenytoin Sodium Extended Release",
     "preventative": true,
     "tier": 1,
@@ -5936,7 +5952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sg8p03yo",
+    "key": "lzie7ae",
     "name": "Pioglitazone",
     "preventative": true,
     "tier": 1,
@@ -5944,7 +5960,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wuddcitp",
+    "key": "47frvtk",
     "name": "Pioglitazone Glimepiride",
     "preventative": true,
     "tier": 1,
@@ -5952,7 +5968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t8o8f1rh",
+    "key": "ybzcvbd",
     "name": "Pioglitazone Metformin",
     "preventative": true,
     "tier": 1,
@@ -5960,7 +5976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xj4ghjk3",
+    "key": "1g3xg15",
     "name": "Plavix",
     "preventative": true,
     "tier": 3,
@@ -5968,7 +5984,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "wi4uzr03",
+    "key": "confq2d",
     "name": "Plegridy",
     "preventative": true,
     "tier": 3,
@@ -5976,7 +5992,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "tc2trwc1",
+    "key": "yh61i2l",
     "name": "Portia",
     "preventative": true,
     "tier": 0,
@@ -5984,7 +6000,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2fnag8if",
+    "key": "mdflqhg",
     "name": "Potassium Chloride Er 10meq",
     "preventative": false,
     "tier": 1,
@@ -5992,7 +6008,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jsw1cy7c",
+    "key": "tg5wnq4",
     "name": "Potassium Chloride Er Micro 20meq",
     "preventative": false,
     "tier": 1,
@@ -6000,7 +6016,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qb6hdjdx",
+    "key": "a2d9ji8",
     "name": "Potiga",
     "preventative": true,
     "tier": 3,
@@ -6008,7 +6024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x2vkczba",
+    "key": "x8ku5xq",
     "name": "Pradaxa",
     "preventative": true,
     "tier": 3,
@@ -6016,7 +6032,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "mxeliltm",
+    "key": "p9j5sgv",
     "name": "Pramipexole 0 25mg",
     "preventative": false,
     "tier": 1,
@@ -6024,7 +6040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "kvsvhwp6",
+    "key": "n0wajxl",
     "name": "Prandin",
     "preventative": true,
     "tier": 3,
@@ -6032,7 +6048,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6xbo8a9c",
+    "key": "xwkp09a",
     "name": "Prasugrel",
     "preventative": true,
     "tier": 1,
@@ -6040,7 +6056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "swurr8dh",
+    "key": "8j7r6uy",
     "name": "Pravachol",
     "preventative": true,
     "tier": 3,
@@ -6048,7 +6064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rzgsh6om",
+    "key": "rqlwiom",
     "name": "Pravastatin",
     "preventative": true,
     "tier": 1,
@@ -6056,7 +6072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1io1rpbg",
+    "key": "2s2ytcy",
     "name": "Prazosin 1mg",
     "preventative": false,
     "tier": 1,
@@ -6064,7 +6080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y6milq49",
+    "key": "pjk1q01",
     "name": "Precision Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -6072,7 +6088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gwds1j0e",
+    "key": "x5osz9c",
     "name": "Precose",
     "preventative": true,
     "tier": 3,
@@ -6080,7 +6096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cqwxau5n",
+    "key": "y5d1ox6",
     "name": "Pred Forte Opthalmic Suspension 1",
     "preventative": false,
     "tier": 3,
@@ -6088,7 +6104,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "o816pfu2",
+    "key": "0hikq9m",
     "name": "Prednisolone Acetate Opthalmic Solution 1",
     "preventative": false,
     "tier": 1,
@@ -6096,7 +6112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k0niemjv",
+    "key": "n5csf9s",
     "name": "Prednisone 10mg",
     "preventative": false,
     "tier": 1,
@@ -6104,7 +6120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zvni2ljv",
+    "key": "4qfzhgs",
     "name": "Prednisone 1mg",
     "preventative": false,
     "tier": 1,
@@ -6112,7 +6128,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rr1msan8",
+    "key": "yv9n26c",
     "name": "Prednisone 20mg",
     "preventative": false,
     "tier": 1,
@@ -6120,7 +6136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fclf5zsn",
+    "key": "hy5gcaf",
     "name": "Prednisone 5mg",
     "preventative": false,
     "tier": 1,
@@ -6128,7 +6144,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "b2pr42h8",
+    "key": "kyc0k3v",
     "name": "Premarin 0 9mg",
     "preventative": false,
     "tier": 2,
@@ -6136,7 +6152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y1g9akap",
+    "key": "2v4h960",
     "name": "Premarin Vaginal Cream 0 625mg",
     "preventative": false,
     "tier": 2,
@@ -6144,7 +6160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6o7wce6e",
+    "key": "llynv98",
     "name": "Prempro 0 65 2 5mg",
     "preventative": false,
     "tier": 2,
@@ -6152,7 +6168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y1m8f149",
+    "key": "naygyxl",
     "name": "Preplus 27 1mg",
     "preventative": false,
     "tier": 3,
@@ -6160,7 +6176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r5ep9uth",
+    "key": "dkomwfo",
     "name": "Prepopik",
     "preventative": true,
     "tier": 3,
@@ -6168,7 +6184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hhbymdla",
+    "key": "ndivb18",
     "name": "Prestalia",
     "preventative": true,
     "tier": 3,
@@ -6176,7 +6192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1efj6i7t",
+    "key": "pzaaj2d",
     "name": "Presto Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -6184,7 +6200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4ey5qf8e",
+    "key": "7yiqn9g",
     "name": "Prevalite",
     "preventative": true,
     "tier": 3,
@@ -6192,7 +6208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z915vvue",
+    "key": "z7cu271",
     "name": "Prevident 5000 Tooth Paste Plus Boost",
     "preventative": false,
     "tier": 3,
@@ -6200,7 +6216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q64o37v9",
+    "key": "ymo54rd",
     "name": "Prevident Sensitive 5000 Tooth Paste",
     "preventative": false,
     "tier": 3,
@@ -6208,7 +6224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l0720kas",
+    "key": "49p2h2q",
     "name": "Primaquine",
     "preventative": true,
     "tier": 3,
@@ -6216,7 +6232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "asq26d62",
+    "key": "hf62nvm",
     "name": "Primidone",
     "preventative": true,
     "tier": 1,
@@ -6224,7 +6240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hum3bm6u",
+    "key": "257c6s5",
     "name": "Pristiq",
     "preventative": true,
     "tier": 2,
@@ -6232,7 +6248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t98o92ca",
+    "key": "rs3g2cx",
     "name": "Pro Air Hfa",
     "preventative": false,
     "tier": 2,
@@ -6240,7 +6256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pnewv3ey",
+    "key": "z3rrvrf",
     "name": "Pro Air Respiclick",
     "preventative": false,
     "tier": 2,
@@ -6248,7 +6264,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dugfdn1o",
+    "key": "c5n6rfg",
     "name": "Probuphene",
     "preventative": true,
     "tier": 3,
@@ -6256,7 +6272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vhdnrlsg",
+    "key": "hrid2cc",
     "name": "Procardia",
     "preventative": true,
     "tier": 3,
@@ -6264,7 +6280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xagof2w4",
+    "key": "d1b3lpn",
     "name": "Procardia Xl",
     "preventative": true,
     "tier": 3,
@@ -6272,7 +6288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "d1lhsa99",
+    "key": "ra9jj6q",
     "name": "Prodigy Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -6280,7 +6296,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "di5mhc47",
+    "key": "6wxuf1m",
     "name": "Prograf",
     "preventative": true,
     "tier": 3,
@@ -6288,7 +6304,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1sxu5grr",
+    "key": "ra4ysza",
     "name": "Prolia",
     "preventative": true,
     "tier": 3,
@@ -6296,7 +6312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bhnjl48q",
+    "key": "ilqjlzg",
     "name": "Promethazine 25mg",
     "preventative": false,
     "tier": 1,
@@ -6304,7 +6320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "go8vyulm",
+    "key": "12dkz1r",
     "name": "Propafenone",
     "preventative": true,
     "tier": 1,
@@ -6312,7 +6328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ldzrn0r4",
+    "key": "t8h7pfk",
     "name": "Propafenone Extended Release",
     "preventative": true,
     "tier": 1,
@@ -6320,7 +6336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e3c6kva3",
+    "key": "eikr10r",
     "name": "Propranolol",
     "preventative": true,
     "tier": 1,
@@ -6328,7 +6344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e34asa3j",
+    "key": "khjlsn8",
     "name": "Propranolol Extended Release",
     "preventative": true,
     "tier": 1,
@@ -6336,7 +6352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "t38nlazu",
+    "key": "7kqw5y6",
     "name": "Propranolol Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -6344,7 +6360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2vptfbiz",
+    "key": "aesabb8",
     "name": "Protopic Ointment 0 03",
     "preventative": false,
     "tier": 3,
@@ -6352,7 +6368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jl9t6knq",
+    "key": "s7q99pv",
     "name": "Protriptyline",
     "preventative": true,
     "tier": 1,
@@ -6360,7 +6376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "94riqeqi",
+    "key": "qfuse40",
     "name": "Prozac",
     "preventative": true,
     "tier": 3,
@@ -6368,7 +6384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "unz821xh",
+    "key": "8tewot0",
     "name": "Pulmicort",
     "preventative": true,
     "tier": 2,
@@ -6376,7 +6392,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c9cj5odz",
+    "key": "ugu0mak",
     "name": "Pulmicort Flexhaler",
     "preventative": true,
     "tier": 2,
@@ -6384,7 +6400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c24mr0nr",
+    "key": "rh1v6u3",
     "name": "Pulmicort Flexhaler 180mcg",
     "preventative": false,
     "tier": 2,
@@ -6392,7 +6408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l0leecgm",
+    "key": "yzxedly",
     "name": "Pulmozyme Solution 1mg 1m L",
     "preventative": false,
     "tier": 3,
@@ -6400,7 +6416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wmevywmt",
+    "key": "2tbzepo",
     "name": "Qbrelis",
     "preventative": true,
     "tier": 3,
@@ -6408,7 +6424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nv88495m",
+    "key": "im94ryi",
     "name": "Qnasl Nasal Spray 80mcg",
     "preventative": false,
     "tier": 3,
@@ -6416,7 +6432,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "f0vqb23s",
+    "key": "0lhxwp2",
     "name": "Qsymia",
     "preventative": true,
     "tier": 3,
@@ -6424,7 +6440,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "fv4rdazn",
+    "key": "1z6dwmr",
     "name": "Quartette",
     "preventative": true,
     "tier": 3,
@@ -6432,7 +6448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l3fae3vu",
+    "key": "mfy2g1e",
     "name": "Quedexy Xr",
     "preventative": true,
     "tier": 2,
@@ -6440,7 +6456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "al6690ix",
+    "key": "zv3ikjj",
     "name": "Questran",
     "preventative": true,
     "tier": 3,
@@ -6448,7 +6464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lm6r9v4n",
+    "key": "8rygf50",
     "name": "Questran Light",
     "preventative": true,
     "tier": 3,
@@ -6456,7 +6472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2z4ze93o",
+    "key": "5amxwlh",
     "name": "Quetiapine",
     "preventative": true,
     "tier": 1,
@@ -6464,7 +6480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wxr8s0np",
+    "key": "9utbkff",
     "name": "Quetiapine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -6472,7 +6488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xzwwh0bg",
+    "key": "qr3lur3",
     "name": "Quinapril",
     "preventative": true,
     "tier": 1,
@@ -6480,7 +6496,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mfczdan6",
+    "key": "ykuqzis",
     "name": "Quinapril Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -6488,7 +6504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "oekhxnsj",
+    "key": "sm44as4",
     "name": "Qvar",
     "preventative": true,
     "tier": 2,
@@ -6496,7 +6512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "p22r9qkn",
+    "key": "bebgczy",
     "name": "Ragwitek",
     "preventative": true,
     "tier": 2,
@@ -6504,7 +6520,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "71zw8e3n",
+    "key": "z5xcd1r",
     "name": "Raloxifene 60mg",
     "preventative": false,
     "tier": 1,
@@ -6512,7 +6528,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0wh99rk9",
+    "key": "qpvtxax",
     "name": "Raloxifine",
     "preventative": true,
     "tier": 1,
@@ -6520,7 +6536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3nfadgf6",
+    "key": "3ydurx9",
     "name": "Ramipril",
     "preventative": true,
     "tier": 1,
@@ -6528,7 +6544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "delptjbu",
+    "key": "fjn6ytf",
     "name": "Ranexa 500mg",
     "preventative": false,
     "tier": 1,
@@ -6536,7 +6552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wtzlyiff",
+    "key": "c6s06p3",
     "name": "Ranitidine 150mg",
     "preventative": false,
     "tier": 1,
@@ -6544,7 +6560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q6k5f4or",
+    "key": "ywtogtq",
     "name": "Ranitidine 300mg",
     "preventative": false,
     "tier": 1,
@@ -6552,7 +6568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qv16fvcz",
+    "key": "qho28ni",
     "name": "Ranitidine Syrup 15mg 1m L",
     "preventative": false,
     "tier": 1,
@@ -6560,7 +6576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e2to0aln",
+    "key": "bol13dd",
     "name": "Rapamune",
     "preventative": true,
     "tier": 3,
@@ -6568,7 +6584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e2ue4r8s",
+    "key": "3w5ypga",
     "name": "Rebif",
     "preventative": true,
     "tier": 2,
@@ -6576,7 +6592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lsdsy7ho",
+    "key": "j3wu6x7",
     "name": "Reclast",
     "preventative": true,
     "tier": 3,
@@ -6584,7 +6600,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4yy1pkvv",
+    "key": "t05h8dg",
     "name": "Reclipsen",
     "preventative": true,
     "tier": 0,
@@ -6592,7 +6608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k1tj4umh",
+    "key": "f8mnkzz",
     "name": "Regimex",
     "preventative": true,
     "tier": 2,
@@ -6600,7 +6616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3n8uxuts",
+    "key": "41dphr3",
     "name": "Relion Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -6608,7 +6624,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8a9pxs39",
+    "key": "3srin6z",
     "name": "Relpax 40mg",
     "preventative": false,
     "tier": 2,
@@ -6616,7 +6632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wjv4atb7",
+    "key": "yp5k0rp",
     "name": "Remeron",
     "preventative": true,
     "tier": 3,
@@ -6624,7 +6640,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "niks7mhv",
+    "key": "uz39qvs",
     "name": "Repaglinide",
     "preventative": true,
     "tier": 1,
@@ -6632,7 +6648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1vkd9gsa",
+    "key": "bo1l89f",
     "name": "Repaglinide Metformin",
     "preventative": true,
     "tier": 1,
@@ -6640,7 +6656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1u6tq59m",
+    "key": "fsfbcuw",
     "name": "Restasis Eye Drops 0 05",
     "preventative": false,
     "tier": 2,
@@ -6648,7 +6664,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "aiyceo49",
+    "key": "8cdcnbv",
     "name": "Rexulti",
     "preventative": true,
     "tier": 3,
@@ -6656,7 +6672,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s6gahz9q",
+    "key": "dc1dc92",
     "name": "Riomet",
     "preventative": true,
     "tier": 3,
@@ -6664,7 +6680,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "lxjncrej",
+    "key": "dc6x4se",
     "name": "Risedronate",
     "preventative": true,
     "tier": 1,
@@ -6672,7 +6688,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3xq3qcg9",
+    "key": "zd1cyqa",
     "name": "Risperdal",
     "preventative": true,
     "tier": 3,
@@ -6680,7 +6696,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dmdyhv9k",
+    "key": "7awll4l",
     "name": "Risperdal Consta",
     "preventative": true,
     "tier": 3,
@@ -6688,7 +6704,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "n20d9ncy",
+    "key": "rodc0gv",
     "name": "Risperidone",
     "preventative": true,
     "tier": 1,
@@ -6696,7 +6712,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x0k0nd2q",
+    "key": "azv0i40",
     "name": "Ritalin La 20mg",
     "preventative": false,
     "tier": 3,
@@ -6704,7 +6720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "79rwuhka",
+    "key": "dzh7ze1",
     "name": "Ritalin La 30mg",
     "preventative": false,
     "tier": 3,
@@ -6712,7 +6728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k9ciaxxy",
+    "key": "q8td9qd",
     "name": "Rizatriptan 10mg",
     "preventative": false,
     "tier": 1,
@@ -6720,7 +6736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "j1wsms6b",
+    "key": "qb6q30q",
     "name": "Ropinirole 0 25mg",
     "preventative": false,
     "tier": 1,
@@ -6728,7 +6744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zavlexja",
+    "key": "2voza8g",
     "name": "Ropinirole 0 5mg",
     "preventative": false,
     "tier": 1,
@@ -6736,7 +6752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gr679hyq",
+    "key": "sordbcf",
     "name": "Ropinirole 1mg",
     "preventative": false,
     "tier": 1,
@@ -6744,7 +6760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6khr09e9",
+    "key": "t05dg3o",
     "name": "Ropinirole 2mg",
     "preventative": false,
     "tier": 1,
@@ -6752,7 +6768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "b7qzyda3",
+    "key": "5cz4nod",
     "name": "Rosuvastatin",
     "preventative": true,
     "tier": 1,
@@ -6760,7 +6776,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q1gofqed",
+    "key": "a064b9p",
     "name": "Roweepra",
     "preventative": true,
     "tier": 3,
@@ -6768,7 +6784,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bdbdk40s",
+    "key": "ok60hb4",
     "name": "Rythmol Sr",
     "preventative": true,
     "tier": 3,
@@ -6776,7 +6792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y4wgd56a",
+    "key": "h65e9ns",
     "name": "Sabril",
     "preventative": true,
     "tier": 3,
@@ -6784,7 +6800,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hbb6rdfr",
+    "key": "5dr3qs3",
     "name": "Sandimmune",
     "preventative": true,
     "tier": 3,
@@ -6792,7 +6808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xxblbrnr",
+    "key": "k1lrhmc",
     "name": "Saphris",
     "preventative": true,
     "tier": 3,
@@ -6800,7 +6816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "42w93vhl",
+    "key": "qgv94cp",
     "name": "Savaysa",
     "preventative": true,
     "tier": 3,
@@ -6808,7 +6824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k0a4t1y8",
+    "key": "zysjhkh",
     "name": "Saxenda",
     "preventative": true,
     "tier": 2,
@@ -6816,7 +6832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ou00hhnr",
+    "key": "4ptkzuh",
     "name": "Seasonique",
     "preventative": true,
     "tier": 3,
@@ -6824,7 +6840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u9r8gfnn",
+    "key": "srcj8ji",
     "name": "Sectral",
     "preventative": true,
     "tier": 3,
@@ -6832,7 +6848,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gyik4tee",
+    "key": "mk5h8rt",
     "name": "Selenium Sulfate Lotion 2 5",
     "preventative": false,
     "tier": 1,
@@ -6840,7 +6856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "in9ltypt",
+    "key": "w59ax7d",
     "name": "Serevent Diskus 50mcg",
     "preventative": false,
     "tier": 2,
@@ -6848,7 +6864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0r6djd2a",
+    "key": "be4c5t5",
     "name": "Seroquel",
     "preventative": true,
     "tier": 3,
@@ -6856,7 +6872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ha49jabc",
+    "key": "9jnqeod",
     "name": "Seroquel Xr",
     "preventative": true,
     "tier": 2,
@@ -6864,7 +6880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jndnn36o",
+    "key": "isa4knw",
     "name": "Sertraline",
     "preventative": true,
     "tier": 1,
@@ -6872,7 +6888,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xmdxfvx8",
+    "key": "yqf1it7",
     "name": "Sf 5000 Plus Dental Cream 1 1",
     "preventative": false,
     "tier": 3,
@@ -6880,7 +6896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "diqjv3uh",
+    "key": "e0fx37z",
     "name": "Silenor 6mg",
     "preventative": false,
     "tier": 2,
@@ -6888,7 +6904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z932dbhb",
+    "key": "hp8ts70",
     "name": "Simvastatin",
     "preventative": true,
     "tier": 1,
@@ -6896,7 +6912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8aw6qah8",
+    "key": "cqnk5wz",
     "name": "Singulair",
     "preventative": true,
     "tier": 3,
@@ -6904,7 +6920,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qbbfkpjf",
+    "key": "hl5jzjc",
     "name": "Sirolimus",
     "preventative": true,
     "tier": 1,
@@ -6912,7 +6928,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0yqzefr0",
+    "key": "2upp68e",
     "name": "Sodium Chloride Nubulizer 0 9",
     "preventative": false,
     "tier": 1,
@@ -6920,7 +6936,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "67dd50uy",
+    "key": "41zkm6g",
     "name": "Sodium Fluoride",
     "preventative": true,
     "tier": 1,
@@ -6928,7 +6944,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8te68ege",
+    "key": "hjf3tah",
     "name": "Soliqua",
     "preventative": true,
     "tier": 3,
@@ -6936,7 +6952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ncjp1tik",
+    "key": "yveiv56",
     "name": "Soltamox",
     "preventative": true,
     "tier": 3,
@@ -6944,7 +6960,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9fcjkj6d",
+    "key": "oa4qa68",
     "name": "Sorine",
     "preventative": true,
     "tier": 3,
@@ -6952,7 +6968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0iflda9j",
+    "key": "knm6nvi",
     "name": "Sotalol",
     "preventative": true,
     "tier": 1,
@@ -6960,7 +6976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4on7h7yz",
+    "key": "ru11o78",
     "name": "Sotalol Af",
     "preventative": true,
     "tier": 1,
@@ -6968,7 +6984,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8jlbxzz9",
+    "key": "kvokbvr",
     "name": "Sotylize",
     "preventative": true,
     "tier": 3,
@@ -6976,7 +6992,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s2tzdzgm",
+    "key": "h2n1avr",
     "name": "Spiriva Respimat",
     "preventative": true,
     "tier": 2,
@@ -6984,7 +7000,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hi9lfovj",
+    "key": "nvh41ht",
     "name": "Spironolactone 25mg",
     "preventative": false,
     "tier": 1,
@@ -6992,7 +7008,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lu9ui5qo",
+    "key": "yttxipg",
     "name": "Spironolactone Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -7000,7 +7016,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "79twdjcg",
+    "key": "6nkyb1p",
     "name": "Sprintec",
     "preventative": true,
     "tier": 0,
@@ -7008,7 +7024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mciiigi8",
+    "key": "4rlptuu",
     "name": "Spritam",
     "preventative": true,
     "tier": 3,
@@ -7016,7 +7032,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ohzt1nm6",
+    "key": "u6oqx9u",
     "name": "Ssd Cream 1",
     "preventative": false,
     "tier": 3,
@@ -7024,7 +7040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mp8phho9",
+    "key": "fh1zmbm",
     "name": "Starlix",
     "preventative": true,
     "tier": 3,
@@ -7032,7 +7048,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1r0e7alf",
+    "key": "zk2fdem",
     "name": "Strattera 10mg",
     "preventative": false,
     "tier": 2,
@@ -7040,7 +7056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9a2q75uu",
+    "key": "975g1sh",
     "name": "Strattera 18mg",
     "preventative": false,
     "tier": 2,
@@ -7048,7 +7064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "73g2ld6z",
+    "key": "shnis76",
     "name": "Strattera 25mg",
     "preventative": false,
     "tier": 2,
@@ -7056,7 +7072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zs7r4usp",
+    "key": "mt723ib",
     "name": "Strattera 80mg",
     "preventative": false,
     "tier": 2,
@@ -7064,7 +7080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yv13jwre",
+    "key": "wdpuzvr",
     "name": "Suboxone Film",
     "preventative": true,
     "tier": 2,
@@ -7072,7 +7088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hzvpknos",
+    "key": "i3rsn5q",
     "name": "Sucralfate 1gm",
     "preventative": false,
     "tier": 1,
@@ -7080,7 +7096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "w2ji5vyu",
+    "key": "akg8n28",
     "name": "Sular",
     "preventative": true,
     "tier": 3,
@@ -7088,7 +7104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9d5etx1n",
+    "key": "g7tgcy2",
     "name": "Sumatriptan 100mg",
     "preventative": false,
     "tier": 1,
@@ -7096,7 +7112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5mkwqqj0",
+    "key": "n3g9if6",
     "name": "Sumatriptan 25mg",
     "preventative": false,
     "tier": 1,
@@ -7104,7 +7120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8d8mlthj",
+    "key": "615ipi4",
     "name": "Sumatriptan 50mg",
     "preventative": false,
     "tier": 1,
@@ -7112,7 +7128,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bmtc1oky",
+    "key": "lgg60il",
     "name": "Sumatriptan Injection 6mg 0 5m L",
     "preventative": false,
     "tier": 1,
@@ -7120,7 +7136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ekn1r1x7",
+    "key": "ywevcrp",
     "name": "Sumatriptan Spray 20mg",
     "preventative": false,
     "tier": 1,
@@ -7128,7 +7144,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3q3auvlf",
+    "key": "m1xehgf",
     "name": "Suprep",
     "preventative": true,
     "tier": 2,
@@ -7136,7 +7152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qakcolv6",
+    "key": "dub1fk4",
     "name": "Surmontil",
     "preventative": true,
     "tier": 3,
@@ -7144,7 +7160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2zb4gkov",
+    "key": "0uw7j4z",
     "name": "Symbicort",
     "preventative": true,
     "tier": 3,
@@ -7152,7 +7168,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "4535avh0",
+    "key": "7okua6j",
     "name": "Symelin Pen",
     "preventative": true,
     "tier": 2,
@@ -7160,7 +7176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "as8v9ox9",
+    "key": "ur09aje",
     "name": "Synagis",
     "preventative": true,
     "tier": 3,
@@ -7168,7 +7184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wmlacl1m",
+    "key": "sabq1hr",
     "name": "Synjardy",
     "preventative": true,
     "tier": 3,
@@ -7176,7 +7192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "fugaelwc",
+    "key": "o2ddwmj",
     "name": "Synthroid 100mcg",
     "preventative": false,
     "tier": 1,
@@ -7184,7 +7200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "es5ljt0o",
+    "key": "96s92yd",
     "name": "Synthroid 125mcg",
     "preventative": false,
     "tier": 1,
@@ -7192,7 +7208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "igatxj3w",
+    "key": "h2pwndk",
     "name": "Synthroid 137mcg",
     "preventative": false,
     "tier": 1,
@@ -7200,7 +7216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ajg2lzol",
+    "key": "lavsn7v",
     "name": "Synthroid 150mcg",
     "preventative": false,
     "tier": 1,
@@ -7208,7 +7224,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5n9x5w1k",
+    "key": "3yfv7ye",
     "name": "Synthroid 175mcg",
     "preventative": false,
     "tier": 1,
@@ -7216,7 +7232,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "u7py9u2v",
+    "key": "fpgx8ks",
     "name": "Synthroid 200mcg",
     "preventative": false,
     "tier": 1,
@@ -7224,7 +7240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rjq7soq3",
+    "key": "i9qi0tp",
     "name": "Synthroid 75mcg",
     "preventative": false,
     "tier": 1,
@@ -7232,7 +7248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gk4mwrci",
+    "key": "yaouoiz",
     "name": "Synthroid 88mcg",
     "preventative": false,
     "tier": 1,
@@ -7240,7 +7256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "94ptgze9",
+    "key": "z4vlaau",
     "name": "Tacrolimus",
     "preventative": true,
     "tier": 1,
@@ -7248,7 +7264,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ldsigza9",
+    "key": "trprc15",
     "name": "Tamoxifen",
     "preventative": true,
     "tier": 1,
@@ -7256,7 +7272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jq87b3e3",
+    "key": "ecq1734",
     "name": "Tamsulosin 0 4mg",
     "preventative": false,
     "tier": 1,
@@ -7264,7 +7280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "gnhha3y4",
+    "key": "ccocw5p",
     "name": "Tanzeum",
     "preventative": true,
     "tier": 3,
@@ -7272,7 +7288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mw6jjj6i",
+    "key": "15baw80",
     "name": "Tapazole 5mg",
     "preventative": false,
     "tier": 1,
@@ -7280,7 +7296,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "pfu012rn",
+    "key": "8vvtpcy",
     "name": "Tarka",
     "preventative": true,
     "tier": 3,
@@ -7288,7 +7304,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hadmnebp",
+    "key": "yjzif0w",
     "name": "Taztia Xt",
     "preventative": true,
     "tier": 3,
@@ -7296,7 +7312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jya7rwod",
+    "key": "fd1bpmo",
     "name": "Tecfidera",
     "preventative": true,
     "tier": 2,
@@ -7304,7 +7320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7efizhfr",
+    "key": "k5tjvyu",
     "name": "Tegretol",
     "preventative": true,
     "tier": 3,
@@ -7312,7 +7328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bhtg7fj4",
+    "key": "zosy76q",
     "name": "Tegretol Xr",
     "preventative": true,
     "tier": 3,
@@ -7320,7 +7336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z0ztggcn",
+    "key": "y5fd91z",
     "name": "Tekturna",
     "preventative": true,
     "tier": 2,
@@ -7328,7 +7344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mj3j5j8o",
+    "key": "m7pwer5",
     "name": "Tekturna Hct",
     "preventative": true,
     "tier": 2,
@@ -7336,7 +7352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tdyrp0k6",
+    "key": "t7l44h4",
     "name": "Telmisartan",
     "preventative": true,
     "tier": 1,
@@ -7344,7 +7360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "iv3p6ne1",
+    "key": "pne36j7",
     "name": "Telmisartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -7352,7 +7368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "76rre7uj",
+    "key": "qrvb6im",
     "name": "Tenex",
     "preventative": true,
     "tier": 3,
@@ -7360,7 +7376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5ep91zgq",
+    "key": "j35rox1",
     "name": "Tenoretic",
     "preventative": true,
     "tier": 3,
@@ -7368,7 +7384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wnxtc6ad",
+    "key": "tkefo2i",
     "name": "Tenormin",
     "preventative": true,
     "tier": 3,
@@ -7376,7 +7392,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "e7u39n7q",
+    "key": "n90wn1j",
     "name": "Terbinafine 250mg",
     "preventative": false,
     "tier": 1,
@@ -7384,7 +7400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2t1h3sxo",
+    "key": "6qjj92j",
     "name": "Thioridazine",
     "preventative": true,
     "tier": 1,
@@ -7392,7 +7408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o998i7q6",
+    "key": "nw105vs",
     "name": "Thiothixene",
     "preventative": true,
     "tier": 1,
@@ -7400,7 +7416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tdmqphmc",
+    "key": "xgrnya2",
     "name": "Tiagabine",
     "preventative": true,
     "tier": 1,
@@ -7408,7 +7424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "c70inej1",
+    "key": "l8jtsm1",
     "name": "Tiazac",
     "preventative": true,
     "tier": 3,
@@ -7416,7 +7432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qn9cw8mi",
+    "key": "05rbloe",
     "name": "Tikosyn",
     "preventative": true,
     "tier": 3,
@@ -7424,7 +7440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xh7xjlzu",
+    "key": "0ix22fl",
     "name": "Timolol Maleate",
     "preventative": true,
     "tier": 1,
@@ -7432,7 +7448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "khfs0ka7",
+    "key": "t1yqywb",
     "name": "Tizanidine 2mg",
     "preventative": false,
     "tier": 1,
@@ -7440,7 +7456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5l93i690",
+    "key": "fh42hxe",
     "name": "Tizanidine 4mg",
     "preventative": false,
     "tier": 1,
@@ -7448,7 +7464,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "04ow2vlx",
+    "key": "02cl2un",
     "name": "Tofranil",
     "preventative": true,
     "tier": 3,
@@ -7456,7 +7472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "l4fgpdw8",
+    "key": "iv3wfsk",
     "name": "Tolbutamide",
     "preventative": true,
     "tier": 1,
@@ -7464,7 +7480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wj32x47p",
+    "key": "wsoft16",
     "name": "Tolterodine Er 2mg",
     "preventative": false,
     "tier": 1,
@@ -7472,7 +7488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xg9igktf",
+    "key": "arg3qih",
     "name": "Topamax",
     "preventative": true,
     "tier": 3,
@@ -7480,7 +7496,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ieb71c21",
+    "key": "r6usk2m",
     "name": "Topiramate",
     "preventative": true,
     "tier": 1,
@@ -7488,7 +7504,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9doevj56",
+    "key": "86tjp2x",
     "name": "Topiramate Extended Release",
     "preventative": true,
     "tier": 1,
@@ -7496,7 +7512,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "uot5gyfl",
+    "key": "n14sgfi",
     "name": "Toprol Xl",
     "preventative": true,
     "tier": 3,
@@ -7504,7 +7520,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "evix6095",
+    "key": "q157p3x",
     "name": "Toujeo",
     "preventative": true,
     "tier": 3,
@@ -7512,7 +7528,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "dx9w8jo0",
+    "key": "1lydbzk",
     "name": "Toviaz 4mg",
     "preventative": false,
     "tier": 2,
@@ -7520,7 +7536,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bb6hbkwh",
+    "key": "2fvcmee",
     "name": "Toviaz 8mg",
     "preventative": false,
     "tier": 2,
@@ -7528,7 +7544,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bkwcguiq",
+    "key": "92h70zt",
     "name": "Tradjenta",
     "preventative": true,
     "tier": 2,
@@ -7536,7 +7552,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4grynl3d",
+    "key": "93viq8n",
     "name": "Tramadol 50mg",
     "preventative": false,
     "tier": 1,
@@ -7544,7 +7560,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1n938nf3",
+    "key": "i3snw82",
     "name": "Trandate",
     "preventative": true,
     "tier": 3,
@@ -7552,7 +7568,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "iyjkhxcg",
+    "key": "nv72x0b",
     "name": "Trandolapril",
     "preventative": true,
     "tier": 1,
@@ -7560,7 +7576,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ogkjpenl",
+    "key": "7z9zkya",
     "name": "Trandolapril Verapamil Extended Release",
     "preventative": true,
     "tier": 1,
@@ -7568,7 +7584,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "krtlfpsh",
+    "key": "q3xz5gv",
     "name": "Tranylcypromine",
     "preventative": true,
     "tier": 1,
@@ -7576,7 +7592,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zxx76pmp",
+    "key": "hiizztl",
     "name": "Travatan Z Opthalmic Solution 0 004",
     "preventative": false,
     "tier": 2,
@@ -7584,7 +7600,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "h6iarl3n",
+    "key": "0zwl4kv",
     "name": "Travoprost Opthalmic Drops 0 004",
     "preventative": false,
     "tier": 1,
@@ -7592,7 +7608,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "93wqzp0r",
+    "key": "t23c8gc",
     "name": "Trazodone",
     "preventative": true,
     "tier": 1,
@@ -7600,7 +7616,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9wydmi4s",
+    "key": "n3pvwnn",
     "name": "Tresiba",
     "preventative": true,
     "tier": 2,
@@ -7608,7 +7624,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "by02d4py",
+    "key": "st9zkhe",
     "name": "Tretinoin Cream 0 025",
     "preventative": false,
     "tier": 1,
@@ -7616,7 +7632,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ipmvjgwx",
+    "key": "hcbqy1m",
     "name": "Tretinoin Gel 0 04",
     "preventative": false,
     "tier": 1,
@@ -7624,7 +7640,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tgtbkk1b",
+    "key": "0iflh6t",
     "name": "Tretinoin Gel 0 1",
     "preventative": false,
     "tier": 1,
@@ -7632,7 +7648,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1px0lfnq",
+    "key": "808agu5",
     "name": "Triamcinolone Cream 0 1",
     "preventative": false,
     "tier": 1,
@@ -7640,7 +7656,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yqvsc5z4",
+    "key": "kw0h8gh",
     "name": "Triamcinolone Dental Paste 0 1",
     "preventative": false,
     "tier": 1,
@@ -7648,7 +7664,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "33m6mnp8",
+    "key": "b9q3ttl",
     "name": "Triamcinolone Lotion 0 1",
     "preventative": false,
     "tier": 1,
@@ -7656,7 +7672,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o0pv4ux5",
+    "key": "1kzcqhr",
     "name": "Triamcinolone Ointment 0 1",
     "preventative": false,
     "tier": 1,
@@ -7664,7 +7680,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "v3v68wab",
+    "key": "tk8bhdz",
     "name": "Triamcinolone Ointment 0 5",
     "preventative": false,
     "tier": 1,
@@ -7672,7 +7688,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0jnz0niu",
+    "key": "qxs4uzz",
     "name": "Triamterene Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -7680,7 +7696,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jgp9ocqx",
+    "key": "1zm6esb",
     "name": "Tribenzor",
     "preventative": true,
     "tier": 2,
@@ -7688,7 +7704,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "16lmgy9f",
+    "key": "jpxr0py",
     "name": "Tricor",
     "preventative": true,
     "tier": 3,
@@ -7696,7 +7712,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "blq9fuxz",
+    "key": "jbitdl1",
     "name": "Trifluoperazine",
     "preventative": true,
     "tier": 1,
@@ -7704,7 +7720,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k8b9vfx2",
+    "key": "lw6j2am",
     "name": "Triglide",
     "preventative": true,
     "tier": 3,
@@ -7712,7 +7728,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9bmg1ktq",
+    "key": "slv7iax",
     "name": "Trileptal",
     "preventative": true,
     "tier": 3,
@@ -7720,7 +7736,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5d5agahp",
+    "key": "0i2l22y",
     "name": "Trilipix",
     "preventative": true,
     "tier": 3,
@@ -7728,7 +7744,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mk3vnxpy",
+    "key": "s84v2c6",
     "name": "Trimipramine",
     "preventative": true,
     "tier": 1,
@@ -7736,7 +7752,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s3gd7khe",
+    "key": "ad87vcq",
     "name": "Tri Nessa",
     "preventative": true,
     "tier": 0,
@@ -7744,7 +7760,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1ztaxjel",
+    "key": "509fu8z",
     "name": "Tri Norinyl",
     "preventative": true,
     "tier": 3,
@@ -7752,7 +7768,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "k8ey7s6f",
+    "key": "fds5msc",
     "name": "Trintellix",
     "preventative": true,
     "tier": 2,
@@ -7760,7 +7776,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xvmb24nv",
+    "key": "0j5thgk",
     "name": "Tri Sprintec",
     "preventative": true,
     "tier": 0,
@@ -7768,7 +7784,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "am9kvmsd",
+    "key": "1mhvb0l",
     "name": "Trivora",
     "preventative": true,
     "tier": 0,
@@ -7776,7 +7792,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "h5c5hlpv",
+    "key": "xme1iyy",
     "name": "Trokendi Xr",
     "preventative": true,
     "tier": 2,
@@ -7784,7 +7800,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "14qgcbpi",
+    "key": "5e7heyr",
     "name": "True Blood Glucose Testing Supplies",
     "preventative": true,
     "tier": 2,
@@ -7792,7 +7808,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jhxa53fc",
+    "key": "4dvdzx2",
     "name": "Trulicity",
     "preventative": true,
     "tier": 2,
@@ -7800,7 +7816,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "5kjymh1d",
+    "key": "6zlsh0r",
     "name": "Truvada 200 300mg",
     "preventative": true,
     "tier": 2,
@@ -7808,7 +7824,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "iw4qngpp",
+    "key": "1o6n8il",
     "name": "Twynsta",
     "preventative": true,
     "tier": 3,
@@ -7816,7 +7832,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3j6s5gnl",
+    "key": "tnkn2ls",
     "name": "Tysabri",
     "preventative": true,
     "tier": 3,
@@ -7824,7 +7840,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xutcf6cu",
+    "key": "kd1p4b9",
     "name": "Ursodiol 300mg",
     "preventative": false,
     "tier": 3,
@@ -7832,7 +7848,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "dkzxo2x0",
+    "key": "8ri4q8v",
     "name": "Vagifem 10mcg",
     "preventative": false,
     "tier": 2,
@@ -7840,7 +7856,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "sex2n7p0",
+    "key": "v8yzhvf",
     "name": "Valacyclovir 1gm",
     "preventative": false,
     "tier": 1,
@@ -7848,7 +7864,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "y9q7ietz",
+    "key": "cfkidtj",
     "name": "Valacyclovir 500mg",
     "preventative": false,
     "tier": 1,
@@ -7856,7 +7872,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "bssws882",
+    "key": "thuweri",
     "name": "Valproic Acid",
     "preventative": true,
     "tier": 1,
@@ -7864,7 +7880,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ytwwofm7",
+    "key": "4jts67i",
     "name": "Valsartan",
     "preventative": true,
     "tier": 1,
@@ -7872,7 +7888,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2n8gg92f",
+    "key": "7f74mwq",
     "name": "Valsartan Hydrochlorothiazide",
     "preventative": true,
     "tier": 1,
@@ -7880,7 +7896,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2i5whasf",
+    "key": "vbrdohe",
     "name": "Vaseretic",
     "preventative": true,
     "tier": 3,
@@ -7888,7 +7904,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "p8kv2z47",
+    "key": "ar0i5fh",
     "name": "Vasotec",
     "preventative": true,
     "tier": 3,
@@ -7896,7 +7912,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wsvot733",
+    "key": "ubc8in5",
     "name": "Velivet",
     "preventative": true,
     "tier": 0,
@@ -7904,7 +7920,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lys7jz38",
+    "key": "yjb37x3",
     "name": "Venlafaxine",
     "preventative": true,
     "tier": 1,
@@ -7912,7 +7928,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "hjbnupry",
+    "key": "dprikbm",
     "name": "Venlafaxine Extended Release",
     "preventative": true,
     "tier": 1,
@@ -7920,7 +7936,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "4l20sbk1",
+    "key": "0ykvdmn",
     "name": "Ventolin Hfa",
     "preventative": false,
     "tier": 3,
@@ -7928,7 +7944,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "5krkjo61",
+    "key": "doadsmr",
     "name": "Veramyst Nasal Spray 27 5mcg",
     "preventative": false,
     "tier": 3,
@@ -7936,7 +7952,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4zbo30kd",
+    "key": "0peomsq",
     "name": "Verapamil",
     "preventative": true,
     "tier": 1,
@@ -7944,7 +7960,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "53dzbvt0",
+    "key": "vgw39p9",
     "name": "Verapamil Extended Release",
     "preventative": true,
     "tier": 1,
@@ -7952,7 +7968,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "lqb88fk2",
+    "key": "9r0llxj",
     "name": "Verelan",
     "preventative": true,
     "tier": 3,
@@ -7960,7 +7976,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "99p138qx",
+    "key": "qdbeoek",
     "name": "Verelan Pm",
     "preventative": true,
     "tier": 3,
@@ -7968,7 +7984,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zgmwpcxr",
+    "key": "0yt4cl0",
     "name": "Versacloz",
     "preventative": true,
     "tier": 3,
@@ -7976,7 +7992,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9agvojx5",
+    "key": "oquue6n",
     "name": "Vesicare 10mg",
     "preventative": false,
     "tier": 2,
@@ -7984,7 +8000,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "504hzmtp",
+    "key": "ro9adur",
     "name": "Vesicare 5mg",
     "preventative": false,
     "tier": 2,
@@ -7992,7 +8008,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "8x6g06p5",
+    "key": "a4epn5y",
     "name": "Viagra 100mg",
     "preventative": false,
     "tier": 3,
@@ -8000,7 +8016,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "aczwkh60",
+    "key": "5q4hx10",
     "name": "Victoza",
     "preventative": true,
     "tier": 2,
@@ -8008,7 +8024,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "orh3uyt1",
+    "key": "s2ffpwl",
     "name": "Vigabatrin",
     "preventative": true,
     "tier": 1,
@@ -8016,7 +8032,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vs3zated",
+    "key": "a10hh9h",
     "name": "Viibryd",
     "preventative": true,
     "tier": 2,
@@ -8024,7 +8040,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tr2qed3b",
+    "key": "1mwojiw",
     "name": "Vimpat",
     "preventative": true,
     "tier": 2,
@@ -8032,7 +8048,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6p4s2tr2",
+    "key": "fsmya5n",
     "name": "Vitamin D2 50000 Units",
     "preventative": false,
     "tier": 1,
@@ -8040,7 +8056,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "i7wa7629",
+    "key": "kj8dsck",
     "name": "Voltaren Gel 1",
     "preventative": false,
     "tier": 2,
@@ -8048,7 +8064,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3idx3qu8",
+    "key": "5qln9gv",
     "name": "Vraylar",
     "preventative": true,
     "tier": 3,
@@ -8056,7 +8072,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "3v4kqqkb",
+    "key": "fywu14n",
     "name": "Vsl 3",
     "preventative": false,
     "tier": 3,
@@ -8064,7 +8080,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jogzst0n",
+    "key": "o62or78",
     "name": "Vytorin",
     "preventative": true,
     "tier": 2,
@@ -8072,7 +8088,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zbtt1xc2",
+    "key": "w0nyeyt",
     "name": "Vyvanse 10mg",
     "preventative": false,
     "tier": 2,
@@ -8080,7 +8096,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "x0j9fu4l",
+    "key": "uw18o6k",
     "name": "Vyvanse 20mg",
     "preventative": false,
     "tier": 2,
@@ -8088,7 +8104,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "huk839w4",
+    "key": "ozl5m74",
     "name": "Vyvanse 30mg",
     "preventative": false,
     "tier": 2,
@@ -8096,7 +8112,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7irjzn9n",
+    "key": "nlal11h",
     "name": "Vyvanse 40mg",
     "preventative": false,
     "tier": 2,
@@ -8104,7 +8120,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "rp8ufweg",
+    "key": "1x0n577",
     "name": "Vyvanse 50mg",
     "preventative": false,
     "tier": 2,
@@ -8112,7 +8128,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xmy0kwdn",
+    "key": "n7n6cda",
     "name": "Vyvanse 60mg",
     "preventative": false,
     "tier": 2,
@@ -8120,7 +8136,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o5urm79q",
+    "key": "2wheprl",
     "name": "Vyvanse 70mg",
     "preventative": false,
     "tier": 2,
@@ -8128,7 +8144,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "1kwoxn6x",
+    "key": "s6xlc2h",
     "name": "Warfarin",
     "preventative": true,
     "tier": 1,
@@ -8136,7 +8152,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ua31j751",
+    "key": "c04hqf0",
     "name": "Welchol",
     "preventative": true,
     "tier": 2,
@@ -8144,7 +8160,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "zrturwml",
+    "key": "qe9ztq6",
     "name": "Wellbutrin Sr",
     "preventative": true,
     "tier": 3,
@@ -8152,7 +8168,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "7tm24su1",
+    "key": "w2r2pvm",
     "name": "Wellbutrin Xl",
     "preventative": true,
     "tier": 3,
@@ -8160,7 +8176,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9uzp4uc2",
+    "key": "3b9jhpo",
     "name": "Xarelto",
     "preventative": true,
     "tier": 2,
@@ -8168,7 +8184,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yqy2iw97",
+    "key": "t9dy6hu",
     "name": "Xenical",
     "preventative": true,
     "tier": 3,
@@ -8176,7 +8192,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "idbut59h",
+    "key": "gjv5hg5",
     "name": "Xigduo Xr",
     "preventative": true,
     "tier": 2,
@@ -8184,7 +8200,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "j6pnmyew",
+    "key": "djvp29m",
     "name": "Xiidra Opthalmic Solution 5",
     "preventative": false,
     "tier": 2,
@@ -8192,7 +8208,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "jky0o7uk",
+    "key": "37d5zkf",
     "name": "Xolair",
     "preventative": true,
     "tier": 3,
@@ -8200,7 +8216,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "nzgaixc2",
+    "key": "q05qgn6",
     "name": "Xopenex Hfa",
     "preventative": false,
     "tier": 3,
@@ -8208,7 +8224,15 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "6macji4j",
+    "key": "h9gypz2",
+    "name": "Xulane",
+    "preventative": true,
+    "tier": 0,
+    "cost": null,
+    "priorauth": false
+  },
+  {
+    "key": "1agfskk",
     "name": "Yasmin",
     "preventative": true,
     "tier": 3,
@@ -8216,7 +8240,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q7d67did",
+    "key": "gxpv1ge",
     "name": "Yaz",
     "preventative": true,
     "tier": 3,
@@ -8224,7 +8248,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "d0foxvrp",
+    "key": "la587uy",
     "name": "Yosprala",
     "preventative": true,
     "tier": 3,
@@ -8232,7 +8256,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "drt9lzzp",
+    "key": "sy642ki",
     "name": "Yuvafem Vaginal Tablets 10mcg",
     "preventative": false,
     "tier": 3,
@@ -8240,7 +8264,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r7jx4gel",
+    "key": "ulo4esv",
     "name": "Zafirlukast",
     "preventative": true,
     "tier": 1,
@@ -8248,7 +8272,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0oyoegxh",
+    "key": "22hkhnj",
     "name": "Zarontin",
     "preventative": true,
     "tier": 3,
@@ -8256,7 +8280,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "2r8pufw0",
+    "key": "agqxka6",
     "name": "Zebeta",
     "preventative": true,
     "tier": 3,
@@ -8264,7 +8288,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "icvu9g3g",
+    "key": "mrx4tjp",
     "name": "Zestoretic",
     "preventative": true,
     "tier": 3,
@@ -8272,7 +8296,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "cbgfowv9",
+    "key": "sml6xwa",
     "name": "Zestril",
     "preventative": true,
     "tier": 3,
@@ -8280,7 +8304,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "19mwwyq3",
+    "key": "n4adc5l",
     "name": "Zetia",
     "preventative": true,
     "tier": 2,
@@ -8288,7 +8312,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "o5ru2193",
+    "key": "n4ydhpq",
     "name": "Ziac",
     "preventative": true,
     "tier": 3,
@@ -8296,7 +8320,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "h8vvpoy4",
+    "key": "5csyga8",
     "name": "Zileuton Extended Release",
     "preventative": true,
     "tier": 1,
@@ -8304,7 +8328,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "377265rt",
+    "key": "08xiuaw",
     "name": "Zinbryta",
     "preventative": true,
     "tier": 3,
@@ -8312,7 +8336,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wx3c545k",
+    "key": "vxgnbam",
     "name": "Ziprasidone",
     "preventative": true,
     "tier": 1,
@@ -8320,7 +8344,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "s7nxjn93",
+    "key": "wu51q8j",
     "name": "Zocor",
     "preventative": true,
     "tier": 3,
@@ -8328,7 +8352,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "vqy0vywx",
+    "key": "kf6cgdi",
     "name": "Zoledronic Acid",
     "preventative": true,
     "tier": 1,
@@ -8336,7 +8360,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "q4obfk1z",
+    "key": "9zy0z3e",
     "name": "Zolmitriptan 2 5mg",
     "preventative": false,
     "tier": 1,
@@ -8344,7 +8368,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wtel13jy",
+    "key": "5nze1lp",
     "name": "Zoloft",
     "preventative": true,
     "tier": 3,
@@ -8352,7 +8376,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "qpemohqp",
+    "key": "bu1i8rs",
     "name": "Zolpidem 10mg",
     "preventative": false,
     "tier": 1,
@@ -8360,7 +8384,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "mu3leb88",
+    "key": "ag4f2td",
     "name": "Zolpidem 5mg",
     "preventative": false,
     "tier": 1,
@@ -8368,7 +8392,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "0tq0npsw",
+    "key": "r8p26l0",
     "name": "Zolpidem Er 12 5mg",
     "preventative": false,
     "tier": 1,
@@ -8376,7 +8400,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "wzqffaz",
+    "key": "yjqwjkh",
     "name": "Zolpidem Er 6 25mg",
     "preventative": false,
     "tier": 1,
@@ -8384,7 +8408,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "yv5hv0n",
+    "key": "4rb6hn4",
     "name": "Zomig Nasal Spray 2 5mcg",
     "preventative": false,
     "tier": 2,
@@ -8392,7 +8416,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "ue0grcs",
+    "key": "s6dveq8",
     "name": "Zonegran",
     "preventative": true,
     "tier": 3,
@@ -8400,7 +8424,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "r92cj5u",
+    "key": "08wsegv",
     "name": "Zonisamide",
     "preventative": true,
     "tier": 1,
@@ -8408,7 +8432,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "6k3aab9",
+    "key": "w18zrpi",
     "name": "Zonitivity",
     "preventative": true,
     "tier": 3,
@@ -8416,7 +8440,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "9cyjoe6",
+    "key": "f3zq9fq",
     "name": "Zortress",
     "preventative": true,
     "tier": 3,
@@ -8424,7 +8448,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "tcqd4wk",
+    "key": "vz1z1h6",
     "name": "Zovia",
     "preventative": true,
     "tier": 0,
@@ -8432,7 +8456,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "4s8u9pv",
+    "key": "dks568o",
     "name": "Zubsolv",
     "preventative": true,
     "tier": 3,
@@ -8440,7 +8464,7 @@ const DrugList = [
     "priorauth": true
   },
   {
-    "key": "jvzrysf",
+    "key": "i1fx6an",
     "name": "Zyban",
     "preventative": true,
     "tier": 3,
@@ -8448,7 +8472,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "z4ap5sl",
+    "key": "q24cnjx",
     "name": "Zyflo",
     "preventative": true,
     "tier": 3,
@@ -8456,7 +8480,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "xjlfyw9",
+    "key": "3towqui",
     "name": "Zyflo Cr",
     "preventative": true,
     "tier": 3,
@@ -8464,7 +8488,7 @@ const DrugList = [
     "priorauth": false
   },
   {
-    "key": "blk6ve7",
+    "key": "ygwff8c",
     "name": "Zyprexa",
     "preventative": true,
     "tier": 3,
