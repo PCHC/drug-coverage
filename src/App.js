@@ -42,6 +42,9 @@ class App extends Component {
         <p className="lead">
           This tool is only available on the PCHC computer network. Please visit when at a PCHC workstation.
         </p>
+        <p>
+          If you think this is in error, <a href="mailto:cviolette@pchc.com">contact Chris Violette</a>.
+        </p>
         <Footer />
       </div>
     )
