@@ -16,8 +16,7 @@ export default class DrugSearch extends React.Component {
 
   matchDrugToTerm(drug, value) {
     return (
-      drug.name.toLowerCase().indexOf(value.toLowerCase()) !== -1 ||
-      drug.key.toLowerCase().indexOf(value.toLowerCase()) !== -1
+      drug.name.toLowerCase().indexOf(value.toLowerCase()) !== -1
     )
   }
 
