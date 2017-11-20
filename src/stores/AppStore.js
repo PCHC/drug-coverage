@@ -28,8 +28,10 @@ class AppStore extends EventEmitter {
       '72.45.183.107',
       '96.61.69.202',
       '66.186.180.200',
-      '142.0.109.36',
-      '70.20.51.202',
+      '142.0.109.36', // Belfast (dtatic) - FQDN: PCHCBelfast.ddns.cyberoam.com
+      '70.20.51.202', // Jackman (dynamic) - FQDN: PCHCJackman.ddns.cyberoam.com
+      '74.78.78.14', // Winterport (dynamic) - FQDN: PCHCWinterport.ddns.cyberoam.com
+      '66.186.163.88', // Clubhouse (static)
       '127.0.0.1'
     ];
 
